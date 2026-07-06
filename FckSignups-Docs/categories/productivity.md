@@ -1,0 +1,29 @@
+# ⚡ Productivity
+
+> Get things done without creating accounts
+
+**Tools:** 17
+
+[<- Back to Categories](../README.md#categories)
+
+---
+
+| # | Tool | Description | License | Stars |
+|---|------|-------------|---------|-------|
+| 1 | [CryptPad](https://cryptpad.fr) :star: | Collaborative office suite, end-to-end encrypted and open-source. | AGPL-3.0 | 7,746 |
+| 2 | [Grist](https://docs.getgrist.com) :star: | Modern relational spreadsheet. It combines the flexibility of a spreadsheet with the robustness of a database | Apache-2.0 | 11,188 |
+| 3 | [EtherCalc](https://ethercalc.net/) | Spreadsheet for real-time collaborative editing | CPAL-1.0 | 3,032 |
+| 4 | [Resume Nation](https://resume-nation.github.io) | Progressive resume builder which works offline | MIT | 151 |
+| 5 | [WebLLM](https://webllm.mlc.ai/) :star: | High-performance In-browser LLM Inference Engine | Apache-2.0 | 18,270 |
+| 6 | [dSheets](https://dsheets.new/) | dsheets.new is alternative to google sheets & excel. | AGPL-3.0 | 70 |
+| 7 | [Stirling-PDF](https://stirling.com/app) | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere | MIT | 84,263 |
+| 8 | [QuickRetro](https://quickretro.app/) | Real-time app for conducting a remote sprint retrospective meeting | AGPL-3.0 | 38 |
+| 9 | [MiroTalk P2P](https://p2p.mirotalk.com/) | WebRTC video conferencing platform built on peer-to-peer (P2P) architecture for fast, secure real-time communication with end-to-end privacy | AGPL-3.0 | 4,605 |
+| 10 | [flowchart.fun](https://flowchart.fun/) | Easily generate flowcharts and diagrams from text | MIT | 3,359 |
+| 11 | [BentoPDF](https://www.bentopdf.com/) | Powerful, privacy-first, client-side PDF toolkit that is self hostable and allows you to manipulate, edit, merge, and process PDF files | AGPL-3.0 | 13,874 |
+| 12 | [Tomodoro](https://lazy-guy.github.io/tomodoro/) | A pomodoro web app with PIP mode, white noise generation, tasks and more! | MIT | 302 |
+| 13 | [Sipp Chat](https://chat.sipp.sh/) | AI inference, packed simply. A blazing-fast, zero-dependency WebGPU runtime to run GGUF models directly in the browser | Apache-2.0 | 34 |
+| 14 | [DoHabit](https://dohabit.app/) | Lightweight, local-first habit tracker designed to respect your privacy | AGPL-3.0 | 51 |
+| 15 | [ASCIIFlow](https://asciiflow.com/) | An application for drawing ASCII diagrams | MIT | 5,771 |
+| 16 | [Mermify](https://tra-sco.github.io/mermify/) | Bi-directional visual editor for Mermaid.js flowcharts | MIT | 5 |
+| 17 | [Tailit](https://tailit.xyz/) | An interactive resume builder with templates. Paste a job link and AI rewrites your resume to match | MIT | 13 |
