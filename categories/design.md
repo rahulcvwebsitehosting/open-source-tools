@@ -2,7 +2,7 @@
 
 > Create visuals right in your browser
 
-**Tools:** 35
+**Tools:** 37
 
 [<- Back to Directory](README.md#categories)
 
@@ -45,3 +45,5 @@
 | 33 | [MakeGirlsMoe](https://make.girls.moe) | Create Anime Characters | CC BY-NC 2.0 | 3,408 |
 | 34 | [Glyphr Studio](https://www.glyphrstudio.com/) | Font editor, made for hobbyists and typeface design beginners | ? | 296 |
 | 35 | [DrawShare](https://shravangoswami.com/DrawShare/) | collaborative whiteboard for drawing and note-taking | MIT | 3 |
+| 36 | [miniPaint](https://viliusle.github.io/miniPaint/) | Online image editor with layers, filters, and drawing tools — all client-side via HTML5 Canvas | MIT | 3,377 |
+| 37 | [vue-fabric-editor](https://ikuaitu.github.io/vue-fabric-editor/) | Open-source image editor based on fabric.js and Vue. Custom fonts, templates, and design elements for quick graphic creation | MIT | 7,907 |

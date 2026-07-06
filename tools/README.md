@@ -1,6 +1,6 @@
 # All Tools
 
-Complete list of all 176 tools.
+Complete list of all 183 tools.
 
 [<- Back to Directory](README.md)
 
@@ -184,3 +184,10 @@ Complete list of all 176 tools.
 | 174 | [Tailit](https://tailit.xyz/) | Productivity | An interactive resume builder with templates. Paste a job link and AI rewrites your resume to match | [Link](https://tailit.xyz/) | [GitHub](https://github.com/sardorml/tailit) | MIT | 13 |
 | 175 | [WebNav](https://github.com/rahulcvwebsitehosting/WebNav) | Productivity | A Chrome extension for AI-powered web automation | [Link](https://github.com/rahulcvwebsitehosting/WebNav) | [GitHub](https://github.com/rahulcvwebsitehosting/WebNav) | ? | - |
 | 176 | [AutoReels AI](https://github.com/rahulcvwebsitehosting/AutoReels-Ai) | Media | Generate fully edited AI short videos from a topic | [Link](https://github.com/rahulcvwebsitehosting/AutoReels-Ai) | [GitHub](https://github.com/rahulcvwebsitehosting/AutoReels-Ai) | ? | - |
+| 177 | [miniPaint](https://viliusle.github.io/miniPaint/) | Design & Graphics | Online image editor with layers, filters, and drawing tools — all client-side via HTML5 Canvas | [Link](https://viliusle.github.io/miniPaint/) | [GitHub](https://github.com/viliusle/miniPaint) | MIT | 3,377 |
+| 178 | [WBO (Whitebophir)](https://wbo.ophir.dev/) | Productivity | Online collaborative whiteboard that is simple, free, and easy to use. Real-time drawing and diagramming with WebRTC peer-to-peer sync | [Link](https://wbo.ophir.dev/) | [GitHub](https://github.com/lovasoa/whitebophir) | AGPL-3.0 | 2,617 |
+| 179 | [markmap](https://markmap.js.org/repl) | Productivity | Build mindmaps with plain text. Transform Markdown into interactive mindmaps directly in the browser | [Link](https://markmap.js.org/repl) | [GitHub](https://github.com/markmap/markmap) | MIT | 12,929 |
+| 180 | [BrowseryTools](https://browserytools.com) | Utilities | 136+ free browser-based tools for productivity and developers. 100% client-side with no servers, no uploads, full privacy | [Link](https://browserytools.com) | [GitHub](https://github.com/aghyad97/browserytools) | AGPL-3.0 | 617 |
+| 181 | [OpenReel Video](https://openreel.video) | Media | Professional browser-based video editor. 100% browser-based, no installation, no cloud uploads, no watermarks | [Link](https://openreel.video) | [GitHub](https://github.com/Augani/openreel-video) | MIT | 3,740 |
+| 182 | [vue-fabric-editor](https://ikuaitu.github.io/vue-fabric-editor/) | Design & Graphics | Open-source image editor based on fabric.js and Vue. Custom fonts, templates, and design elements for quick graphic creation | [Link](https://ikuaitu.github.io/vue-fabric-editor/) | [GitHub](https://github.com/ikuaitu/vue-fabric-editor) | MIT | 7,907 |
+| 183 | [OpenScience](https://www.openscience.sh/) | Education | The open-source AI workbench for scientific research. Runs as a workspace in your browser, model-agnostic, no account required | [Link](https://www.openscience.sh/) | [GitHub](https://github.com/synthetic-sciences/openscience) | Apache-2.0 | 645 |

@@ -2,7 +2,7 @@
 
 > Get things done without creating accounts
 
-**Tools:** 18
+**Tools:** 20
 
 [<- Back to Directory](README.md#categories)
 
@@ -28,3 +28,5 @@
 | 16 | [Mermify](https://tra-sco.github.io/mermify/) | Bi-directional visual editor for Mermaid.js flowcharts | MIT | 5 |
 | 17 | [Tailit](https://tailit.xyz/) | An interactive resume builder with templates. Paste a job link and AI rewrites your resume to match | MIT | 13 |
 | 18 | [WebNav](https://github.com/rahulcvwebsitehosting/WebNav) | A Chrome extension for AI-powered web automation | ? | - |
+| 19 | [WBO (Whitebophir)](https://wbo.ophir.dev/) | Online collaborative whiteboard that is simple, free, and easy to use. Real-time drawing and diagramming with WebRTC peer-to-peer sync | AGPL-3.0 | 2,617 |
+| 20 | [markmap](https://markmap.js.org/repl) | Build mindmaps with plain text. Transform Markdown into interactive mindmaps directly in the browser | MIT | 12,929 |

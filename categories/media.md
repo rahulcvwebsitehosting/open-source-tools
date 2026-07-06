@@ -2,7 +2,7 @@
 
 > Edit and create media in-browser
 
-**Tools:** 17
+**Tools:** 18
 
 [<- Back to Directory](README.md#categories)
 
@@ -27,3 +27,4 @@
 | 15 | [Compress](https://videocompress.prolab.sh/) | Say goodbye to bulky files! Crush video sizes by 90% with no quality loss, even offline | MIT | 352 |
 | 16 | [Midee](https://midee.app/) | Play, visualize, learn, and export your MIDI music as gorgeous piano-roll videos, entirely client-side with zero uploads. | ? | 22 |
 | 17 | [AutoReels AI](https://github.com/rahulcvwebsitehosting/AutoReels-Ai) | Generate fully edited AI short videos from a topic | ? | - |
+| 18 | [OpenReel Video](https://openreel.video) | Professional browser-based video editor. 100% browser-based, no installation, no cloud uploads, no watermarks | MIT | 3,740 |

@@ -2,7 +2,7 @@
 
 > Handy one-off tools for everyday tasks
 
-**Tools:** 26
+**Tools:** 27
 
 [<- Back to Directory](README.md#categories)
 
@@ -36,3 +36,4 @@
 | 24 | [Oscilloscope Online V2](https://mumarshahbaz.github.io/Oscilloscope-Online-V2/setup.html) | Web Serial Plotter with as much customization as possible | ? | 13 |
 | 25 | [Webtor.io](https://webtor.io/) | seamless torrent streaming and file sharing | MIT | 61 |
 | 26 | [zkdrop](https://zkdrop.org) | Secure, temporary, and minimal file sharing with zero-knowledge encryption | AGPL-3.0 | 2 |
+| 27 | [BrowseryTools](https://browserytools.com) | 136+ free browser-based tools for productivity and developers. 100% client-side with no servers, no uploads, full privacy | AGPL-3.0 | 617 |
