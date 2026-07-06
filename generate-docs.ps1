@@ -69,6 +69,7 @@ $lines += ''
 $lines += '## Table of Contents'
 $lines += ''
 $lines += '- [Overview](#overview)'
+$lines += '- [How to Search](#how-to-search)'
 $lines += '- [Statistics](#statistics)'
 $lines += '- [Categories](#categories)'
 $lines += '- [All Tools](#all-tools)'
@@ -89,6 +90,16 @@ $lines += '- **Modals (JavaScript-triggered, no separate URLs):**'
 $lines += '  - **Submit a Tool** - Form to submit a new tool for inclusion'
 $lines += '  - **Report a Tool** - Form to report an issue with an existing tool'
 $lines += '  - **Suggest a Tool** - Form to suggest a new tool to be built'
+$lines += ''
+$lines += '---'
+$lines += ''
+$lines += '## How to Search'
+$lines += ''
+$lines += 'This is a static Markdown directory. To find specific tools quickly:'
+$lines += ''
+$lines += '- **On GitHub:** Press `t` to activate the file finder, or use `Ctrl+K` / `Cmd+K` for the command palette'
+$lines += '- **In your browser:** Use `Ctrl+F` / `Cmd+F` to search within this page'
+$lines += '- **Browse by category:** Click a category name in the table below to see related tools'
 $lines += ''
 $lines += '---'
 $lines += ''
@@ -120,16 +131,14 @@ foreach ($c in $categories) {
 }
 
 $lines += ''
-$lines += '[Browse all categories ->](./categories/)'
-$lines += ''
 $lines += '---'
 $lines += ''
 $lines += '## All Tools'
 $lines += ''
-$lines += "Below is the complete list of all $toolCount tools in this directory."
+$lines += "Below is the complete list of all $toolCount tools. Click a tool name to open its website. GitHub links are included under the Stars column where available."
 $lines += ''
-$lines += '| # | Tool | Category | Description | License | Stars |'
-$lines += '|---|------|----------|-------------|---------|-------|'
+$lines += '| # | Tool | Category | Description | License | Stars & GitHub |'
+$lines += '|---|------|----------|-------------|---------|----------------|'
 
 $i = 1
 foreach ($t in $tools) {
@@ -141,12 +150,13 @@ foreach ($t in $tools) {
     $name = $t.name
     $desc = $t.description
     $url = $t.url
-    $lines += "| $i | [$name]($url)$feat | $catName | $desc | $lic | $starStr |"
+    $gh = if ($t.github) { "<br>[$($t.github)]($($t.github))" } else { '' }
+    $lines += "| $i | [$name]($url)$feat | $catName | $desc | $lic | $starStr$gh |"
     $i++
 }
 
 $lines += ''
-$lines += '[Full tools listing ->](./tools/)'
+$lines += '[Full tools listing with GitHub column ->](./tools/)'
 $lines += ''
 $lines += '---'
 $lines += ''
@@ -254,7 +264,7 @@ if (-not (Test-Path "$OutputDir\tools")) { New-Item -ItemType Directory -Path "$
 $lines = @()
 $lines += '# All Tools'
 $lines += ''
-$lines += "Complete list of all $toolCount tools in this directory."
+$lines += "Complete list of all $toolCount tools."
 $lines += ''
 $lines += '[<- Back to Directory](README.md)'
 $lines += ''

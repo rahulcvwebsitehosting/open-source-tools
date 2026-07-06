@@ -1,6 +1,6 @@
 # All Tools
 
-Complete list of all 174 tools in this directory.
+Complete list of all 174 tools.
 
 [<- Back to Directory](README.md)
 
