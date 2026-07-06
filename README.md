@@ -13,7 +13,6 @@
 - [All Tools](#all-tools)
 - [External URLs](#external-urls)
 - [GitHub Repositories](#github-repositories)
-- [Resources & References](#resources--references)
 
 ---
 
@@ -621,10 +620,6 @@ All open-source repositories linked from tool entries.
 | 174 | [https://github.com/zedxihan/zkdrop](https://github.com/zedxihan/zkdrop) | AGPL-3.0 | zkdrop |
 
 [Full GitHub listing ->](./github/)
-
----
-
-## Resources & References
 
 ---
 
