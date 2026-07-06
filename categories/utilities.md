@@ -1,10 +1,10 @@
-# 🛠️ Utilities
+﻿# ðŸ› ï¸ Utilities
 
 > Handy one-off tools for everyday tasks
 
 **Tools:** 26
 
-[<- Back to Categories](../README.md#categories)
+[<- Back to Categories](README.md#categories)
 
 ---
 

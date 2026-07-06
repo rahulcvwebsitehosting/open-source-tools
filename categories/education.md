@@ -1,10 +1,10 @@
-# 🎓 Education
+﻿# ðŸŽ“ Education
 
 > Learn and study without creating accounts
 
 **Tools:** 2
 
-[<- Back to Categories](../README.md#categories)
+[<- Back to Categories](README.md#categories)
 
 ---
 

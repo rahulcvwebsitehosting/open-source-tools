@@ -1,10 +1,10 @@
-# 🎨 Design & Graphics
+﻿# ðŸŽ¨ Design & Graphics
 
 > Create visuals right in your browser
 
 **Tools:** 35
 
-[<- Back to Categories](../README.md#categories)
+[<- Back to Categories](README.md#categories)
 
 ---
 
@@ -15,7 +15,7 @@
 | 3 | [SVG-Edit](https://svgedit.netlify.app/index.html) | Powerful SVG-Editor for your browser | MIT | 7,693 |
 | 4 | [Method Draw](https://editor.method.ac) | Simple and easy-to-use SVG editor experience | MIT | 3,000 |
 | 5 | [Piskel](https://www.piskelapp.com) | Easy-to-use sprite editor. It can be used to create game sprites, animations, and pixel-art | Apache-2.0 | 12,587 |
-| 6 | [JSPaint](https://jspaint.app) :star: | 🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras | MIT | 7,805 |
+| 6 | [JSPaint](https://jspaint.app) :star: | ðŸŽ¨ Classic MS Paint, ï¼²ï¼¥ï¼¶ï¼©ï¼¶ï¼¥ï¼¤ + âœ¨Extras | MIT | 7,805 |
 | 7 | [PixelCraft](https://pixelcraft.web.app) | A pixel Art & Animation Creation Tool Built using HTML5 Canvas | MIT | 1,486 |
 | 8 | [draw.io](https://www.drawio.com/) | A configurable browser-based diagramming and whiteboarding tool for flowcharts, UML, network diagrams, ER diagrams, BPMN, and more. | Apache-2.0 | 6,355 |
 | 9 | [Pixelorama](https://orama-interactive.itch.io/pixelorama) | Create pixel art in your browser | MIT | 9,780 |

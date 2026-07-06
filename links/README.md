@@ -1,8 +1,8 @@
-# All External URLs
+﻿# All External URLs
 
 Every external URL referenced on FckSignups.
 
-[<- Back to README](../README.md)
+[<- Back to README](README.md)
 
 ---
 
@@ -153,7 +153,7 @@ Every external URL referenced on FckSignups.
 | 143 | [https://toolsforimage.com/](https://toolsforimage.com/) | Tool Website | ToolsForImage |
 | 144 | [https://transform.tools/](https://transform.tools/) | Tool Website | Transform |
 | 145 | [https://tra-sco.github.io/mermify/](https://tra-sco.github.io/mermify/) | Tool Website | Mermify |
-| 146 | [https://universalresume.app/?s=g](https://universalresume.app/?s=g) | Tool Website | Universal Résumé Template |
+| 146 | [https://universalresume.app/?s=g](https://universalresume.app/?s=g) | Tool Website | Universal RÃ©sumÃ© Template |
 | 147 | [https://vecto3d.app/](https://vecto3d.app/) | Tool Website | Vecto3d |
 | 148 | [https://vert.sh/](https://vert.sh/) | Tool Website | VERT |
 | 149 | [https://videocompress.prolab.sh/](https://videocompress.prolab.sh/) | Tool Website | Compress |

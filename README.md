@@ -1,9 +1,9 @@
-# FckSignups Documentation
+# Open-Source Browser Tools Directory
 
 > A curated collection of open-source tools you can use instantly in your browser - no accounts, no emails, no tracking. Just tools that work.
 
-**Website:** [https://fcksignups.com/](https://fcksignups.com/)
-**GitHub:** [https://github.com/BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups)
+**Source Website:** [fcksignups.com](https://fcksignups.com/)
+**Original Repository:** [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups)
 
 ---
 
@@ -21,9 +21,9 @@
 
 ## Overview
 
-FckSignups is a curated directory of tools that respect your time. No signups, no spam, no dark patterns. Every tool listed is free, open-source, and usable directly in your browser without creating an account.
+This directory catalogs open-source web-based tools that respect your privacy. No signups, no spam, no dark patterns. Every tool listed is free, open-source, and usable directly in your browser without creating an account.
 
-The site is built as a single-page application (React + Vite + TypeScript) and loads tool data from a hosted JSON file with a fallback embedded dataset.
+The original source site ([fcksignups.com](https://fcksignups.com/)) is built as a single-page application (React + Vite + TypeScript) and loads tool data from a hosted JSON file with a fallback embedded dataset.
 
 ### Site Structure
 
@@ -67,7 +67,7 @@ The site is built as a single-page application (React + Vite + TypeScript) and l
 
 ## All Tools
 
-Below is the complete list of all 174 tools indexed on FckSignups.
+Below is the complete list of all 174 tools in this directory.
 
 | # | Tool | Category | Description | License | Stars |
 |---|------|----------|-------------|---------|-------|
@@ -639,4 +639,4 @@ All open-source repositories linked from tool entries.
 
 ---
 
-*Generated documentation from [FckSignups](https://fcksignups.com/)* | *Last updated: 2026-07-06*
+*Documentation sourced from [fcksignups.com](https://fcksignups.com/)* | *Last updated: 2026-07-06*
