@@ -2,7 +2,7 @@
 
 > Handy one-off tools for everyday tasks
 
-**Tools:** 29
+**Tools:** 30
 
 [<- Back to Directory](README.md#categories)
 
@@ -39,3 +39,4 @@
 | 27 | [BrowseryTools](https://browserytools.com) | 136+ free browser-based tools for productivity and developers. 100% client-side with no servers, no uploads, full privacy | AGPL-3.0 | 617 |
 | 28 | [PDFSlice](https://pdfslice.vercel.app) | Client-side PDF editor toolkit — merge, split, annotate PDFs locally in your browser with no uploads | MIT | 185 |
 | 29 | [Extract2MD](https://hashangit.github.io/Extract2MD/) | Extract text from PDFs and convert to Markdown using AI — all client-side in your browser | MIT | 109 |
+| 30 | [PDF Tools](https://pdf-tools-cv.vercel.app/) | 100+ browser-based utilities for PDF, images, text, development, calculations, and more. Everything runs locally — files never leave your device | MIT | - |

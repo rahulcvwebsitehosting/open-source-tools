@@ -2,7 +2,7 @@
 
 > Learn and study without creating accounts
 
-**Tools:** 6
+**Tools:** 7
 
 [<- Back to Directory](README.md#categories)
 
@@ -16,3 +16,4 @@
 | 4 | [Insect](https://insect.sh) | High precision scientific calculator with support for physical units — works entirely in your browser | MIT | 3,167 |
 | 5 | [literature-clock](https://literature-clock.jenevoldsen.com) | A clock that tells time using quotes from literature — fully client-side, no server needed | MIT | 715 |
 | 6 | [DFA Draw](https://vgarciasc.github.io/dfa-draw/) | Web tool for drawing deterministic finite automata — great for computer science education | None | 18 |
+| 7 | [GREnius](https://grenius.vercel.app) | GRE prep platform with vocabulary, quantitative reasoning, chess engine, memory palace games, and cognitive mini-games — all in your browser | None | - |

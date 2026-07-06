@@ -1,6 +1,6 @@
 # All Tools
 
-Complete list of all 213 tools.
+Complete list of all 215 tools.
 
 [<- Back to Directory](README.md)
 
@@ -221,3 +221,5 @@ Complete list of all 213 tools.
 | 211 | [SSHToolkit](https://sshtoolkit.com) | Privacy & Security | Complete SSH toolkit in the browser: generate keys, harden servers, configure clients, and build tunnels — 100% client-side | [Link](https://sshtoolkit.com) | [GitHub](https://github.com/luizomf/sshtoolkit) | MIT | 9 |
 | 212 | [exifree](https://arnon-shub.github.io/exifree/) | Privacy & Security | Strip photo metadata (EXIF, location, camera info) losslessly in the browser — zero upload, zero server | [Link](https://arnon-shub.github.io/exifree/) | [GitHub](https://github.com/arnon-shub/exifree) | MIT | 4 |
 | 213 | [Color Palette Generator](https://abdulrdeveloper.github.io/Color-Palette-Generator/) | Design & Graphics | Generate and customize appealing color palettes for designers and developers — entirely in your browser | [Link](https://abdulrdeveloper.github.io/Color-Palette-Generator/) | [GitHub](https://github.com/abdulrdeveloper/Color-Palette-Generator) | MIT | 8 |
+| 214 | [PDF Tools](https://pdf-tools-cv.vercel.app/) | Utilities | 100+ browser-based utilities for PDF, images, text, development, calculations, and more. Everything runs locally — files never leave your device | [Link](https://pdf-tools-cv.vercel.app/) | [GitHub](https://github.com/rahulcvwebsitehosting/pdf-tools) | MIT | - |
+| 215 | [GREnius](https://grenius.vercel.app) | Education | GRE prep platform with vocabulary, quantitative reasoning, chess engine, memory palace games, and cognitive mini-games — all in your browser | [Link](https://grenius.vercel.app) | [GitHub](https://github.com/rahulcvwebsitehosting/GREnius) | None | - |

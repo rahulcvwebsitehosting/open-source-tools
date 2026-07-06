@@ -156,68 +156,70 @@ All open-source GitHub repositories linked from tool entries.
 | 146 | [https://github.com/pshycodr/phosphor-cam](https://github.com/pshycodr/phosphor-cam) | MIT | Phosphor-Cam |
 | 147 | [https://github.com/qsniyg/maxurl](https://github.com/qsniyg/maxurl) | Apache-2.0 | Image Max URL |
 | 148 | [https://github.com/rahulcvwebsitehosting/AutoReels-Ai](https://github.com/rahulcvwebsitehosting/AutoReels-Ai) | Various | AutoReels AI |
-| 149 | [https://github.com/rahulcvwebsitehosting/WebNav](https://github.com/rahulcvwebsitehosting/WebNav) | Various | WebNav |
-| 150 | [https://github.com/rakibulsagor/Clearcanvas](https://github.com/rakibulsagor/Clearcanvas) | MIT | ClearCanvas AI |
-| 151 | [https://github.com/rawgraphs/rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app) | Apache-2.0 | RAWGraphs |
-| 152 | [https://github.com/raycast/ray-so](https://github.com/raycast/ray-so) | MIT | Icon Maker |
-| 153 | [https://github.com/ReactorcoreGames/Image-to-UnicodeASCII-Generator/tree/main](https://github.com/ReactorcoreGames/Image-to-UnicodeASCII-Generator/tree/main) | Various | Image to UnicodeASCII Generator |
-| 154 | [https://github.com/Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon) | RIL-1.0 | Remix Icons |
-| 155 | [https://github.com/resume-nation/resume-nation.github.io](https://github.com/resume-nation/resume-nation.github.io) | MIT | Resume Nation |
-| 156 | [https://github.com/rgab1508/PixelCraft](https://github.com/rgab1508/PixelCraft) | MIT | PixelCraft |
-| 157 | [https://github.com/ritz078/transform](https://github.com/ritz078/transform) | MIT | Transform |
-| 158 | [https://github.com/sardorml/tailit](https://github.com/sardorml/tailit) | MIT | Tailit |
-| 159 | [https://github.com/satvisorcom/satvisor](https://github.com/satvisorcom/satvisor) | AGPL-3.0 | Satvisor |
-| 160 | [https://github.com/sayanarijit/qrcode.show](https://github.com/sayanarijit/qrcode.show) | AGPL-3.0 | QrCodeShow |
-| 161 | [https://github.com/schlagmichdoch/pairdrop](https://github.com/schlagmichdoch/pairdrop) | GPL-3.0 | PairDrop |
-| 162 | [https://github.com/Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator) | GPL-3.0 | bash-prompt-generator |
-| 163 | [https://github.com/selfhst/icons](https://github.com/selfhst/icons) | CC-BY-4.0 | selfh.st Icons |
-| 164 | [https://github.com/senolgulgonul/verisim](https://github.com/senolgulgonul/verisim) | GPL-2.0 | VeriSim |
-| 165 | [https://github.com/shancarter/Mr-Data-Converter?tab=License-1-ov-file](https://github.com/shancarter/Mr-Data-Converter?tab=License-1-ov-file) | MIT | Mr. Data Converter |
-| 166 | [https://github.com/shane-jacobeen/schema3d](https://github.com/shane-jacobeen/schema3d) | MIT | Schema3D |
-| 167 | [https://github.com/sharkdp/insect](https://github.com/sharkdp/insect) | MIT | Insect |
-| 168 | [https://github.com/ShashwatSricodes/PDFSlice](https://github.com/ShashwatSricodes/PDFSlice) | MIT | PDFSlice |
-| 169 | [https://github.com/sh-dv/hat.sh](https://github.com/sh-dv/hat.sh) | MIT | hat.sh |
-| 170 | [https://github.com/Shpigford/studio](https://github.com/Shpigford/studio) | MIT | Studio |
-| 171 | [https://github.com/shravanngoswamii/DrawShare](https://github.com/shravanngoswamii/DrawShare) | MIT | DrawShare |
-| 172 | [https://github.com/simonw/datasette-lite](https://github.com/simonw/datasette-lite) | Apache-2.0 | Datasette Lite |
-| 173 | [https://github.com/simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) | CC0-1.0 | Simple Icons |
-| 174 | [https://github.com/simplifaisoul/osiris](https://github.com/simplifaisoul/osiris) | MIT | OSIRIS |
-| 175 | [https://github.com/spectra-g/scratch-tabs](https://github.com/spectra-g/scratch-tabs) | MIT | Scratch Tabs |
-| 176 | [https://github.com/Specy/asm-editor](https://github.com/Specy/asm-editor) | AGPL-3.0 | ASM Editor |
-| 177 | [https://github.com/Specy/rooc](https://github.com/Specy/rooc) | MPL-2.0 | ROOC Optimization |
-| 178 | [https://github.com/Specy/tokeko](https://github.com/Specy/tokeko) | Various | Tokeko |
-| 179 | [https://github.com/spliit-app/spliit](https://github.com/spliit-app/spliit) | MIT | Spliit |
-| 180 | [https://github.com/Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | MIT | Stirling-PDF |
-| 181 | [https://github.com/stophecom/sharrr-svelte](https://github.com/stophecom/sharrr-svelte) | MIT | Sharr |
-| 182 | [https://github.com/SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) | MIT | SubtitleEdit |
-| 183 | [https://github.com/SVG-Edit/svgedit](https://github.com/SVG-Edit/svgedit) | MIT | SVG-Edit |
-| 184 | [https://github.com/synthetic-sciences/openscience](https://github.com/synthetic-sciences/openscience) | Apache-2.0 | OpenScience |
-| 185 | [https://github.com/tabler/tabler-icons](https://github.com/tabler/tabler-icons) | MIT | Tabler Icons |
-| 186 | [https://github.com/tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) | MIT | heroicons |
-| 187 | [https://github.com/tanabe/markdown-live-preview](https://github.com/tanabe/markdown-live-preview) | MIT | Markdown Live Preview |
-| 188 | [https://github.com/tejaswigowda/ffmpeg-webCLI](https://github.com/tejaswigowda/ffmpeg-webCLI) | GPL-3.0 | ffmpeg-webCLI |
-| 189 | [https://github.com/theacodes/kicanvas](https://github.com/theacodes/kicanvas) | MIT | KiCanvas |
-| 190 | [https://github.com/themidnightgospel/free-cv-builder](https://github.com/themidnightgospel/free-cv-builder) | MIT | Free CV Builder |
-| 191 | [https://github.com/timoncool/videosos](https://github.com/timoncool/videosos) | MIT | videosos |
-| 192 | [https://github.com/tldraw/tldraw](https://github.com/tldraw/tldraw) | NC | tldraw |
-| 193 | [https://github.com/toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | MIT | AFFiNE |
-| 194 | [https://github.com/tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) | MIT | flowchart.fun |
-| 195 | [https://github.com/tra-sco/mermify](https://github.com/tra-sco/mermify) | MIT | Mermify |
-| 196 | [https://github.com/tsurumeso/vocal-remover](https://github.com/tsurumeso/vocal-remover) | MIT | AI Vocal Remover |
-| 197 | [https://github.com/tuton012/editorpilot](https://github.com/tuton012/editorpilot) | Various | EditorPilot |
-| 198 | [https://github.com/undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) | GPL-3.0 | privacy.sexy |
-| 199 | [https://github.com/VERT-sh/VERT](https://github.com/VERT-sh/VERT) | AGPL-3.0 | VERT |
-| 200 | [https://github.com/vgarciasc/dfa-draw](https://github.com/vgarciasc/dfa-draw) | None | DFA Draw |
-| 201 | [https://github.com/vijeeshr/quickretro](https://github.com/vijeeshr/quickretro) | AGPL-3.0 | QuickRetro |
-| 202 | [https://github.com/viliusle/miniPaint](https://github.com/viliusle/miniPaint) | MIT | miniPaint |
-| 203 | [https://github.com/viveknaskar/json-kit](https://github.com/viveknaskar/json-kit) | MIT | json-kit |
-| 204 | [https://github.com/webgiss/niolesk/](https://github.com/webgiss/niolesk/) | MIT | Niolesk |
-| 205 | [https://github.com/WebPraktikos/universal-resume](https://github.com/WebPraktikos/universal-resume) | CC BY-NC-SA 1.0 | Universal Résumé Template |
-| 206 | [https://github.com/webtor-io/web-ui](https://github.com/webtor-io/web-ui) | MIT | Webtor.io |
-| 207 | [https://github.com/xdadda/mini-photo-editor](https://github.com/xdadda/mini-photo-editor) | MIT | MiNi PhotoEditor |
-| 208 | [https://github.com/xiangechen/chili3d](https://github.com/xiangechen/chili3d) | AGPL-3.0 | chili3d |
-| 209 | [https://github.com/YottaYocta/GreenDolphin](https://github.com/YottaYocta/GreenDolphin) | GPL-3.0 | GreenDolphin |
-| 210 | [https://github.com/yousifamanuel/terraink](https://github.com/yousifamanuel/terraink) | MIT | TerraInk |
-| 211 | [https://github.com/Yqnn/svg-path-editor](https://github.com/Yqnn/svg-path-editor) | Apache-2.0 | SvgPathEditor |
-| 212 | [https://github.com/zedxihan/zkdrop](https://github.com/zedxihan/zkdrop) | AGPL-3.0 | zkdrop |
-| 213 | [https://github.com/Zulko/gix](https://github.com/Zulko/gix) | MIT | Gix |
+| 149 | [https://github.com/rahulcvwebsitehosting/GREnius](https://github.com/rahulcvwebsitehosting/GREnius) | None | GREnius |
+| 150 | [https://github.com/rahulcvwebsitehosting/pdf-tools](https://github.com/rahulcvwebsitehosting/pdf-tools) | MIT | PDF Tools |
+| 151 | [https://github.com/rahulcvwebsitehosting/WebNav](https://github.com/rahulcvwebsitehosting/WebNav) | Various | WebNav |
+| 152 | [https://github.com/rakibulsagor/Clearcanvas](https://github.com/rakibulsagor/Clearcanvas) | MIT | ClearCanvas AI |
+| 153 | [https://github.com/rawgraphs/rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app) | Apache-2.0 | RAWGraphs |
+| 154 | [https://github.com/raycast/ray-so](https://github.com/raycast/ray-so) | MIT | Icon Maker |
+| 155 | [https://github.com/ReactorcoreGames/Image-to-UnicodeASCII-Generator/tree/main](https://github.com/ReactorcoreGames/Image-to-UnicodeASCII-Generator/tree/main) | Various | Image to UnicodeASCII Generator |
+| 156 | [https://github.com/Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon) | RIL-1.0 | Remix Icons |
+| 157 | [https://github.com/resume-nation/resume-nation.github.io](https://github.com/resume-nation/resume-nation.github.io) | MIT | Resume Nation |
+| 158 | [https://github.com/rgab1508/PixelCraft](https://github.com/rgab1508/PixelCraft) | MIT | PixelCraft |
+| 159 | [https://github.com/ritz078/transform](https://github.com/ritz078/transform) | MIT | Transform |
+| 160 | [https://github.com/sardorml/tailit](https://github.com/sardorml/tailit) | MIT | Tailit |
+| 161 | [https://github.com/satvisorcom/satvisor](https://github.com/satvisorcom/satvisor) | AGPL-3.0 | Satvisor |
+| 162 | [https://github.com/sayanarijit/qrcode.show](https://github.com/sayanarijit/qrcode.show) | AGPL-3.0 | QrCodeShow |
+| 163 | [https://github.com/schlagmichdoch/pairdrop](https://github.com/schlagmichdoch/pairdrop) | GPL-3.0 | PairDrop |
+| 164 | [https://github.com/Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator) | GPL-3.0 | bash-prompt-generator |
+| 165 | [https://github.com/selfhst/icons](https://github.com/selfhst/icons) | CC-BY-4.0 | selfh.st Icons |
+| 166 | [https://github.com/senolgulgonul/verisim](https://github.com/senolgulgonul/verisim) | GPL-2.0 | VeriSim |
+| 167 | [https://github.com/shancarter/Mr-Data-Converter?tab=License-1-ov-file](https://github.com/shancarter/Mr-Data-Converter?tab=License-1-ov-file) | MIT | Mr. Data Converter |
+| 168 | [https://github.com/shane-jacobeen/schema3d](https://github.com/shane-jacobeen/schema3d) | MIT | Schema3D |
+| 169 | [https://github.com/sharkdp/insect](https://github.com/sharkdp/insect) | MIT | Insect |
+| 170 | [https://github.com/ShashwatSricodes/PDFSlice](https://github.com/ShashwatSricodes/PDFSlice) | MIT | PDFSlice |
+| 171 | [https://github.com/sh-dv/hat.sh](https://github.com/sh-dv/hat.sh) | MIT | hat.sh |
+| 172 | [https://github.com/Shpigford/studio](https://github.com/Shpigford/studio) | MIT | Studio |
+| 173 | [https://github.com/shravanngoswamii/DrawShare](https://github.com/shravanngoswamii/DrawShare) | MIT | DrawShare |
+| 174 | [https://github.com/simonw/datasette-lite](https://github.com/simonw/datasette-lite) | Apache-2.0 | Datasette Lite |
+| 175 | [https://github.com/simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) | CC0-1.0 | Simple Icons |
+| 176 | [https://github.com/simplifaisoul/osiris](https://github.com/simplifaisoul/osiris) | MIT | OSIRIS |
+| 177 | [https://github.com/spectra-g/scratch-tabs](https://github.com/spectra-g/scratch-tabs) | MIT | Scratch Tabs |
+| 178 | [https://github.com/Specy/asm-editor](https://github.com/Specy/asm-editor) | AGPL-3.0 | ASM Editor |
+| 179 | [https://github.com/Specy/rooc](https://github.com/Specy/rooc) | MPL-2.0 | ROOC Optimization |
+| 180 | [https://github.com/Specy/tokeko](https://github.com/Specy/tokeko) | Various | Tokeko |
+| 181 | [https://github.com/spliit-app/spliit](https://github.com/spliit-app/spliit) | MIT | Spliit |
+| 182 | [https://github.com/Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | MIT | Stirling-PDF |
+| 183 | [https://github.com/stophecom/sharrr-svelte](https://github.com/stophecom/sharrr-svelte) | MIT | Sharr |
+| 184 | [https://github.com/SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) | MIT | SubtitleEdit |
+| 185 | [https://github.com/SVG-Edit/svgedit](https://github.com/SVG-Edit/svgedit) | MIT | SVG-Edit |
+| 186 | [https://github.com/synthetic-sciences/openscience](https://github.com/synthetic-sciences/openscience) | Apache-2.0 | OpenScience |
+| 187 | [https://github.com/tabler/tabler-icons](https://github.com/tabler/tabler-icons) | MIT | Tabler Icons |
+| 188 | [https://github.com/tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) | MIT | heroicons |
+| 189 | [https://github.com/tanabe/markdown-live-preview](https://github.com/tanabe/markdown-live-preview) | MIT | Markdown Live Preview |
+| 190 | [https://github.com/tejaswigowda/ffmpeg-webCLI](https://github.com/tejaswigowda/ffmpeg-webCLI) | GPL-3.0 | ffmpeg-webCLI |
+| 191 | [https://github.com/theacodes/kicanvas](https://github.com/theacodes/kicanvas) | MIT | KiCanvas |
+| 192 | [https://github.com/themidnightgospel/free-cv-builder](https://github.com/themidnightgospel/free-cv-builder) | MIT | Free CV Builder |
+| 193 | [https://github.com/timoncool/videosos](https://github.com/timoncool/videosos) | MIT | videosos |
+| 194 | [https://github.com/tldraw/tldraw](https://github.com/tldraw/tldraw) | NC | tldraw |
+| 195 | [https://github.com/toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | MIT | AFFiNE |
+| 196 | [https://github.com/tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) | MIT | flowchart.fun |
+| 197 | [https://github.com/tra-sco/mermify](https://github.com/tra-sco/mermify) | MIT | Mermify |
+| 198 | [https://github.com/tsurumeso/vocal-remover](https://github.com/tsurumeso/vocal-remover) | MIT | AI Vocal Remover |
+| 199 | [https://github.com/tuton012/editorpilot](https://github.com/tuton012/editorpilot) | Various | EditorPilot |
+| 200 | [https://github.com/undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) | GPL-3.0 | privacy.sexy |
+| 201 | [https://github.com/VERT-sh/VERT](https://github.com/VERT-sh/VERT) | AGPL-3.0 | VERT |
+| 202 | [https://github.com/vgarciasc/dfa-draw](https://github.com/vgarciasc/dfa-draw) | None | DFA Draw |
+| 203 | [https://github.com/vijeeshr/quickretro](https://github.com/vijeeshr/quickretro) | AGPL-3.0 | QuickRetro |
+| 204 | [https://github.com/viliusle/miniPaint](https://github.com/viliusle/miniPaint) | MIT | miniPaint |
+| 205 | [https://github.com/viveknaskar/json-kit](https://github.com/viveknaskar/json-kit) | MIT | json-kit |
+| 206 | [https://github.com/webgiss/niolesk/](https://github.com/webgiss/niolesk/) | MIT | Niolesk |
+| 207 | [https://github.com/WebPraktikos/universal-resume](https://github.com/WebPraktikos/universal-resume) | CC BY-NC-SA 1.0 | Universal Résumé Template |
+| 208 | [https://github.com/webtor-io/web-ui](https://github.com/webtor-io/web-ui) | MIT | Webtor.io |
+| 209 | [https://github.com/xdadda/mini-photo-editor](https://github.com/xdadda/mini-photo-editor) | MIT | MiNi PhotoEditor |
+| 210 | [https://github.com/xiangechen/chili3d](https://github.com/xiangechen/chili3d) | AGPL-3.0 | chili3d |
+| 211 | [https://github.com/YottaYocta/GreenDolphin](https://github.com/YottaYocta/GreenDolphin) | GPL-3.0 | GreenDolphin |
+| 212 | [https://github.com/yousifamanuel/terraink](https://github.com/yousifamanuel/terraink) | MIT | TerraInk |
+| 213 | [https://github.com/Yqnn/svg-path-editor](https://github.com/Yqnn/svg-path-editor) | Apache-2.0 | SvgPathEditor |
+| 214 | [https://github.com/zedxihan/zkdrop](https://github.com/zedxihan/zkdrop) | AGPL-3.0 | zkdrop |
+| 215 | [https://github.com/Zulko/gix](https://github.com/Zulko/gix) | MIT | Gix |
