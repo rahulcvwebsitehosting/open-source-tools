@@ -6,14 +6,6 @@ Additional resources and references for this tool directory.
 
 ---
 
-## API Endpoints
-
-These are used for form submissions from the modals:
-
-- **Submit Tool:** `https://fcksignups-submit.abdullahalkafajy.workers.dev/submit-tool`
-- **Report Tool:** `https://fcksignups-submit.abdullahalkafajy.workers.dev/report-tool`
-- **Suggest Tool:** `https://fcksignups-submit.abdullahalkafajy.workers.dev/suggest-tool`
-
 ## Modals
 
 The user interface has three modals (no separate URLs, triggered via JavaScript):
@@ -41,7 +33,7 @@ The user interface has three modals (no separate URLs, triggered via JavaScript)
 
 ## robots.txt
 
-The site's obots.txt contains content signals (search, ai-input, ai-train) but no disallowed paths.
+The site's `robots.txt` contains content signals (search, ai-input, ai-train) but no disallowed paths.
 
 ## Sitemap
 

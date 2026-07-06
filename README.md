@@ -626,11 +626,6 @@ All open-source repositories linked from tool entries.
 
 ## Resources & References
 
-- **API Endpoints (Tool Submission):**
-  - Submit Tool: `https://fcksignups-submit.abdullahalkafajy.workers.dev/submit-tool`
-  - Report Tool: `https://fcksignups-submit.abdullahalkafajy.workers.dev/report-tool`
-  - Suggest Tool: `https://fcksignups-submit.abdullahalkafajy.workers.dev/suggest-tool`
-
 ---
 
 *Last updated: 2026-07-06*
