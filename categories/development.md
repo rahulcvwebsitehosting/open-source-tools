@@ -2,7 +2,7 @@
 
 > Code, query, and build in the browser
 
-**Tools:** 46
+**Tools:** 51
 
 [<- Back to Directory](README.md#categories)
 
@@ -56,3 +56,8 @@
 | 44 | [CodeGraphContext (CGC)](https://cgc.codes/explore) | An MCP server plus a CLI tool that indexes local code into a graph database to provide context to AI assistants | MIT | 3,840 |
 | 45 | [RegExr](https://regexr.com/) | HTML/JS based tool for creating, testing, and learning about Regular Expressions | GPL-3.0 | 10,345 |
 | 46 | [QuickRef.ME](https://quickref.me/) | Share quick reference cheat sheet for developers | GPL-3.0 | 10,639 |
+| 47 | [CodeFlow](https://codeflow.site) | Paste any GitHub URL to get an interactive architecture map showing file connections and dependencies — no install, no accounts | None | 3,700 |
+| 48 | [bash-prompt-generator](https://bash-prompt-generator.org) | Customize your Bash prompt (PS1 variable) with a live preview in your browser | GPL-3.0 | 843 |
+| 49 | [Download VSIX](https://www.mjmirza.com/download-vsix/) | Download any VS Code extension as a VSIX from the marketplace — zero dependencies, no tracking, runs in your browser | MIT | 445 |
+| 50 | [configclarity](https://configclarity.com) | 6 free browser-based DevOps audit tools: Cron, SSL, Docker, Firewall, Reverse Proxy, robots.txt — no signup, no backend | None | 35 |
+| 51 | [json-kit](https://jsonkit.vercel.app) | Free browser-based JSON toolkit: format, validate, convert, diff, query and more — all client-side | MIT | 7 |

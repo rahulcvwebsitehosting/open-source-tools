@@ -43,12 +43,12 @@ This is a static Markdown directory. To find specific tools quickly:
 ## Statistics
 | Metric | Count |
 |--------|-------|
-| Total Tools | 183 |
+| Total Tools | 213 |
 | Categories | 9 |
-| Tags | 338 |
+| Tags | 409 |
 | Featured Tools | 11 |
-| External URLs (tools) | 183 |
-| GitHub Repositories | 183 |
+| External URLs (tools) | 213 |
+| GitHub Repositories | 213 |
 
 ---
 
@@ -56,21 +56,21 @@ This is a static Markdown directory. To find specific tools quickly:
 
 | Category | Icon | Description | Tools |
 |----------|------|-------------|-------|
-| [Productivity](./categories/productivity.md) | ⚡ | Get things done without creating accounts | 20 |
-| [Design & Graphics](./categories/design.md) | 🎨 | Create visuals right in your browser | 37 |
-| [Development](./categories/development.md) | 💻 | Code, query, and build in the browser | 46 |
+| [Productivity](./categories/productivity.md) | ⚡ | Get things done without creating accounts | 21 |
+| [Design & Graphics](./categories/design.md) | 🎨 | Create visuals right in your browser | 42 |
+| [Development](./categories/development.md) | 💻 | Code, query, and build in the browser | 51 |
 | [Writing & Docs](./categories/writing.md) | ✍️ | Write, edit, and format text | 16 |
-| [Privacy & Security](./categories/privacy.md) | 🔒 | Protect your data without trusting servers | 7 |
-| [Utilities](./categories/utilities.md) | 🛠️ | Handy one-off tools for everyday tasks | 27 |
-| [Data & Analytics](./categories/data.md) | 📊 | Explore and visualize data locally | 9 |
-| [Media](./categories/media.md) | 🎬 | Edit and create media in-browser | 18 |
-| [Education](./categories/education.md) | 🎓 | Learn and study without creating accounts | 3 |
+| [Privacy & Security](./categories/privacy.md) | 🔒 | Protect your data without trusting servers | 11 |
+| [Utilities](./categories/utilities.md) | 🛠️ | Handy one-off tools for everyday tasks | 29 |
+| [Data & Analytics](./categories/data.md) | 📊 | Explore and visualize data locally | 11 |
+| [Media](./categories/media.md) | 🎬 | Edit and create media in-browser | 26 |
+| [Education](./categories/education.md) | 🎓 | Learn and study without creating accounts | 6 |
 
 ---
 
 ## All Tools
 
-Below is the complete list of all 183 tools. Click a tool name to open its website. Star counts link to their GitHub repositories where available.
+Below is the complete list of all 213 tools. Click a tool name to open its website. Star counts link to their GitHub repositories where available.
 
 | # | Tool | Category | Description | License | Stars |
 |---|------|----------|-------------|---------|-------|
@@ -257,6 +257,36 @@ Below is the complete list of all 183 tools. Click a tool name to open its websi
 | 181 | [OpenReel Video](https://openreel.video) | Media | Professional browser-based video editor. 100% browser-based, no installation, no cloud uploads, no watermarks | MIT | [3,740](https://github.com/Augani/openreel-video) |
 | 182 | [vue-fabric-editor](https://ikuaitu.github.io/vue-fabric-editor/) | Design & Graphics | Open-source image editor based on fabric.js and Vue. Custom fonts, templates, and design elements for quick graphic creation | MIT | [7,907](https://github.com/ikuaitu/vue-fabric-editor) |
 | 183 | [OpenScience](https://www.openscience.sh/) | Education | The open-source AI workbench for scientific research. Runs as a workspace in your browser, model-agnostic, no account required | Apache-2.0 | [645](https://github.com/synthetic-sciences/openscience) |
+| 184 | [Photopea](https://www.photopea.com) | Design & Graphics | Advanced online image editor that supports PSD, Sketch, XD, and RAW files — looks and works like Photoshop in your browser | None | [8,304](https://github.com/photopea/photopea) |
+| 185 | [chili3d](https://chili3d.com) | Design & Graphics | Browser-based 3D CAD application for online model design and editing — no installation needed | AGPL-3.0 | [4,657](https://github.com/xiangechen/chili3d) |
+| 186 | [ditherer](https://ditherer.ygng.jp) | Design & Graphics | Browser-based image and video dithering, glitch art, pixel sorting, and retro CRT/VHS filters — no install required | MIT | [79](https://github.com/gyng/ditherer) |
+| 187 | [The-One-File](https://gelatinescreams.github.io/The-One-File/) | Design & Graphics | One file to map networks, mind maps, infrastructure, or smart homes. Animated, encrypted, offline-first — everything in a single HTML file | NOASSERTION | [529](https://github.com/gelatinescreams/The-One-File) |
+| 188 | [my-mind](https://my-mind.net/) | Productivity | Online mind mapping software — all data stored locally in your browser with no account needed | MIT | [3,366](https://github.com/ondras/my-mind) |
+| 189 | [CodeFlow](https://codeflow.site) | Development | Paste any GitHub URL to get an interactive architecture map showing file connections and dependencies — no install, no accounts | None | [3,700](https://github.com/braedonsaunders/codeflow) |
+| 190 | [bash-prompt-generator](https://bash-prompt-generator.org) | Development | Customize your Bash prompt (PS1 variable) with a live preview in your browser | GPL-3.0 | [843](https://github.com/Scriptim/bash-prompt-generator) |
+| 191 | [Download VSIX](https://www.mjmirza.com/download-vsix/) | Development | Download any VS Code extension as a VSIX from the marketplace — zero dependencies, no tracking, runs in your browser | MIT | [445](https://github.com/mjmirza/Download-VSIX-From-Visual-Studio-Market-Place) |
+| 192 | [configclarity](https://configclarity.com) | Development | 6 free browser-based DevOps audit tools: Cron, SSL, Docker, Firewall, Reverse Proxy, robots.txt — no signup, no backend | None | [35](https://github.com/metriclogic26/configclarity) |
+| 193 | [hat.sh](https://hat.sh) | Privacy & Security | Encrypt and decrypt files securely in your browser using XChaCha20-Poly1305 — zero server uploads | MIT | [2,289](https://github.com/sh-dv/hat.sh) |
+| 194 | [Insect](https://insect.sh) | Education | High precision scientific calculator with support for physical units — works entirely in your browser | MIT | [3,167](https://github.com/sharkdp/insect) |
+| 195 | [literature-clock](https://literature-clock.jenevoldsen.com) | Education | A clock that tells time using quotes from literature — fully client-side, no server needed | MIT | [715](https://github.com/JohsEnevoldsen/literature-clock) |
+| 196 | [dbxlite](https://dbxlite.hfms.io) | Data & Analytics | Open-source SQL workbench powered by DuckDB-WASM. Query local files, BigQuery, and Snowflake right in your browser | MIT | [79](https://github.com/hfmsio/dbxlite) |
+| 197 | [AI Vocal Remover](https://vocalremover.org) | Media | Separate voice from music using deep neural networks — fully browser-based, splits vocals and instrumentals | MIT | [1,751](https://github.com/tsurumeso/vocal-remover) |
+| 198 | [videosos](https://videosos.app) | Media | AI video production in the browser — text-to-video, image-to-video, lip sync, 100+ models. Free, open-source, private | MIT | [1,223](https://github.com/timoncool/videosos) |
+| 199 | [bfxr](https://www.bfxr.net) | Media | Browser-based sound effect generator for games — create retro 8-bit SFX with no account needed | None | [1,026](https://github.com/increpare/bfxr) |
+| 200 | [ffmpeg-webCLI](https://ffmpegwebcli.vercel.app) | Media | Browser-based video editor powered by ffmpeg.wasm — no uploads, no servers, all processing happens locally via WebAssembly | GPL-3.0 | [956](https://github.com/tejaswigowda/ffmpeg-webCLI) |
+| 201 | [Teleprompter](https://promptr.tv) | Media | Browser-based teleprompter with remote control — no install needed, works right in your browser | NOASSERTION | [374](https://github.com/manifestinteractive/teleprompter) |
+| 202 | [reframe](https://reframe.is) | Media | Free, open-source video editor that runs in your browser — no login, no uploads, no ads | None | [165](https://github.com/magic-peach/reframe) |
+| 203 | [PDFSlice](https://pdfslice.vercel.app) | Utilities | Client-side PDF editor toolkit — merge, split, annotate PDFs locally in your browser with no uploads | MIT | [185](https://github.com/ShashwatSricodes/PDFSlice) |
+| 204 | [Extract2MD](https://hashangit.github.io/Extract2MD/) | Utilities | Extract text from PDFs and convert to Markdown using AI — all client-side in your browser | MIT | [109](https://github.com/hashangit/Extract2MD) |
+| 205 | [Gix](https://gix.vercel.app) | Media | Create, share and remix GIFs online — browser-based GIF composition tool | MIT | [27](https://github.com/Zulko/gix) |
+| 206 | [Vileo](https://lukasbach.github.io/vileo/) | Media | Record your screen or webcam and download the video — no uploads, works right in your browser | None | [11](https://github.com/lukasbach/vileo) |
+| 207 | [json-kit](https://jsonkit.vercel.app) | Development | Free browser-based JSON toolkit: format, validate, convert, diff, query and more — all client-side | MIT | [7](https://github.com/viveknaskar/json-kit) |
+| 208 | [donutsvg](https://donutsvg.com) | Data & Analytics | Browser-based SVG pie and donut chart generator — no login, no server, export as SVG or PNG | None | [17](https://github.com/luckyfoxdesign/donutsvg) |
+| 209 | [DFA Draw](https://vgarciasc.github.io/dfa-draw/) | Education | Web tool for drawing deterministic finite automata — great for computer science education | None | [18](https://github.com/vgarciasc/dfa-draw) |
+| 210 | [TracePoint](https://kluter.github.io/TracePoint/) | Privacy & Security | Locate the origin point of photographs using geometric ray intersection — OSINT browser tool | AGPL-3.0 | [7](https://github.com/kluter/TracePoint) |
+| 211 | [SSHToolkit](https://sshtoolkit.com) | Privacy & Security | Complete SSH toolkit in the browser: generate keys, harden servers, configure clients, and build tunnels — 100% client-side | MIT | [9](https://github.com/luizomf/sshtoolkit) |
+| 212 | [exifree](https://arnon-shub.github.io/exifree/) | Privacy & Security | Strip photo metadata (EXIF, location, camera info) losslessly in the browser — zero upload, zero server | MIT | [4](https://github.com/arnon-shub/exifree) |
+| 213 | [Color Palette Generator](https://abdulrdeveloper.github.io/Color-Palette-Generator/) | Design & Graphics | Generate and customize appealing color palettes for designers and developers — entirely in your browser | MIT | [8](https://github.com/abdulrdeveloper/Color-Palette-Generator) |
 
 [Full tools listing with GitHub column ->](./tools/)
 
@@ -269,188 +299,218 @@ All external tool websites referenced in this directory.
 | # | URL | Type | Referenced In |
 |---|-----|------|---------------|
 | 1 | [http://convert.to.it/](http://convert.to.it/) | Tool Website | Convert To It |
-| 2 | [https://affine.pro/](https://affine.pro/) | Tool Website | AFFiNE |
-| 3 | [https://agoracosmica.org](https://agoracosmica.org) | Tool Website | Agora Cosmica |
-| 4 | [https://algorithm-visualizer.org/](https://algorithm-visualizer.org/) | Tool Website | Algorithm Visualizer |
-| 5 | [https://app.rawgraphs.io](https://app.rawgraphs.io) | Tool Website | RAWGraphs |
-| 6 | [https://app.scratchtabs.com/](https://app.scratchtabs.com/) | Tool Website | Scratch Tabs |
-| 7 | [https://asciiflow.com/](https://asciiflow.com/) | Tool Website | ASCIIFlow |
-| 8 | [https://asm-editor.specy.app](https://asm-editor.specy.app) | Tool Website | ASM Editor |
-| 9 | [https://astexplorer.net/](https://astexplorer.net/) | Tool Website | AST explorer |
-| 10 | [https://audiomass.co/](https://audiomass.co/) | Tool Website | AudioMass |
-| 11 | [https://brouter.de/brouter-web/](https://brouter.de/brouter-web/) | Tool Website | BRouter-web |
-| 12 | [https://browserpad.org](https://browserpad.org) | Tool Website | Browserpad |
-| 13 | [https://browserytools.com](https://browserytools.com) | Tool Website | BrowseryTools |
-| 14 | [https://buildmyfree.cv/](https://buildmyfree.cv/) | Tool Website | Free CV Builder |
-| 15 | [https://bundlephobia.com/](https://bundlephobia.com/) | Tool Website | Bundlephobia |
-| 16 | [https://carbon.now.sh/](https://carbon.now.sh/) | Tool Website | carbon |
-| 17 | [https://cgc.codes/explore](https://cgc.codes/explore) | Tool Website | CodeGraphContext (CGC) |
-| 18 | [https://chat.sipp.sh/](https://chat.sipp.sh/) | Tool Website | Sipp Chat |
-| 19 | [https://clearcanvasai.vercel.app/](https://clearcanvasai.vercel.app/) | Tool Website | ClearCanvas AI |
-| 20 | [https://clip.fish/](https://clip.fish/) | Tool Website | Clip Fish |
-| 21 | [https://cobalt.tools/](https://cobalt.tools/) | Tool Website | Cobalt |
-| 22 | [https://component.gallery/](https://component.gallery/) | Tool Website | Component Gallery |
-| 23 | [https://composeyogi.com/](https://composeyogi.com/) | Tool Website | ComposeYogi |
-| 24 | [https://cryptgeon.com/](https://cryptgeon.com/) | Tool Website | Cryptgeon |
-| 25 | [https://cryptii.com](https://cryptii.com) | Tool Website | Cryptii |
-| 26 | [https://cryptpad.fr](https://cryptpad.fr) | Tool Website | CryptPad |
-| 27 | [https://darkly.art/](https://darkly.art/) | Tool Website | Darkly.Art |
-| 28 | [https://dartpad.dev](https://dartpad.dev) | Tool Website | DartPad |
-| 29 | [https://dashboardicons.com/](https://dashboardicons.com/) | Tool Website | Dashboard Icons |
-| 30 | [https://ddocs.new/](https://ddocs.new/) | Tool Website | dDoc |
-| 31 | [https://delphi.tools/](https://delphi.tools/) | Tool Website | delphitools |
-| 32 | [https://dillinger.io](https://dillinger.io) | Tool Website | Dillinger |
-| 33 | [https://dither.fuego.im/](https://dither.fuego.im/) | Tool Website | dither |
-| 34 | [https://docs.getgrist.com](https://docs.getgrist.com) | Tool Website | Grist |
-| 35 | [https://dohabit.app/](https://dohabit.app/) | Tool Website | DoHabit |
-| 36 | [https://drop.lol/](https://drop.lol/) | Tool Website | FileDrop |
-| 37 | [https://drumha.us/](https://drumha.us/) | Tool Website | Drumhaus |
-| 38 | [https://dsheets.new/](https://dsheets.new/) | Tool Website | dSheets |
-| 39 | [https://easypeasycv.com/](https://easypeasycv.com/) | Tool Website | EasyPeasyCV |
-| 40 | [https://editor.graphite.rs](https://editor.graphite.rs) | Tool Website | Graphite |
-| 41 | [https://editor.method.ac](https://editor.method.ac) | Tool Website | Method Draw |
-| 42 | [https://editorpilot.com/](https://editorpilot.com/) | Tool Website | EditorPilot |
-| 43 | [https://emn178.github.io/online-tools/](https://emn178.github.io/online-tools/) | Tool Website | Online tools |
-| 44 | [https://enclosed.cc/](https://enclosed.cc/) | Tool Website | Enclosed |
-| 45 | [https://ethercalc.net/](https://ethercalc.net/) | Tool Website | EtherCalc |
-| 46 | [https://everestpipkin.github.io/image-scrubber/](https://everestpipkin.github.io/image-scrubber/) | Tool Website | image-scrubber |
-| 47 | [https://excalidraw.com](https://excalidraw.com) | Tool Website | Excalidraw |
-| 48 | [https://explainshell.com/](https://explainshell.com/) | Tool Website | explainshell.com |
-| 49 | [https://feathericons.com/](https://feathericons.com/) | Tool Website | Feather |
-| 50 | [https://ffmpegwasm.netlify.app/playground](https://ffmpegwasm.netlify.app/playground) | Tool Website | ffmpeg.wasm |
-| 51 | [https://file.pizza/](https://file.pizza/) | Tool Website | CheezyPizza |
-| 52 | [https://flowchart.fun/](https://flowchart.fun/) | Tool Website | flowchart.fun |
-| 53 | [https://fluid.krackeddevs.com/](https://fluid.krackeddevs.com/) | Tool Website | Fluid |
-| 54 | [https://fullstackopen.com/en/](https://fullstackopen.com/en/) | Tool Website | Full Stack open |
-| 55 | [https://gchq.github.io/CyberChef/](https://gchq.github.io/CyberChef/) | Tool Website | CyberChef |
-| 56 | [https://gists.sh/](https://gists.sh/) | Tool Website | gists.sh |
-| 57 | [https://github.com/rahulcvwebsitehosting/AutoReels-Ai](https://github.com/rahulcvwebsitehosting/AutoReels-Ai) | Tool Website | AutoReels AI |
-| 58 | [https://github.com/rahulcvwebsitehosting/WebNav](https://github.com/rahulcvwebsitehosting/WebNav) | Tool Website | WebNav |
-| 59 | [https://github.com/tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) | Tool Website | heroicons |
-| 60 | [https://goatpad.drexfall.com/](https://goatpad.drexfall.com/) | Tool Website | GoatPad |
-| 61 | [https://gradeboundaries.com](https://gradeboundaries.com) | Tool Website | Grade Boundaries |
-| 62 | [https://greendolph.in](https://greendolph.in) | Tool Website | GreenDolphin |
-| 63 | [https://gridfinitylayouttool.com](https://gridfinitylayouttool.com) | Tool Website | Gridfinity Layout Tool |
-| 64 | [https://hoppscotch.io/](https://hoppscotch.io/) | Tool Website | hoppscotch |
-| 65 | [https://ianonymous3000.github.io/metadata-remover/](https://ianonymous3000.github.io/metadata-remover/) | Tool Website | Metadata Remover |
-| 66 | [https://iconoir.com/](https://iconoir.com/) | Tool Website | Iconoir |
-| 67 | [https://ikuaitu.github.io/vue-fabric-editor/](https://ikuaitu.github.io/vue-fabric-editor/) | Tool Website | vue-fabric-editor |
-| 68 | [https://ionic.io/ionicons](https://ionic.io/ionicons) | Tool Website | Phosphor Icons |
-| 69 | [https://it-tools.tech/](https://it-tools.tech/) | Tool Website | IT-Tools |
-| 70 | [https://jakearchibald.github.io/svgomg/](https://jakearchibald.github.io/svgomg/) | Tool Website | SVGOMG |
-| 71 | [https://jonathanwalker.github.io/SQLChef/](https://jonathanwalker.github.io/SQLChef/) | Tool Website | SQLChef |
-| 72 | [https://jsbin.com](https://jsbin.com) | Tool Website | JS Bin |
-| 73 | [https://jsoncrack.com/](https://jsoncrack.com/) | Tool Website | JSON Crack |
-| 74 | [https://jspaint.app](https://jspaint.app) | Tool Website | JSPaint |
-| 75 | [https://kicanvas.org/](https://kicanvas.org/) | Tool Website | KiCanvas |
-| 76 | [https://kleki.com/](https://kleki.com/) | Tool Website | Klecks |
-| 77 | [https://kpaste.infomaniak.com/](https://kpaste.infomaniak.com/) | Tool Website | kPaste |
-| 78 | [https://laura.media/shade-studio/](https://laura.media/shade-studio/) | Tool Website | ShadeStudio |
-| 79 | [https://lazy-guy.github.io/tomodoro/](https://lazy-guy.github.io/tomodoro/) | Tool Website | Tomodoro |
-| 80 | [https://lite.datasette.io](https://lite.datasette.io) | Tool Website | Datasette Lite |
-| 81 | [https://logseq.com/](https://logseq.com/) | Tool Website | Logseq |
-| 82 | [https://lookscanned.io](https://lookscanned.io) | Tool Website | lookscanned |
-| 83 | [https://lucide.dev/](https://lucide.dev/) | Tool Website | Lucide |
-| 84 | [https://make.girls.moe](https://make.girls.moe) | Tool Website | MakeGirlsMoe |
-| 85 | [https://markdownlivepreview.com](https://markdownlivepreview.com) | Tool Website | Markdown Live Preview |
-| 86 | [https://markmap.js.org/repl](https://markmap.js.org/repl) | Tool Website | markmap |
-| 87 | [https://maven-tools.mohants.com/](https://maven-tools.mohants.com/) | Tool Website | Online Maven Download Tool |
-| 88 | [https://mermaid.live](https://mermaid.live) | Tool Website | Mermaid Live |
-| 89 | [https://merricx.github.io/qrazybox/](https://merricx.github.io/qrazybox/) | Tool Website | QRazyBox |
-| 90 | [https://midee.app/](https://midee.app/) | Tool Website | Midee |
-| 91 | [https://mini2-photo-editor.netlify.app/](https://mini2-photo-editor.netlify.app/) | Tool Website | MiNi PhotoEditor |
-| 92 | [https://mumarshahbaz.github.io/Oscilloscope-Online-V2/setup.html](https://mumarshahbaz.github.io/Oscilloscope-Online-V2/setup.html) | Tool Website | Oscilloscope Online V2 |
-| 93 | [https://notepad.js.org](https://notepad.js.org) | Tool Website | Notepad PWA |
-| 94 | [https://omniclip.app/](https://omniclip.app/) | Tool Website | OmniClip |
-| 95 | [https://openconfig.mikescave.us](https://openconfig.mikescave.us) | Tool Website | OpenCode Config Builder |
-| 96 | [https://opencut.app](https://opencut.app) | Tool Website | OpenCut |
-| 97 | [https://openmoji.org/library/](https://openmoji.org/library/) | Tool Website | OpenMoji |
-| 98 | [https://openreel.video](https://openreel.video) | Tool Website | OpenReel Video |
-| 99 | [https://orama-interactive.itch.io/pixelorama](https://orama-interactive.itch.io/pixelorama) | Tool Website | Pixelorama |
-| 100 | [https://p2p.mirotalk.com/](https://p2p.mirotalk.com/) | Tool Website | MiroTalk P2P |
-| 101 | [https://pairdrop.net/](https://pairdrop.net/) | Tool Website | PairDrop |
-| 102 | [https://pandoc.github.io/pandoc-wasm/](https://pandoc.github.io/pandoc-wasm/) | Tool Website | Pandoc WASM |
-| 103 | [https://paste.ente.com/](https://paste.ente.com/) | Tool Website | ente Paste |
-| 104 | [https://patterncraft.fun/](https://patterncraft.fun/) | Tool Website | Pattern Craft |
-| 105 | [https://phosphor-cam.vercel.app/](https://phosphor-cam.vercel.app/) | Tool Website | Phosphor-Cam |
-| 106 | [https://pixelcraft.web.app](https://pixelcraft.web.app) | Tool Website | PixelCraft |
-| 107 | [https://planar.masn.studio](https://planar.masn.studio) | Tool Website | Planar |
-| 108 | [https://potatameister.github.io/PaperKnife/](https://potatameister.github.io/PaperKnife/) | Tool Website | PaperKnife |
-| 109 | [https://privacy.sexy](https://privacy.sexy) | Tool Website | privacy.sexy |
-| 110 | [https://protegemidni.es](https://protegemidni.es) | Tool Website | ProtegeMiDNI |
-| 111 | [https://pythontutor.com](https://pythontutor.com) | Tool Website | Python Tutor |
-| 112 | [https://qrcode.show/](https://qrcode.show/) | Tool Website | QrCodeShow |
-| 113 | [https://qsniyg.github.io/maxurl/](https://qsniyg.github.io/maxurl/) | Tool Website | Image Max URL |
-| 114 | [https://quickref.me/](https://quickref.me/) | Tool Website | QuickRef.ME |
-| 115 | [https://quickretro.app/](https://quickretro.app/) | Tool Website | QuickRetro |
-| 116 | [https://ray.so/icon](https://ray.so/icon) | Tool Website | Icon Maker |
-| 117 | [https://reactorcore.itch.io/image-to-unicodeascii-generator](https://reactorcore.itch.io/image-to-unicodeascii-generator) | Tool Website | Image to UnicodeASCII Generator |
-| 118 | [https://regexr.com/](https://regexr.com/) | Tool Website | RegExr |
-| 119 | [https://remixicon.com/](https://remixicon.com/) | Tool Website | Remix Icons |
-| 120 | [https://resume-nation.github.io](https://resume-nation.github.io) | Tool Website | Resume Nation |
-| 121 | [https://rooc.specy.app/](https://rooc.specy.app/) | Tool Website | ROOC Optimization |
-| 122 | [https://rssjobs.app/](https://rssjobs.app/) | Tool Website | Jobber |
-| 123 | [https://s-2-v.pages.dev/](https://s-2-v.pages.dev/) | Tool Website | s-2-v |
-| 124 | [https://satvisor.com/](https://satvisor.com/) | Tool Website | Satvisor |
-| 125 | [https://schema3d.com/](https://schema3d.com/) | Tool Website | Schema3D |
-| 126 | [https://selfh.st/icons/](https://selfh.st/icons/) | Tool Website | selfh.st Icons |
-| 127 | [https://senolgulgonul.github.io/verisim/](https://senolgulgonul.github.io/verisim/) | Tool Website | VeriSim |
-| 128 | [https://shancarter.github.io/mr-data-converter/](https://shancarter.github.io/mr-data-converter/) | Tool Website | Mr. Data Converter |
-| 129 | [https://shravangoswami.com/DrawShare/](https://shravangoswami.com/DrawShare/) | Tool Website | DrawShare |
-| 130 | [https://simpleicons.org/](https://simpleicons.org/) | Tool Website | Simple Icons |
-| 131 | [https://spliit.app/](https://spliit.app/) | Tool Website | Spliit |
-| 132 | [https://sqlime.org/](https://sqlime.org/) | Tool Website | Sqlime |
-| 133 | [https://squoosh.app/](https://squoosh.app/) | Tool Website | Squoosh |
-| 134 | [https://stackedit.io](https://stackedit.io) | Tool Website | StackEdit |
-| 135 | [https://stirling.com/app](https://stirling.com/app) | Tool Website | Stirling-PDF |
-| 136 | [https://studio.neato.fun/](https://studio.neato.fun/) | Tool Website | Studio |
-| 137 | [https://svgedit.netlify.app/index.html](https://svgedit.netlify.app/index.html) | Tool Website | SVG-Edit |
-| 138 | [https://tabler.io/icons](https://tabler.io/icons) | Tool Website | Tabler Icons |
-| 139 | [https://tailit.xyz/](https://tailit.xyz/) | Tool Website | Tailit |
-| 140 | [https://terraink.app/](https://terraink.app/) | Tool Website | TerraInk |
-| 141 | [https://texturinator.buttermilch-dev.de/](https://texturinator.buttermilch-dev.de/) | Tool Website | Texturinator |
-| 142 | [https://thesvg.org/](https://thesvg.org/) | Tool Website | TheSVG |
-| 143 | [https://tokeko.specy.app/](https://tokeko.specy.app/) | Tool Website | Tokeko |
-| 144 | [https://toolsforimage.com/](https://toolsforimage.com/) | Tool Website | ToolsForImage |
-| 145 | [https://transform.tools/](https://transform.tools/) | Tool Website | Transform |
-| 146 | [https://tra-sco.github.io/mermify/](https://tra-sco.github.io/mermify/) | Tool Website | Mermify |
-| 147 | [https://universalresume.app/?s=g](https://universalresume.app/?s=g) | Tool Website | Universal Résumé Template |
-| 148 | [https://vecto3d.app/](https://vecto3d.app/) | Tool Website | Vecto3d |
-| 149 | [https://vert.sh/](https://vert.sh/) | Tool Website | VERT |
-| 150 | [https://videocompress.prolab.sh/](https://videocompress.prolab.sh/) | Tool Website | Compress |
-| 151 | [https://viliusle.github.io/miniPaint/](https://viliusle.github.io/miniPaint/) | Tool Website | miniPaint |
-| 152 | [https://voidmesh.xyz/](https://voidmesh.xyz/) | Tool Website | VoidMesh |
-| 153 | [https://vscode.dev/](https://vscode.dev/) | Tool Website | Visual Studio Code for the Web |
-| 154 | [https://wavacity.com/](https://wavacity.com/) | Tool Website | Wavacity |
-| 155 | [https://wbo.ophir.dev/](https://wbo.ophir.dev/) | Tool Website | WBO (Whitebophir) |
-| 156 | [https://web.blockbench.net/](https://web.blockbench.net/) | Tool Website | Blockbench |
-| 157 | [https://web.butterfly.linwood.dev/](https://web.butterfly.linwood.dev/) | Tool Website | Linwood Butterfly |
-| 158 | [https://web.koodoreader.com/](https://web.koodoreader.com/) | Tool Website | Koodo Reader |
-| 159 | [https://web.localsend.org/](https://web.localsend.org/) | Tool Website | LocalSend-Web |
-| 160 | [https://webllm.mlc.ai/](https://webllm.mlc.ai/) | Tool Website | WebLLM |
-| 161 | [https://webtor.io/](https://webtor.io/) | Tool Website | Webtor.io |
-| 162 | [https://www.bentopdf.com/](https://www.bentopdf.com/) | Tool Website | BentoPDF |
-| 163 | [https://www.drawdb.app](https://www.drawdb.app) | Tool Website | drawDB |
-| 164 | [https://www.drawio.com/](https://www.drawio.com/) | Tool Website | draw.io |
-| 165 | [https://www.dropsilk.xyz/](https://www.dropsilk.xyz/) | Tool Website | DropSilk |
-| 166 | [https://www.falstad.com/circuit/](https://www.falstad.com/circuit/) | Tool Website | CircuitJS1 |
-| 167 | [https://www.gately.dev/](https://www.gately.dev/) | Tool Website | Gately |
-| 168 | [https://www.glyphrstudio.com/](https://www.glyphrstudio.com/) | Tool Website | Glyphr Studio |
-| 169 | [https://www.godsvg.com/editor/](https://www.godsvg.com/editor/) | Tool Website | GodSVG |
-| 170 | [https://www.marcrobledo.com/RomPatcher.js/](https://www.marcrobledo.com/RomPatcher.js/) | Tool Website | Rom Patcher JS |
-| 171 | [https://www.nikse.dk/subtitleedit/online](https://www.nikse.dk/subtitleedit/online) | Tool Website | SubtitleEdit |
-| 172 | [https://www.openscience.sh/](https://www.openscience.sh/) | Tool Website | OpenScience |
-| 173 | [https://www.osirisai.live/](https://www.osirisai.live/) | Tool Website | OSIRIS |
-| 174 | [https://www.piskelapp.com](https://www.piskelapp.com) | Tool Website | Piskel |
-| 175 | [https://www.screenshot-studio.com/](https://www.screenshot-studio.com/) | Tool Website | Screenshot Studio |
-| 176 | [https://www.sharrr.com/](https://www.sharrr.com/) | Tool Website | Sharr |
-| 177 | [https://www.tldraw.com/](https://www.tldraw.com/) | Tool Website | tldraw |
-| 178 | [https://www.toolsatzero.com/](https://www.toolsatzero.com/) | Tool Website | ToolsAtZero |
-| 179 | [https://www.worldmonitor.app/](https://www.worldmonitor.app/) | Tool Website | World Monitor |
-| 180 | [https://xi.pe/](https://xi.pe/) | Tool Website | xipe |
-| 181 | [https://yqnn.github.io/svg-path-editor/](https://yqnn.github.io/svg-path-editor/) | Tool Website | SvgPathEditor |
-| 182 | [https://zkdrop.org](https://zkdrop.org) | Tool Website | zkdrop |
-| 183 | [niolesk.top](niolesk.top) | Tool Website | Niolesk |
+| 2 | [https://abdulrdeveloper.github.io/Color-Palette-Generator/](https://abdulrdeveloper.github.io/Color-Palette-Generator/) | Tool Website | Color Palette Generator |
+| 3 | [https://affine.pro/](https://affine.pro/) | Tool Website | AFFiNE |
+| 4 | [https://agoracosmica.org](https://agoracosmica.org) | Tool Website | Agora Cosmica |
+| 5 | [https://algorithm-visualizer.org/](https://algorithm-visualizer.org/) | Tool Website | Algorithm Visualizer |
+| 6 | [https://app.rawgraphs.io](https://app.rawgraphs.io) | Tool Website | RAWGraphs |
+| 7 | [https://app.scratchtabs.com/](https://app.scratchtabs.com/) | Tool Website | Scratch Tabs |
+| 8 | [https://arnon-shub.github.io/exifree/](https://arnon-shub.github.io/exifree/) | Tool Website | exifree |
+| 9 | [https://asciiflow.com/](https://asciiflow.com/) | Tool Website | ASCIIFlow |
+| 10 | [https://asm-editor.specy.app](https://asm-editor.specy.app) | Tool Website | ASM Editor |
+| 11 | [https://astexplorer.net/](https://astexplorer.net/) | Tool Website | AST explorer |
+| 12 | [https://audiomass.co/](https://audiomass.co/) | Tool Website | AudioMass |
+| 13 | [https://bash-prompt-generator.org](https://bash-prompt-generator.org) | Tool Website | bash-prompt-generator |
+| 14 | [https://brouter.de/brouter-web/](https://brouter.de/brouter-web/) | Tool Website | BRouter-web |
+| 15 | [https://browserpad.org](https://browserpad.org) | Tool Website | Browserpad |
+| 16 | [https://browserytools.com](https://browserytools.com) | Tool Website | BrowseryTools |
+| 17 | [https://buildmyfree.cv/](https://buildmyfree.cv/) | Tool Website | Free CV Builder |
+| 18 | [https://bundlephobia.com/](https://bundlephobia.com/) | Tool Website | Bundlephobia |
+| 19 | [https://carbon.now.sh/](https://carbon.now.sh/) | Tool Website | carbon |
+| 20 | [https://cgc.codes/explore](https://cgc.codes/explore) | Tool Website | CodeGraphContext (CGC) |
+| 21 | [https://chat.sipp.sh/](https://chat.sipp.sh/) | Tool Website | Sipp Chat |
+| 22 | [https://chili3d.com](https://chili3d.com) | Tool Website | chili3d |
+| 23 | [https://clearcanvasai.vercel.app/](https://clearcanvasai.vercel.app/) | Tool Website | ClearCanvas AI |
+| 24 | [https://clip.fish/](https://clip.fish/) | Tool Website | Clip Fish |
+| 25 | [https://cobalt.tools/](https://cobalt.tools/) | Tool Website | Cobalt |
+| 26 | [https://codeflow.site](https://codeflow.site) | Tool Website | CodeFlow |
+| 27 | [https://component.gallery/](https://component.gallery/) | Tool Website | Component Gallery |
+| 28 | [https://composeyogi.com/](https://composeyogi.com/) | Tool Website | ComposeYogi |
+| 29 | [https://configclarity.com](https://configclarity.com) | Tool Website | configclarity |
+| 30 | [https://cryptgeon.com/](https://cryptgeon.com/) | Tool Website | Cryptgeon |
+| 31 | [https://cryptii.com](https://cryptii.com) | Tool Website | Cryptii |
+| 32 | [https://cryptpad.fr](https://cryptpad.fr) | Tool Website | CryptPad |
+| 33 | [https://darkly.art/](https://darkly.art/) | Tool Website | Darkly.Art |
+| 34 | [https://dartpad.dev](https://dartpad.dev) | Tool Website | DartPad |
+| 35 | [https://dashboardicons.com/](https://dashboardicons.com/) | Tool Website | Dashboard Icons |
+| 36 | [https://dbxlite.hfms.io](https://dbxlite.hfms.io) | Tool Website | dbxlite |
+| 37 | [https://ddocs.new/](https://ddocs.new/) | Tool Website | dDoc |
+| 38 | [https://delphi.tools/](https://delphi.tools/) | Tool Website | delphitools |
+| 39 | [https://dillinger.io](https://dillinger.io) | Tool Website | Dillinger |
+| 40 | [https://dither.fuego.im/](https://dither.fuego.im/) | Tool Website | dither |
+| 41 | [https://ditherer.ygng.jp](https://ditherer.ygng.jp) | Tool Website | ditherer |
+| 42 | [https://docs.getgrist.com](https://docs.getgrist.com) | Tool Website | Grist |
+| 43 | [https://dohabit.app/](https://dohabit.app/) | Tool Website | DoHabit |
+| 44 | [https://donutsvg.com](https://donutsvg.com) | Tool Website | donutsvg |
+| 45 | [https://drop.lol/](https://drop.lol/) | Tool Website | FileDrop |
+| 46 | [https://drumha.us/](https://drumha.us/) | Tool Website | Drumhaus |
+| 47 | [https://dsheets.new/](https://dsheets.new/) | Tool Website | dSheets |
+| 48 | [https://easypeasycv.com/](https://easypeasycv.com/) | Tool Website | EasyPeasyCV |
+| 49 | [https://editor.graphite.rs](https://editor.graphite.rs) | Tool Website | Graphite |
+| 50 | [https://editor.method.ac](https://editor.method.ac) | Tool Website | Method Draw |
+| 51 | [https://editorpilot.com/](https://editorpilot.com/) | Tool Website | EditorPilot |
+| 52 | [https://emn178.github.io/online-tools/](https://emn178.github.io/online-tools/) | Tool Website | Online tools |
+| 53 | [https://enclosed.cc/](https://enclosed.cc/) | Tool Website | Enclosed |
+| 54 | [https://ethercalc.net/](https://ethercalc.net/) | Tool Website | EtherCalc |
+| 55 | [https://everestpipkin.github.io/image-scrubber/](https://everestpipkin.github.io/image-scrubber/) | Tool Website | image-scrubber |
+| 56 | [https://excalidraw.com](https://excalidraw.com) | Tool Website | Excalidraw |
+| 57 | [https://explainshell.com/](https://explainshell.com/) | Tool Website | explainshell.com |
+| 58 | [https://feathericons.com/](https://feathericons.com/) | Tool Website | Feather |
+| 59 | [https://ffmpegwasm.netlify.app/playground](https://ffmpegwasm.netlify.app/playground) | Tool Website | ffmpeg.wasm |
+| 60 | [https://ffmpegwebcli.vercel.app](https://ffmpegwebcli.vercel.app) | Tool Website | ffmpeg-webCLI |
+| 61 | [https://file.pizza/](https://file.pizza/) | Tool Website | CheezyPizza |
+| 62 | [https://flowchart.fun/](https://flowchart.fun/) | Tool Website | flowchart.fun |
+| 63 | [https://fluid.krackeddevs.com/](https://fluid.krackeddevs.com/) | Tool Website | Fluid |
+| 64 | [https://fullstackopen.com/en/](https://fullstackopen.com/en/) | Tool Website | Full Stack open |
+| 65 | [https://gchq.github.io/CyberChef/](https://gchq.github.io/CyberChef/) | Tool Website | CyberChef |
+| 66 | [https://gelatinescreams.github.io/The-One-File/](https://gelatinescreams.github.io/The-One-File/) | Tool Website | The-One-File |
+| 67 | [https://gists.sh/](https://gists.sh/) | Tool Website | gists.sh |
+| 68 | [https://github.com/rahulcvwebsitehosting/AutoReels-Ai](https://github.com/rahulcvwebsitehosting/AutoReels-Ai) | Tool Website | AutoReels AI |
+| 69 | [https://github.com/rahulcvwebsitehosting/WebNav](https://github.com/rahulcvwebsitehosting/WebNav) | Tool Website | WebNav |
+| 70 | [https://github.com/tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) | Tool Website | heroicons |
+| 71 | [https://gix.vercel.app](https://gix.vercel.app) | Tool Website | Gix |
+| 72 | [https://goatpad.drexfall.com/](https://goatpad.drexfall.com/) | Tool Website | GoatPad |
+| 73 | [https://gradeboundaries.com](https://gradeboundaries.com) | Tool Website | Grade Boundaries |
+| 74 | [https://greendolph.in](https://greendolph.in) | Tool Website | GreenDolphin |
+| 75 | [https://gridfinitylayouttool.com](https://gridfinitylayouttool.com) | Tool Website | Gridfinity Layout Tool |
+| 76 | [https://hashangit.github.io/Extract2MD/](https://hashangit.github.io/Extract2MD/) | Tool Website | Extract2MD |
+| 77 | [https://hat.sh](https://hat.sh) | Tool Website | hat.sh |
+| 78 | [https://hoppscotch.io/](https://hoppscotch.io/) | Tool Website | hoppscotch |
+| 79 | [https://ianonymous3000.github.io/metadata-remover/](https://ianonymous3000.github.io/metadata-remover/) | Tool Website | Metadata Remover |
+| 80 | [https://iconoir.com/](https://iconoir.com/) | Tool Website | Iconoir |
+| 81 | [https://ikuaitu.github.io/vue-fabric-editor/](https://ikuaitu.github.io/vue-fabric-editor/) | Tool Website | vue-fabric-editor |
+| 82 | [https://insect.sh](https://insect.sh) | Tool Website | Insect |
+| 83 | [https://ionic.io/ionicons](https://ionic.io/ionicons) | Tool Website | Phosphor Icons |
+| 84 | [https://it-tools.tech/](https://it-tools.tech/) | Tool Website | IT-Tools |
+| 85 | [https://jakearchibald.github.io/svgomg/](https://jakearchibald.github.io/svgomg/) | Tool Website | SVGOMG |
+| 86 | [https://jonathanwalker.github.io/SQLChef/](https://jonathanwalker.github.io/SQLChef/) | Tool Website | SQLChef |
+| 87 | [https://jsbin.com](https://jsbin.com) | Tool Website | JS Bin |
+| 88 | [https://jsoncrack.com/](https://jsoncrack.com/) | Tool Website | JSON Crack |
+| 89 | [https://jsonkit.vercel.app](https://jsonkit.vercel.app) | Tool Website | json-kit |
+| 90 | [https://jspaint.app](https://jspaint.app) | Tool Website | JSPaint |
+| 91 | [https://kicanvas.org/](https://kicanvas.org/) | Tool Website | KiCanvas |
+| 92 | [https://kleki.com/](https://kleki.com/) | Tool Website | Klecks |
+| 93 | [https://kluter.github.io/TracePoint/](https://kluter.github.io/TracePoint/) | Tool Website | TracePoint |
+| 94 | [https://kpaste.infomaniak.com/](https://kpaste.infomaniak.com/) | Tool Website | kPaste |
+| 95 | [https://laura.media/shade-studio/](https://laura.media/shade-studio/) | Tool Website | ShadeStudio |
+| 96 | [https://lazy-guy.github.io/tomodoro/](https://lazy-guy.github.io/tomodoro/) | Tool Website | Tomodoro |
+| 97 | [https://lite.datasette.io](https://lite.datasette.io) | Tool Website | Datasette Lite |
+| 98 | [https://literature-clock.jenevoldsen.com](https://literature-clock.jenevoldsen.com) | Tool Website | literature-clock |
+| 99 | [https://logseq.com/](https://logseq.com/) | Tool Website | Logseq |
+| 100 | [https://lookscanned.io](https://lookscanned.io) | Tool Website | lookscanned |
+| 101 | [https://lucide.dev/](https://lucide.dev/) | Tool Website | Lucide |
+| 102 | [https://lukasbach.github.io/vileo/](https://lukasbach.github.io/vileo/) | Tool Website | Vileo |
+| 103 | [https://make.girls.moe](https://make.girls.moe) | Tool Website | MakeGirlsMoe |
+| 104 | [https://markdownlivepreview.com](https://markdownlivepreview.com) | Tool Website | Markdown Live Preview |
+| 105 | [https://markmap.js.org/repl](https://markmap.js.org/repl) | Tool Website | markmap |
+| 106 | [https://maven-tools.mohants.com/](https://maven-tools.mohants.com/) | Tool Website | Online Maven Download Tool |
+| 107 | [https://mermaid.live](https://mermaid.live) | Tool Website | Mermaid Live |
+| 108 | [https://merricx.github.io/qrazybox/](https://merricx.github.io/qrazybox/) | Tool Website | QRazyBox |
+| 109 | [https://midee.app/](https://midee.app/) | Tool Website | Midee |
+| 110 | [https://mini2-photo-editor.netlify.app/](https://mini2-photo-editor.netlify.app/) | Tool Website | MiNi PhotoEditor |
+| 111 | [https://mumarshahbaz.github.io/Oscilloscope-Online-V2/setup.html](https://mumarshahbaz.github.io/Oscilloscope-Online-V2/setup.html) | Tool Website | Oscilloscope Online V2 |
+| 112 | [https://my-mind.net/](https://my-mind.net/) | Tool Website | my-mind |
+| 113 | [https://notepad.js.org](https://notepad.js.org) | Tool Website | Notepad PWA |
+| 114 | [https://omniclip.app/](https://omniclip.app/) | Tool Website | OmniClip |
+| 115 | [https://openconfig.mikescave.us](https://openconfig.mikescave.us) | Tool Website | OpenCode Config Builder |
+| 116 | [https://opencut.app](https://opencut.app) | Tool Website | OpenCut |
+| 117 | [https://openmoji.org/library/](https://openmoji.org/library/) | Tool Website | OpenMoji |
+| 118 | [https://openreel.video](https://openreel.video) | Tool Website | OpenReel Video |
+| 119 | [https://orama-interactive.itch.io/pixelorama](https://orama-interactive.itch.io/pixelorama) | Tool Website | Pixelorama |
+| 120 | [https://p2p.mirotalk.com/](https://p2p.mirotalk.com/) | Tool Website | MiroTalk P2P |
+| 121 | [https://pairdrop.net/](https://pairdrop.net/) | Tool Website | PairDrop |
+| 122 | [https://pandoc.github.io/pandoc-wasm/](https://pandoc.github.io/pandoc-wasm/) | Tool Website | Pandoc WASM |
+| 123 | [https://paste.ente.com/](https://paste.ente.com/) | Tool Website | ente Paste |
+| 124 | [https://patterncraft.fun/](https://patterncraft.fun/) | Tool Website | Pattern Craft |
+| 125 | [https://pdfslice.vercel.app](https://pdfslice.vercel.app) | Tool Website | PDFSlice |
+| 126 | [https://phosphor-cam.vercel.app/](https://phosphor-cam.vercel.app/) | Tool Website | Phosphor-Cam |
+| 127 | [https://pixelcraft.web.app](https://pixelcraft.web.app) | Tool Website | PixelCraft |
+| 128 | [https://planar.masn.studio](https://planar.masn.studio) | Tool Website | Planar |
+| 129 | [https://potatameister.github.io/PaperKnife/](https://potatameister.github.io/PaperKnife/) | Tool Website | PaperKnife |
+| 130 | [https://privacy.sexy](https://privacy.sexy) | Tool Website | privacy.sexy |
+| 131 | [https://promptr.tv](https://promptr.tv) | Tool Website | Teleprompter |
+| 132 | [https://protegemidni.es](https://protegemidni.es) | Tool Website | ProtegeMiDNI |
+| 133 | [https://pythontutor.com](https://pythontutor.com) | Tool Website | Python Tutor |
+| 134 | [https://qrcode.show/](https://qrcode.show/) | Tool Website | QrCodeShow |
+| 135 | [https://qsniyg.github.io/maxurl/](https://qsniyg.github.io/maxurl/) | Tool Website | Image Max URL |
+| 136 | [https://quickref.me/](https://quickref.me/) | Tool Website | QuickRef.ME |
+| 137 | [https://quickretro.app/](https://quickretro.app/) | Tool Website | QuickRetro |
+| 138 | [https://ray.so/icon](https://ray.so/icon) | Tool Website | Icon Maker |
+| 139 | [https://reactorcore.itch.io/image-to-unicodeascii-generator](https://reactorcore.itch.io/image-to-unicodeascii-generator) | Tool Website | Image to UnicodeASCII Generator |
+| 140 | [https://reframe.is](https://reframe.is) | Tool Website | reframe |
+| 141 | [https://regexr.com/](https://regexr.com/) | Tool Website | RegExr |
+| 142 | [https://remixicon.com/](https://remixicon.com/) | Tool Website | Remix Icons |
+| 143 | [https://resume-nation.github.io](https://resume-nation.github.io) | Tool Website | Resume Nation |
+| 144 | [https://rooc.specy.app/](https://rooc.specy.app/) | Tool Website | ROOC Optimization |
+| 145 | [https://rssjobs.app/](https://rssjobs.app/) | Tool Website | Jobber |
+| 146 | [https://s-2-v.pages.dev/](https://s-2-v.pages.dev/) | Tool Website | s-2-v |
+| 147 | [https://satvisor.com/](https://satvisor.com/) | Tool Website | Satvisor |
+| 148 | [https://schema3d.com/](https://schema3d.com/) | Tool Website | Schema3D |
+| 149 | [https://selfh.st/icons/](https://selfh.st/icons/) | Tool Website | selfh.st Icons |
+| 150 | [https://senolgulgonul.github.io/verisim/](https://senolgulgonul.github.io/verisim/) | Tool Website | VeriSim |
+| 151 | [https://shancarter.github.io/mr-data-converter/](https://shancarter.github.io/mr-data-converter/) | Tool Website | Mr. Data Converter |
+| 152 | [https://shravangoswami.com/DrawShare/](https://shravangoswami.com/DrawShare/) | Tool Website | DrawShare |
+| 153 | [https://simpleicons.org/](https://simpleicons.org/) | Tool Website | Simple Icons |
+| 154 | [https://spliit.app/](https://spliit.app/) | Tool Website | Spliit |
+| 155 | [https://sqlime.org/](https://sqlime.org/) | Tool Website | Sqlime |
+| 156 | [https://squoosh.app/](https://squoosh.app/) | Tool Website | Squoosh |
+| 157 | [https://sshtoolkit.com](https://sshtoolkit.com) | Tool Website | SSHToolkit |
+| 158 | [https://stackedit.io](https://stackedit.io) | Tool Website | StackEdit |
+| 159 | [https://stirling.com/app](https://stirling.com/app) | Tool Website | Stirling-PDF |
+| 160 | [https://studio.neato.fun/](https://studio.neato.fun/) | Tool Website | Studio |
+| 161 | [https://svgedit.netlify.app/index.html](https://svgedit.netlify.app/index.html) | Tool Website | SVG-Edit |
+| 162 | [https://tabler.io/icons](https://tabler.io/icons) | Tool Website | Tabler Icons |
+| 163 | [https://tailit.xyz/](https://tailit.xyz/) | Tool Website | Tailit |
+| 164 | [https://terraink.app/](https://terraink.app/) | Tool Website | TerraInk |
+| 165 | [https://texturinator.buttermilch-dev.de/](https://texturinator.buttermilch-dev.de/) | Tool Website | Texturinator |
+| 166 | [https://thesvg.org/](https://thesvg.org/) | Tool Website | TheSVG |
+| 167 | [https://tokeko.specy.app/](https://tokeko.specy.app/) | Tool Website | Tokeko |
+| 168 | [https://toolsforimage.com/](https://toolsforimage.com/) | Tool Website | ToolsForImage |
+| 169 | [https://transform.tools/](https://transform.tools/) | Tool Website | Transform |
+| 170 | [https://tra-sco.github.io/mermify/](https://tra-sco.github.io/mermify/) | Tool Website | Mermify |
+| 171 | [https://universalresume.app/?s=g](https://universalresume.app/?s=g) | Tool Website | Universal Résumé Template |
+| 172 | [https://vecto3d.app/](https://vecto3d.app/) | Tool Website | Vecto3d |
+| 173 | [https://vert.sh/](https://vert.sh/) | Tool Website | VERT |
+| 174 | [https://vgarciasc.github.io/dfa-draw/](https://vgarciasc.github.io/dfa-draw/) | Tool Website | DFA Draw |
+| 175 | [https://videocompress.prolab.sh/](https://videocompress.prolab.sh/) | Tool Website | Compress |
+| 176 | [https://videosos.app](https://videosos.app) | Tool Website | videosos |
+| 177 | [https://viliusle.github.io/miniPaint/](https://viliusle.github.io/miniPaint/) | Tool Website | miniPaint |
+| 178 | [https://vocalremover.org](https://vocalremover.org) | Tool Website | AI Vocal Remover |
+| 179 | [https://voidmesh.xyz/](https://voidmesh.xyz/) | Tool Website | VoidMesh |
+| 180 | [https://vscode.dev/](https://vscode.dev/) | Tool Website | Visual Studio Code for the Web |
+| 181 | [https://wavacity.com/](https://wavacity.com/) | Tool Website | Wavacity |
+| 182 | [https://wbo.ophir.dev/](https://wbo.ophir.dev/) | Tool Website | WBO (Whitebophir) |
+| 183 | [https://web.blockbench.net/](https://web.blockbench.net/) | Tool Website | Blockbench |
+| 184 | [https://web.butterfly.linwood.dev/](https://web.butterfly.linwood.dev/) | Tool Website | Linwood Butterfly |
+| 185 | [https://web.koodoreader.com/](https://web.koodoreader.com/) | Tool Website | Koodo Reader |
+| 186 | [https://web.localsend.org/](https://web.localsend.org/) | Tool Website | LocalSend-Web |
+| 187 | [https://webllm.mlc.ai/](https://webllm.mlc.ai/) | Tool Website | WebLLM |
+| 188 | [https://webtor.io/](https://webtor.io/) | Tool Website | Webtor.io |
+| 189 | [https://www.bentopdf.com/](https://www.bentopdf.com/) | Tool Website | BentoPDF |
+| 190 | [https://www.bfxr.net](https://www.bfxr.net) | Tool Website | bfxr |
+| 191 | [https://www.drawdb.app](https://www.drawdb.app) | Tool Website | drawDB |
+| 192 | [https://www.drawio.com/](https://www.drawio.com/) | Tool Website | draw.io |
+| 193 | [https://www.dropsilk.xyz/](https://www.dropsilk.xyz/) | Tool Website | DropSilk |
+| 194 | [https://www.falstad.com/circuit/](https://www.falstad.com/circuit/) | Tool Website | CircuitJS1 |
+| 195 | [https://www.gately.dev/](https://www.gately.dev/) | Tool Website | Gately |
+| 196 | [https://www.glyphrstudio.com/](https://www.glyphrstudio.com/) | Tool Website | Glyphr Studio |
+| 197 | [https://www.godsvg.com/editor/](https://www.godsvg.com/editor/) | Tool Website | GodSVG |
+| 198 | [https://www.marcrobledo.com/RomPatcher.js/](https://www.marcrobledo.com/RomPatcher.js/) | Tool Website | Rom Patcher JS |
+| 199 | [https://www.mjmirza.com/download-vsix/](https://www.mjmirza.com/download-vsix/) | Tool Website | Download VSIX |
+| 200 | [https://www.nikse.dk/subtitleedit/online](https://www.nikse.dk/subtitleedit/online) | Tool Website | SubtitleEdit |
+| 201 | [https://www.openscience.sh/](https://www.openscience.sh/) | Tool Website | OpenScience |
+| 202 | [https://www.osirisai.live/](https://www.osirisai.live/) | Tool Website | OSIRIS |
+| 203 | [https://www.photopea.com](https://www.photopea.com) | Tool Website | Photopea |
+| 204 | [https://www.piskelapp.com](https://www.piskelapp.com) | Tool Website | Piskel |
+| 205 | [https://www.screenshot-studio.com/](https://www.screenshot-studio.com/) | Tool Website | Screenshot Studio |
+| 206 | [https://www.sharrr.com/](https://www.sharrr.com/) | Tool Website | Sharr |
+| 207 | [https://www.tldraw.com/](https://www.tldraw.com/) | Tool Website | tldraw |
+| 208 | [https://www.toolsatzero.com/](https://www.toolsatzero.com/) | Tool Website | ToolsAtZero |
+| 209 | [https://www.worldmonitor.app/](https://www.worldmonitor.app/) | Tool Website | World Monitor |
+| 210 | [https://xi.pe/](https://xi.pe/) | Tool Website | xipe |
+| 211 | [https://yqnn.github.io/svg-path-editor/](https://yqnn.github.io/svg-path-editor/) | Tool Website | SvgPathEditor |
+| 212 | [https://zkdrop.org](https://zkdrop.org) | Tool Website | zkdrop |
+| 213 | [niolesk.top](niolesk.top) | Tool Website | Niolesk |
 
 [Full links listing ->](./links/)
 
@@ -465,186 +525,216 @@ All open-source repositories linked from tool entries.
 | 1 | [https://github.com/1612elphi/delphitools](https://github.com/1612elphi/delphitools) | MIT | delphitools |
 | 2 | [https://github.com/1j01/jspaint](https://github.com/1j01/jspaint) | MIT | JSPaint |
 | 3 | [https://github.com/aayushdutt/midee](https://github.com/aayushdutt/midee) | Various | Midee |
-| 4 | [https://github.com/aghyad97/browserytools](https://github.com/aghyad97/browserytools) | AGPL-3.0 | BrowseryTools |
-| 5 | [https://github.com/ahilss/wavacity](https://github.com/ahilss/wavacity) | GPL-2.0 | Wavacity |
-| 6 | [https://github.com/alam00000/bentopdf/](https://github.com/alam00000/bentopdf/) | AGPL-3.0 | BentoPDF |
-| 7 | [https://github.com/AlfonsoML/proteccionDNI/](https://github.com/AlfonsoML/proteccionDNI/) | GPL-3.0 | ProtegeMiDNI |
-| 8 | [https://github.com/algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) | MIT | Algorithm Visualizer |
-| 9 | [https://github.com/alwedo/jobber](https://github.com/alwedo/jobber) | MIT | Jobber |
-| 10 | [https://github.com/amitmerchant1990/notepad](https://github.com/amitmerchant1990/notepad) | MIT | Notepad PWA |
-| 11 | [https://github.com/andymai/gridfinity-layout-tool](https://github.com/andymai/gridfinity-layout-tool) | AGPL-3.0 | Gridfinity Layout Tool |
-| 12 | [https://github.com/Anirudh-Rao-portfolio/ToolsAtZero](https://github.com/Anirudh-Rao-portfolio/ToolsAtZero) | NC | ToolsAtZero |
-| 13 | [https://github.com/AppsYogi-com/ComposeYogi](https://github.com/AppsYogi-com/ComposeYogi) | MIT | ComposeYogi |
-| 14 | [https://github.com/audreyt/ethercalc](https://github.com/audreyt/ethercalc) | CPAL-1.0 | EtherCalc |
-| 15 | [https://github.com/Augani/openreel-video](https://github.com/Augani/openreel-video) | MIT | OpenReel Video |
-| 16 | [https://github.com/AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | Apache-2.0 | JSON Crack |
-| 17 | [https://github.com/benweet/stackedit](https://github.com/benweet/stackedit) | Apache-2.0 | StackEdit |
-| 18 | [https://github.com/bitbof/klecks](https://github.com/bitbof/klecks) | MIT | Klecks |
-| 19 | [https://github.com/browserpad/browserpad](https://github.com/browserpad/browserpad) | ISC | Browserpad |
-| 20 | [https://github.com/carbon-app/carbon](https://github.com/carbon-app/carbon) | MIT | carbon |
-| 21 | [https://github.com/chipmates/agoracosmica](https://github.com/chipmates/agoracosmica) | AGPL-3.0 | Agora Cosmica |
-| 22 | [https://github.com/clip-fish/web](https://github.com/clip-fish/web) | MIT | Clip Fish |
-| 23 | [https://github.com/CodeGraphContext/CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext) | MIT | CodeGraphContext (CGC) |
-| 24 | [https://github.com/CorentinTh/enclosed](https://github.com/CorentinTh/enclosed) | Apache-2.0 | Enclosed |
-| 25 | [https://github.com/corentinth/it-tools](https://github.com/corentinth/it-tools) | GPL-3.0 | IT-Tools |
-| 26 | [https://github.com/cryptii/cryptii](https://github.com/cryptii/cryptii) | MIT | Cryptii |
-| 27 | [https://github.com/cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) | AGPL-3.0 | CryptPad |
-| 28 | [https://github.com/cupcakearmy/cryptgeon](https://github.com/cupcakearmy/cryptgeon) | MIT | Cryptgeon |
-| 29 | [https://github.com/darkly-art/darkly](https://github.com/darkly-art/darkly) | AGPL-3.0 | Darkly.Art |
-| 30 | [https://github.com/dart-lang/dart-pad](https://github.com/dart-lang/dart-pad) | BSD-3-Clause | DartPad |
-| 31 | [https://github.com/drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | AGPL-3.0 | drawDB |
-| 32 | [https://github.com/drewstreib/xipe-go](https://github.com/drewstreib/xipe-go) | MIT | xipe |
-| 33 | [https://github.com/drexfall/goatpad](https://github.com/drexfall/goatpad) | CC BY-NC-SA 4.0 | GoatPad |
-| 34 | [https://github.com/emn178/online-tools](https://github.com/emn178/online-tools) | Various | Online tools |
-| 35 | [https://github.com/enonforetsam/fluid](https://github.com/enonforetsam/fluid) | MIT | Fluid |
-| 36 | [https://github.com/ente-io/ente](https://github.com/ente-io/ente) | AGPL-3.0 | ente Paste |
-| 37 | [https://github.com/everestpipkin/image-scrubber](https://github.com/everestpipkin/image-scrubber) | MIT | image-scrubber |
-| 38 | [https://github.com/excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | MIT | Excalidraw |
-| 39 | [https://github.com/feathericons/feather](https://github.com/feathericons/feather) | MIT | Feather |
-| 40 | [https://github.com/Fechin/reference](https://github.com/Fechin/reference) | GPL-3.0 | QuickRef.ME |
-| 41 | [https://github.com/ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) | MIT | ffmpeg.wasm |
-| 42 | [https://github.com/fileverse/fileverse-ddoc](https://github.com/fileverse/fileverse-ddoc) | AGPL-3.0 | dDoc |
-| 43 | [https://github.com/fileverse/fileverse-dsheet](https://github.com/fileverse/fileverse-dsheet) | AGPL-3.0 | dSheets |
-| 44 | [https://github.com/fkling/astexplorer](https://github.com/fkling/astexplorer) | MIT | AST explorer |
-| 45 | [https://github.com/fuegocoding/dither](https://github.com/fuegocoding/dither) | Various | dither |
-| 46 | [https://github.com/fullstack-hy2020/fullstack-hy2020.github.io](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io) | CC BY-NC-SA 3.0 | Full Stack open |
-| 47 | [https://github.com/gchq/CyberChef](https://github.com/gchq/CyberChef) | Apache-2.0 | CyberChef |
-| 48 | [https://github.com/glincker/thesvg](https://github.com/glincker/thesvg) | MIT | TheSVG |
-| 49 | [https://github.com/glyphr-studio/Glyphr-Studio-2](https://github.com/glyphr-studio/Glyphr-Studio-2) | Various | Glyphr Studio |
-| 50 | [https://github.com/goncalojbsousa/EasyPeasyCV](https://github.com/goncalojbsousa/EasyPeasyCV) | MIT | EasyPeasyCV |
-| 51 | [https://github.com/GoogleChromeLabs/squoosh/](https://github.com/GoogleChromeLabs/squoosh/) | Apache-2.0 | Squoosh |
-| 52 | [https://github.com/Grade-Boundaries/GradeBoundaries-stable](https://github.com/Grade-Boundaries/GradeBoundaries-stable) | CC BY-NC 4.0 | Grade Boundaries |
-| 53 | [https://github.com/GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) | Apache-2.0 | Graphite |
-| 54 | [https://github.com/gristlabs/grist-core](https://github.com/gristlabs/grist-core) | Apache-2.0 | Grist |
-| 55 | [https://github.com/gskinner/regexr/](https://github.com/gskinner/regexr/) | GPL-3.0 | RegExr |
-| 56 | [https://github.com/hariharjeevan/cheezypizza](https://github.com/hariharjeevan/cheezypizza) | BSD 3-Clause | CheezyPizza |
-| 57 | [https://github.com/hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) | CC-BY-SA-4.0 | OpenMoji |
-| 58 | [https://github.com/homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) | Apache-2.0 | Dashboard Icons |
-| 59 | [https://github.com/hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | MIT | hoppscotch |
-| 60 | [https://github.com/iAnonymous3000/metadata-remover](https://github.com/iAnonymous3000/metadata-remover) | MIT | Metadata Remover |
-| 61 | [https://github.com/iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) | MIT | Iconoir |
-| 62 | [https://github.com/idank/explainshell](https://github.com/idank/explainshell) | GPL-3.0 | explainshell.com |
-| 63 | [https://github.com/ikuaitu/vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor) | MIT | vue-fabric-editor |
-| 64 | [https://github.com/imputnet/cobalt](https://github.com/imputnet/cobalt) | AGPL-3.0 | Cobalt |
-| 65 | [https://github.com/inbn/component-gallery](https://github.com/inbn/component-gallery) | Various | Component Gallery |
-| 66 | [https://github.com/Infomaniak/kpaste](https://github.com/Infomaniak/kpaste) | GPL-3.0 | kPaste |
-| 67 | [https://github.com/iNikAnn/DoHabit](https://github.com/iNikAnn/DoHabit) | AGPL-3.0 | DoHabit |
-| 68 | [https://github.com/jakearchibald/svgomg](https://github.com/jakearchibald/svgomg) | MIT | SVGOMG |
-| 69 | [https://github.com/jakmaz/gately](https://github.com/jakmaz/gately) | MIT | Gately |
-| 70 | [https://github.com/JannisX11/blockbench](https://github.com/JannisX11/blockbench) | GPL-3.0 | Blockbench |
-| 71 | [https://github.com/jgraph/drawio](https://github.com/jgraph/drawio) | Apache-2.0 | draw.io |
-| 72 | [https://github.com/joemccann/dillinger](https://github.com/joemccann/dillinger) | MIT | Dillinger |
-| 73 | [https://github.com/jonathanwalker/sqlchef](https://github.com/jonathanwalker/sqlchef) | MIT | SQLChef |
-| 74 | [https://github.com/jsbin/jsbin](https://github.com/jsbin/jsbin) | MIT | JS Bin |
-| 75 | [https://github.com/KartikLabhshetwar/screenshot-studio](https://github.com/KartikLabhshetwar/screenshot-studio) | Apache-2.0 | Screenshot Studio |
-| 76 | [https://github.com/koala73/worldmonitor?utm_source=worldmonitor&utm_medium=referral&utm_campaign=general](https://github.com/koala73/worldmonitor?utm_source=worldmonitor&utm_medium=referral&utm_campaign=general) | AGPL-3.0-only | World Monitor |
-| 77 | [https://github.com/koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) | AGPL-3.0 | Koodo Reader |
-| 78 | [https://github.com/kuronekony4n/sequence-to-video](https://github.com/kuronekony4n/sequence-to-video) | Various | s-2-v |
-| 79 | [https://github.com/lakshaybhushan/vecto3d](https://github.com/lakshaybhushan/vecto3d) | MIT | Vecto3d |
-| 80 | [https://github.com/LauraWebdev/shade-studio](https://github.com/LauraWebdev/shade-studio) | MIT | ShadeStudio |
-| 81 | [https://github.com/lazy-guy/tomodoro](https://github.com/lazy-guy/tomodoro) | MIT | Tomodoro |
-| 82 | [https://github.com/lewish/asciiflow](https://github.com/lewish/asciiflow) | MIT | ASCIIFlow |
-| 83 | [https://github.com/linuz90/gists.sh](https://github.com/linuz90/gists.sh) | Various | gists.sh |
-| 84 | [https://github.com/LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly) | AGPL-3.0 | Linwood Butterfly |
-| 85 | [https://github.com/localsend/web](https://github.com/localsend/web) | Apache-2.0 | LocalSend-Web |
-| 86 | [https://github.com/logseq/logseq](https://github.com/logseq/logseq) | AGPL-3.0 | Logseq |
-| 87 | [https://github.com/lookscanned/lookscanned.io](https://github.com/lookscanned/lookscanned.io) | MIT | lookscanned |
-| 88 | [https://github.com/lovasoa/whitebophir](https://github.com/lovasoa/whitebophir) | AGPL-3.0 | WBO (Whitebophir) |
-| 89 | [https://github.com/lucide-icons/lucide](https://github.com/lucide-icons/lucide) | ISC | Lucide |
-| 90 | [https://github.com/makegirlsmoe/makegirlsmoe_web](https://github.com/makegirlsmoe/makegirlsmoe_web) | CC BY-NC 2.0 | MakeGirlsMoe |
-| 91 | [https://github.com/MangoButtermilch/texturinator](https://github.com/MangoButtermilch/texturinator) | Various | Texturinator |
-| 92 | [https://github.com/marcrobledo/RomPatcher.js/](https://github.com/marcrobledo/RomPatcher.js/) | MIT | Rom Patcher JS |
-| 93 | [https://github.com/markmap/markmap](https://github.com/markmap/markmap) | MIT | markmap |
-| 94 | [https://github.com/Mason363/Planar](https://github.com/Mason363/Planar) | MIT | Planar |
-| 95 | [https://github.com/mat-sz/filedrop](https://github.com/mat-sz/filedrop) | BSD-3-Clause-Clear | FileDrop |
-| 96 | [https://github.com/medy17/dropsilk](https://github.com/medy17/dropsilk) | GPL-3.0 | DropSilk |
-| 97 | [https://github.com/megh-bari/pattern-craft](https://github.com/megh-bari/pattern-craft) | MIT | Pattern Craft |
-| 98 | [https://github.com/mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) | MIT | Mermaid Live |
-| 99 | [https://github.com/Merricx/qrazybox](https://github.com/Merricx/qrazybox) | MIT | QRazyBox |
-| 100 | [https://github.com/methodofaction/Method-Draw](https://github.com/methodofaction/Method-Draw) | MIT | Method Draw |
-| 101 | [https://github.com/MewPurPur/GodSVG](https://github.com/MewPurPur/GodSVG) | MIT | GodSVG |
-| 102 | [https://github.com/microsoft/vscode](https://github.com/microsoft/vscode) | MIT | Visual Studio Code for the Web |
-| 103 | [https://github.com/mikecase/opencode-config-builder](https://github.com/mikecase/opencode-config-builder) | Various | OpenCode Config Builder |
-| 104 | [https://github.com/miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) | AGPL-3.0 | MiroTalk P2P |
-| 105 | [https://github.com/mlbrothers/ToolsForImage-OSS](https://github.com/mlbrothers/ToolsForImage-OSS) | MIT | ToolsForImage |
-| 106 | [https://github.com/mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) | Apache-2.0 | WebLLM |
-| 107 | [https://github.com/MUmarShahbaz/Oscilloscope-Online-V2](https://github.com/MUmarShahbaz/Oscilloscope-Online-V2) | Various | Oscilloscope Online V2 |
-| 108 | [https://github.com/mxfng/drumhaus](https://github.com/mxfng/drumhaus) | CC BY-NC-SA 4.0 | Drumhaus |
-| 109 | [https://github.com/nalgeon/sqlime](https://github.com/nalgeon/sqlime) | MIT | Sqlime |
-| 110 | [https://github.com/noumena-labs/Sipp](https://github.com/noumena-labs/Sipp) | Apache-2.0 | Sipp Chat |
-| 111 | [https://github.com/nrenner/brouter-web](https://github.com/nrenner/brouter-web) | MIT | BRouter-web |
-| 112 | [https://github.com/ogdakke/voidmesh](https://github.com/ogdakke/voidmesh) | MIT | VoidMesh |
-| 113 | [https://github.com/omni-media/omniclip](https://github.com/omni-media/omniclip) | MIT | OmniClip |
-| 114 | [https://github.com/OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | MIT | OpenCut |
-| 115 | [https://github.com/Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) | MIT | Pixelorama |
-| 116 | [https://github.com/p2r3/convert](https://github.com/p2r3/convert) | GPL-2.0 | Convert To It |
-| 117 | [https://github.com/pandoc/pandoc-wasm](https://github.com/pandoc/pandoc-wasm) | MIT | Pandoc WASM |
-| 118 | [https://github.com/pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) | MIT | Bundlephobia |
-| 119 | [https://github.com/pathrise-eng/pathrise-python-tutor](https://github.com/pathrise-eng/pathrise-python-tutor) | GPL-3.0 | Python Tutor |
-| 120 | [https://github.com/pfalstad/circuitjs1](https://github.com/pfalstad/circuitjs1) | GPL-2.0 | CircuitJS1 |
-| 121 | [https://github.com/phosphor-icons/homepage/tree/master](https://github.com/phosphor-icons/homepage/tree/master) | MIT | Phosphor Icons |
-| 122 | [https://github.com/piskelapp/piskel](https://github.com/piskelapp/piskel) | Apache-2.0 | Piskel |
-| 123 | [https://github.com/pkalogiros/AudioMass](https://github.com/pkalogiros/AudioMass) | MIT | AudioMass |
-| 124 | [https://github.com/pmg1991/maven-tools](https://github.com/pmg1991/maven-tools) | MIT | Online Maven Download Tool |
-| 125 | [https://github.com/potatameister/PaperKnife](https://github.com/potatameister/PaperKnife) | AGPL-3.0 | PaperKnife |
-| 126 | [https://github.com/pranavp10/video-compress](https://github.com/pranavp10/video-compress) | MIT | Compress |
-| 127 | [https://github.com/pshycodr/phosphor-cam](https://github.com/pshycodr/phosphor-cam) | MIT | Phosphor-Cam |
-| 128 | [https://github.com/qsniyg/maxurl](https://github.com/qsniyg/maxurl) | Apache-2.0 | Image Max URL |
-| 129 | [https://github.com/rahulcvwebsitehosting/AutoReels-Ai](https://github.com/rahulcvwebsitehosting/AutoReels-Ai) | Various | AutoReels AI |
-| 130 | [https://github.com/rahulcvwebsitehosting/WebNav](https://github.com/rahulcvwebsitehosting/WebNav) | Various | WebNav |
-| 131 | [https://github.com/rakibulsagor/Clearcanvas](https://github.com/rakibulsagor/Clearcanvas) | MIT | ClearCanvas AI |
-| 132 | [https://github.com/rawgraphs/rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app) | Apache-2.0 | RAWGraphs |
-| 133 | [https://github.com/raycast/ray-so](https://github.com/raycast/ray-so) | MIT | Icon Maker |
-| 134 | [https://github.com/ReactorcoreGames/Image-to-UnicodeASCII-Generator/tree/main](https://github.com/ReactorcoreGames/Image-to-UnicodeASCII-Generator/tree/main) | Various | Image to UnicodeASCII Generator |
-| 135 | [https://github.com/Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon) | RIL-1.0 | Remix Icons |
-| 136 | [https://github.com/resume-nation/resume-nation.github.io](https://github.com/resume-nation/resume-nation.github.io) | MIT | Resume Nation |
-| 137 | [https://github.com/rgab1508/PixelCraft](https://github.com/rgab1508/PixelCraft) | MIT | PixelCraft |
-| 138 | [https://github.com/ritz078/transform](https://github.com/ritz078/transform) | MIT | Transform |
-| 139 | [https://github.com/sardorml/tailit](https://github.com/sardorml/tailit) | MIT | Tailit |
-| 140 | [https://github.com/satvisorcom/satvisor](https://github.com/satvisorcom/satvisor) | AGPL-3.0 | Satvisor |
-| 141 | [https://github.com/sayanarijit/qrcode.show](https://github.com/sayanarijit/qrcode.show) | AGPL-3.0 | QrCodeShow |
-| 142 | [https://github.com/schlagmichdoch/pairdrop](https://github.com/schlagmichdoch/pairdrop) | GPL-3.0 | PairDrop |
-| 143 | [https://github.com/selfhst/icons](https://github.com/selfhst/icons) | CC-BY-4.0 | selfh.st Icons |
-| 144 | [https://github.com/senolgulgonul/verisim](https://github.com/senolgulgonul/verisim) | GPL-2.0 | VeriSim |
-| 145 | [https://github.com/shancarter/Mr-Data-Converter?tab=License-1-ov-file](https://github.com/shancarter/Mr-Data-Converter?tab=License-1-ov-file) | MIT | Mr. Data Converter |
-| 146 | [https://github.com/shane-jacobeen/schema3d](https://github.com/shane-jacobeen/schema3d) | MIT | Schema3D |
-| 147 | [https://github.com/Shpigford/studio](https://github.com/Shpigford/studio) | MIT | Studio |
-| 148 | [https://github.com/shravanngoswamii/DrawShare](https://github.com/shravanngoswamii/DrawShare) | MIT | DrawShare |
-| 149 | [https://github.com/simonw/datasette-lite](https://github.com/simonw/datasette-lite) | Apache-2.0 | Datasette Lite |
-| 150 | [https://github.com/simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) | CC0-1.0 | Simple Icons |
-| 151 | [https://github.com/simplifaisoul/osiris](https://github.com/simplifaisoul/osiris) | MIT | OSIRIS |
-| 152 | [https://github.com/spectra-g/scratch-tabs](https://github.com/spectra-g/scratch-tabs) | MIT | Scratch Tabs |
-| 153 | [https://github.com/Specy/asm-editor](https://github.com/Specy/asm-editor) | AGPL-3.0 | ASM Editor |
-| 154 | [https://github.com/Specy/rooc](https://github.com/Specy/rooc) | MPL-2.0 | ROOC Optimization |
-| 155 | [https://github.com/Specy/tokeko](https://github.com/Specy/tokeko) | Various | Tokeko |
-| 156 | [https://github.com/spliit-app/spliit](https://github.com/spliit-app/spliit) | MIT | Spliit |
-| 157 | [https://github.com/Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | MIT | Stirling-PDF |
-| 158 | [https://github.com/stophecom/sharrr-svelte](https://github.com/stophecom/sharrr-svelte) | MIT | Sharr |
-| 159 | [https://github.com/SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) | MIT | SubtitleEdit |
-| 160 | [https://github.com/SVG-Edit/svgedit](https://github.com/SVG-Edit/svgedit) | MIT | SVG-Edit |
-| 161 | [https://github.com/synthetic-sciences/openscience](https://github.com/synthetic-sciences/openscience) | Apache-2.0 | OpenScience |
-| 162 | [https://github.com/tabler/tabler-icons](https://github.com/tabler/tabler-icons) | MIT | Tabler Icons |
-| 163 | [https://github.com/tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) | MIT | heroicons |
-| 164 | [https://github.com/tanabe/markdown-live-preview](https://github.com/tanabe/markdown-live-preview) | MIT | Markdown Live Preview |
-| 165 | [https://github.com/theacodes/kicanvas](https://github.com/theacodes/kicanvas) | MIT | KiCanvas |
-| 166 | [https://github.com/themidnightgospel/free-cv-builder](https://github.com/themidnightgospel/free-cv-builder) | MIT | Free CV Builder |
-| 167 | [https://github.com/tldraw/tldraw](https://github.com/tldraw/tldraw) | NC | tldraw |
-| 168 | [https://github.com/toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | MIT | AFFiNE |
-| 169 | [https://github.com/tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) | MIT | flowchart.fun |
-| 170 | [https://github.com/tra-sco/mermify](https://github.com/tra-sco/mermify) | MIT | Mermify |
-| 171 | [https://github.com/tuton012/editorpilot](https://github.com/tuton012/editorpilot) | Various | EditorPilot |
-| 172 | [https://github.com/undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) | GPL-3.0 | privacy.sexy |
-| 173 | [https://github.com/VERT-sh/VERT](https://github.com/VERT-sh/VERT) | AGPL-3.0 | VERT |
-| 174 | [https://github.com/vijeeshr/quickretro](https://github.com/vijeeshr/quickretro) | AGPL-3.0 | QuickRetro |
-| 175 | [https://github.com/viliusle/miniPaint](https://github.com/viliusle/miniPaint) | MIT | miniPaint |
-| 176 | [https://github.com/webgiss/niolesk/](https://github.com/webgiss/niolesk/) | MIT | Niolesk |
-| 177 | [https://github.com/WebPraktikos/universal-resume](https://github.com/WebPraktikos/universal-resume) | CC BY-NC-SA 1.0 | Universal Résumé Template |
-| 178 | [https://github.com/webtor-io/web-ui](https://github.com/webtor-io/web-ui) | MIT | Webtor.io |
-| 179 | [https://github.com/xdadda/mini-photo-editor](https://github.com/xdadda/mini-photo-editor) | MIT | MiNi PhotoEditor |
-| 180 | [https://github.com/YottaYocta/GreenDolphin](https://github.com/YottaYocta/GreenDolphin) | GPL-3.0 | GreenDolphin |
-| 181 | [https://github.com/yousifamanuel/terraink](https://github.com/yousifamanuel/terraink) | MIT | TerraInk |
-| 182 | [https://github.com/Yqnn/svg-path-editor](https://github.com/Yqnn/svg-path-editor) | Apache-2.0 | SvgPathEditor |
-| 183 | [https://github.com/zedxihan/zkdrop](https://github.com/zedxihan/zkdrop) | AGPL-3.0 | zkdrop |
+| 4 | [https://github.com/abdulrdeveloper/Color-Palette-Generator](https://github.com/abdulrdeveloper/Color-Palette-Generator) | MIT | Color Palette Generator |
+| 5 | [https://github.com/aghyad97/browserytools](https://github.com/aghyad97/browserytools) | AGPL-3.0 | BrowseryTools |
+| 6 | [https://github.com/ahilss/wavacity](https://github.com/ahilss/wavacity) | GPL-2.0 | Wavacity |
+| 7 | [https://github.com/alam00000/bentopdf/](https://github.com/alam00000/bentopdf/) | AGPL-3.0 | BentoPDF |
+| 8 | [https://github.com/AlfonsoML/proteccionDNI/](https://github.com/AlfonsoML/proteccionDNI/) | GPL-3.0 | ProtegeMiDNI |
+| 9 | [https://github.com/algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) | MIT | Algorithm Visualizer |
+| 10 | [https://github.com/alwedo/jobber](https://github.com/alwedo/jobber) | MIT | Jobber |
+| 11 | [https://github.com/amitmerchant1990/notepad](https://github.com/amitmerchant1990/notepad) | MIT | Notepad PWA |
+| 12 | [https://github.com/andymai/gridfinity-layout-tool](https://github.com/andymai/gridfinity-layout-tool) | AGPL-3.0 | Gridfinity Layout Tool |
+| 13 | [https://github.com/Anirudh-Rao-portfolio/ToolsAtZero](https://github.com/Anirudh-Rao-portfolio/ToolsAtZero) | NC | ToolsAtZero |
+| 14 | [https://github.com/AppsYogi-com/ComposeYogi](https://github.com/AppsYogi-com/ComposeYogi) | MIT | ComposeYogi |
+| 15 | [https://github.com/arnon-shub/exifree](https://github.com/arnon-shub/exifree) | MIT | exifree |
+| 16 | [https://github.com/audreyt/ethercalc](https://github.com/audreyt/ethercalc) | CPAL-1.0 | EtherCalc |
+| 17 | [https://github.com/Augani/openreel-video](https://github.com/Augani/openreel-video) | MIT | OpenReel Video |
+| 18 | [https://github.com/AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | Apache-2.0 | JSON Crack |
+| 19 | [https://github.com/benweet/stackedit](https://github.com/benweet/stackedit) | Apache-2.0 | StackEdit |
+| 20 | [https://github.com/bitbof/klecks](https://github.com/bitbof/klecks) | MIT | Klecks |
+| 21 | [https://github.com/braedonsaunders/codeflow](https://github.com/braedonsaunders/codeflow) | None | CodeFlow |
+| 22 | [https://github.com/browserpad/browserpad](https://github.com/browserpad/browserpad) | ISC | Browserpad |
+| 23 | [https://github.com/carbon-app/carbon](https://github.com/carbon-app/carbon) | MIT | carbon |
+| 24 | [https://github.com/chipmates/agoracosmica](https://github.com/chipmates/agoracosmica) | AGPL-3.0 | Agora Cosmica |
+| 25 | [https://github.com/clip-fish/web](https://github.com/clip-fish/web) | MIT | Clip Fish |
+| 26 | [https://github.com/CodeGraphContext/CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext) | MIT | CodeGraphContext (CGC) |
+| 27 | [https://github.com/CorentinTh/enclosed](https://github.com/CorentinTh/enclosed) | Apache-2.0 | Enclosed |
+| 28 | [https://github.com/corentinth/it-tools](https://github.com/corentinth/it-tools) | GPL-3.0 | IT-Tools |
+| 29 | [https://github.com/cryptii/cryptii](https://github.com/cryptii/cryptii) | MIT | Cryptii |
+| 30 | [https://github.com/cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) | AGPL-3.0 | CryptPad |
+| 31 | [https://github.com/cupcakearmy/cryptgeon](https://github.com/cupcakearmy/cryptgeon) | MIT | Cryptgeon |
+| 32 | [https://github.com/darkly-art/darkly](https://github.com/darkly-art/darkly) | AGPL-3.0 | Darkly.Art |
+| 33 | [https://github.com/dart-lang/dart-pad](https://github.com/dart-lang/dart-pad) | BSD-3-Clause | DartPad |
+| 34 | [https://github.com/drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | AGPL-3.0 | drawDB |
+| 35 | [https://github.com/drewstreib/xipe-go](https://github.com/drewstreib/xipe-go) | MIT | xipe |
+| 36 | [https://github.com/drexfall/goatpad](https://github.com/drexfall/goatpad) | CC BY-NC-SA 4.0 | GoatPad |
+| 37 | [https://github.com/emn178/online-tools](https://github.com/emn178/online-tools) | Various | Online tools |
+| 38 | [https://github.com/enonforetsam/fluid](https://github.com/enonforetsam/fluid) | MIT | Fluid |
+| 39 | [https://github.com/ente-io/ente](https://github.com/ente-io/ente) | AGPL-3.0 | ente Paste |
+| 40 | [https://github.com/everestpipkin/image-scrubber](https://github.com/everestpipkin/image-scrubber) | MIT | image-scrubber |
+| 41 | [https://github.com/excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | MIT | Excalidraw |
+| 42 | [https://github.com/feathericons/feather](https://github.com/feathericons/feather) | MIT | Feather |
+| 43 | [https://github.com/Fechin/reference](https://github.com/Fechin/reference) | GPL-3.0 | QuickRef.ME |
+| 44 | [https://github.com/ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) | MIT | ffmpeg.wasm |
+| 45 | [https://github.com/fileverse/fileverse-ddoc](https://github.com/fileverse/fileverse-ddoc) | AGPL-3.0 | dDoc |
+| 46 | [https://github.com/fileverse/fileverse-dsheet](https://github.com/fileverse/fileverse-dsheet) | AGPL-3.0 | dSheets |
+| 47 | [https://github.com/fkling/astexplorer](https://github.com/fkling/astexplorer) | MIT | AST explorer |
+| 48 | [https://github.com/fuegocoding/dither](https://github.com/fuegocoding/dither) | Various | dither |
+| 49 | [https://github.com/fullstack-hy2020/fullstack-hy2020.github.io](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io) | CC BY-NC-SA 3.0 | Full Stack open |
+| 50 | [https://github.com/gchq/CyberChef](https://github.com/gchq/CyberChef) | Apache-2.0 | CyberChef |
+| 51 | [https://github.com/gelatinescreams/The-One-File](https://github.com/gelatinescreams/The-One-File) | NOASSERTION | The-One-File |
+| 52 | [https://github.com/glincker/thesvg](https://github.com/glincker/thesvg) | MIT | TheSVG |
+| 53 | [https://github.com/glyphr-studio/Glyphr-Studio-2](https://github.com/glyphr-studio/Glyphr-Studio-2) | Various | Glyphr Studio |
+| 54 | [https://github.com/goncalojbsousa/EasyPeasyCV](https://github.com/goncalojbsousa/EasyPeasyCV) | MIT | EasyPeasyCV |
+| 55 | [https://github.com/GoogleChromeLabs/squoosh/](https://github.com/GoogleChromeLabs/squoosh/) | Apache-2.0 | Squoosh |
+| 56 | [https://github.com/Grade-Boundaries/GradeBoundaries-stable](https://github.com/Grade-Boundaries/GradeBoundaries-stable) | CC BY-NC 4.0 | Grade Boundaries |
+| 57 | [https://github.com/GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) | Apache-2.0 | Graphite |
+| 58 | [https://github.com/gristlabs/grist-core](https://github.com/gristlabs/grist-core) | Apache-2.0 | Grist |
+| 59 | [https://github.com/gskinner/regexr/](https://github.com/gskinner/regexr/) | GPL-3.0 | RegExr |
+| 60 | [https://github.com/gyng/ditherer](https://github.com/gyng/ditherer) | MIT | ditherer |
+| 61 | [https://github.com/hariharjeevan/cheezypizza](https://github.com/hariharjeevan/cheezypizza) | BSD 3-Clause | CheezyPizza |
+| 62 | [https://github.com/hashangit/Extract2MD](https://github.com/hashangit/Extract2MD) | MIT | Extract2MD |
+| 63 | [https://github.com/hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) | CC-BY-SA-4.0 | OpenMoji |
+| 64 | [https://github.com/hfmsio/dbxlite](https://github.com/hfmsio/dbxlite) | MIT | dbxlite |
+| 65 | [https://github.com/homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) | Apache-2.0 | Dashboard Icons |
+| 66 | [https://github.com/hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | MIT | hoppscotch |
+| 67 | [https://github.com/iAnonymous3000/metadata-remover](https://github.com/iAnonymous3000/metadata-remover) | MIT | Metadata Remover |
+| 68 | [https://github.com/iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) | MIT | Iconoir |
+| 69 | [https://github.com/idank/explainshell](https://github.com/idank/explainshell) | GPL-3.0 | explainshell.com |
+| 70 | [https://github.com/ikuaitu/vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor) | MIT | vue-fabric-editor |
+| 71 | [https://github.com/imputnet/cobalt](https://github.com/imputnet/cobalt) | AGPL-3.0 | Cobalt |
+| 72 | [https://github.com/inbn/component-gallery](https://github.com/inbn/component-gallery) | Various | Component Gallery |
+| 73 | [https://github.com/increpare/bfxr](https://github.com/increpare/bfxr) | None | bfxr |
+| 74 | [https://github.com/Infomaniak/kpaste](https://github.com/Infomaniak/kpaste) | GPL-3.0 | kPaste |
+| 75 | [https://github.com/iNikAnn/DoHabit](https://github.com/iNikAnn/DoHabit) | AGPL-3.0 | DoHabit |
+| 76 | [https://github.com/jakearchibald/svgomg](https://github.com/jakearchibald/svgomg) | MIT | SVGOMG |
+| 77 | [https://github.com/jakmaz/gately](https://github.com/jakmaz/gately) | MIT | Gately |
+| 78 | [https://github.com/JannisX11/blockbench](https://github.com/JannisX11/blockbench) | GPL-3.0 | Blockbench |
+| 79 | [https://github.com/jgraph/drawio](https://github.com/jgraph/drawio) | Apache-2.0 | draw.io |
+| 80 | [https://github.com/joemccann/dillinger](https://github.com/joemccann/dillinger) | MIT | Dillinger |
+| 81 | [https://github.com/JohsEnevoldsen/literature-clock](https://github.com/JohsEnevoldsen/literature-clock) | MIT | literature-clock |
+| 82 | [https://github.com/jonathanwalker/sqlchef](https://github.com/jonathanwalker/sqlchef) | MIT | SQLChef |
+| 83 | [https://github.com/jsbin/jsbin](https://github.com/jsbin/jsbin) | MIT | JS Bin |
+| 84 | [https://github.com/KartikLabhshetwar/screenshot-studio](https://github.com/KartikLabhshetwar/screenshot-studio) | Apache-2.0 | Screenshot Studio |
+| 85 | [https://github.com/kluter/TracePoint](https://github.com/kluter/TracePoint) | AGPL-3.0 | TracePoint |
+| 86 | [https://github.com/koala73/worldmonitor?utm_source=worldmonitor&utm_medium=referral&utm_campaign=general](https://github.com/koala73/worldmonitor?utm_source=worldmonitor&utm_medium=referral&utm_campaign=general) | AGPL-3.0-only | World Monitor |
+| 87 | [https://github.com/koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) | AGPL-3.0 | Koodo Reader |
+| 88 | [https://github.com/kuronekony4n/sequence-to-video](https://github.com/kuronekony4n/sequence-to-video) | Various | s-2-v |
+| 89 | [https://github.com/lakshaybhushan/vecto3d](https://github.com/lakshaybhushan/vecto3d) | MIT | Vecto3d |
+| 90 | [https://github.com/LauraWebdev/shade-studio](https://github.com/LauraWebdev/shade-studio) | MIT | ShadeStudio |
+| 91 | [https://github.com/lazy-guy/tomodoro](https://github.com/lazy-guy/tomodoro) | MIT | Tomodoro |
+| 92 | [https://github.com/lewish/asciiflow](https://github.com/lewish/asciiflow) | MIT | ASCIIFlow |
+| 93 | [https://github.com/linuz90/gists.sh](https://github.com/linuz90/gists.sh) | Various | gists.sh |
+| 94 | [https://github.com/LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly) | AGPL-3.0 | Linwood Butterfly |
+| 95 | [https://github.com/localsend/web](https://github.com/localsend/web) | Apache-2.0 | LocalSend-Web |
+| 96 | [https://github.com/logseq/logseq](https://github.com/logseq/logseq) | AGPL-3.0 | Logseq |
+| 97 | [https://github.com/lookscanned/lookscanned.io](https://github.com/lookscanned/lookscanned.io) | MIT | lookscanned |
+| 98 | [https://github.com/lovasoa/whitebophir](https://github.com/lovasoa/whitebophir) | AGPL-3.0 | WBO (Whitebophir) |
+| 99 | [https://github.com/lucide-icons/lucide](https://github.com/lucide-icons/lucide) | ISC | Lucide |
+| 100 | [https://github.com/luckyfoxdesign/donutsvg](https://github.com/luckyfoxdesign/donutsvg) | None | donutsvg |
+| 101 | [https://github.com/luizomf/sshtoolkit](https://github.com/luizomf/sshtoolkit) | MIT | SSHToolkit |
+| 102 | [https://github.com/lukasbach/vileo](https://github.com/lukasbach/vileo) | None | Vileo |
+| 103 | [https://github.com/magic-peach/reframe](https://github.com/magic-peach/reframe) | None | reframe |
+| 104 | [https://github.com/makegirlsmoe/makegirlsmoe_web](https://github.com/makegirlsmoe/makegirlsmoe_web) | CC BY-NC 2.0 | MakeGirlsMoe |
+| 105 | [https://github.com/MangoButtermilch/texturinator](https://github.com/MangoButtermilch/texturinator) | Various | Texturinator |
+| 106 | [https://github.com/manifestinteractive/teleprompter](https://github.com/manifestinteractive/teleprompter) | NOASSERTION | Teleprompter |
+| 107 | [https://github.com/marcrobledo/RomPatcher.js/](https://github.com/marcrobledo/RomPatcher.js/) | MIT | Rom Patcher JS |
+| 108 | [https://github.com/markmap/markmap](https://github.com/markmap/markmap) | MIT | markmap |
+| 109 | [https://github.com/Mason363/Planar](https://github.com/Mason363/Planar) | MIT | Planar |
+| 110 | [https://github.com/mat-sz/filedrop](https://github.com/mat-sz/filedrop) | BSD-3-Clause-Clear | FileDrop |
+| 111 | [https://github.com/medy17/dropsilk](https://github.com/medy17/dropsilk) | GPL-3.0 | DropSilk |
+| 112 | [https://github.com/megh-bari/pattern-craft](https://github.com/megh-bari/pattern-craft) | MIT | Pattern Craft |
+| 113 | [https://github.com/mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) | MIT | Mermaid Live |
+| 114 | [https://github.com/Merricx/qrazybox](https://github.com/Merricx/qrazybox) | MIT | QRazyBox |
+| 115 | [https://github.com/methodofaction/Method-Draw](https://github.com/methodofaction/Method-Draw) | MIT | Method Draw |
+| 116 | [https://github.com/metriclogic26/configclarity](https://github.com/metriclogic26/configclarity) | None | configclarity |
+| 117 | [https://github.com/MewPurPur/GodSVG](https://github.com/MewPurPur/GodSVG) | MIT | GodSVG |
+| 118 | [https://github.com/microsoft/vscode](https://github.com/microsoft/vscode) | MIT | Visual Studio Code for the Web |
+| 119 | [https://github.com/mikecase/opencode-config-builder](https://github.com/mikecase/opencode-config-builder) | Various | OpenCode Config Builder |
+| 120 | [https://github.com/miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) | AGPL-3.0 | MiroTalk P2P |
+| 121 | [https://github.com/mjmirza/Download-VSIX-From-Visual-Studio-Market-Place](https://github.com/mjmirza/Download-VSIX-From-Visual-Studio-Market-Place) | MIT | Download VSIX |
+| 122 | [https://github.com/mlbrothers/ToolsForImage-OSS](https://github.com/mlbrothers/ToolsForImage-OSS) | MIT | ToolsForImage |
+| 123 | [https://github.com/mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) | Apache-2.0 | WebLLM |
+| 124 | [https://github.com/MUmarShahbaz/Oscilloscope-Online-V2](https://github.com/MUmarShahbaz/Oscilloscope-Online-V2) | Various | Oscilloscope Online V2 |
+| 125 | [https://github.com/mxfng/drumhaus](https://github.com/mxfng/drumhaus) | CC BY-NC-SA 4.0 | Drumhaus |
+| 126 | [https://github.com/nalgeon/sqlime](https://github.com/nalgeon/sqlime) | MIT | Sqlime |
+| 127 | [https://github.com/noumena-labs/Sipp](https://github.com/noumena-labs/Sipp) | Apache-2.0 | Sipp Chat |
+| 128 | [https://github.com/nrenner/brouter-web](https://github.com/nrenner/brouter-web) | MIT | BRouter-web |
+| 129 | [https://github.com/ogdakke/voidmesh](https://github.com/ogdakke/voidmesh) | MIT | VoidMesh |
+| 130 | [https://github.com/omni-media/omniclip](https://github.com/omni-media/omniclip) | MIT | OmniClip |
+| 131 | [https://github.com/ondras/my-mind](https://github.com/ondras/my-mind) | MIT | my-mind |
+| 132 | [https://github.com/OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | MIT | OpenCut |
+| 133 | [https://github.com/Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) | MIT | Pixelorama |
+| 134 | [https://github.com/p2r3/convert](https://github.com/p2r3/convert) | GPL-2.0 | Convert To It |
+| 135 | [https://github.com/pandoc/pandoc-wasm](https://github.com/pandoc/pandoc-wasm) | MIT | Pandoc WASM |
+| 136 | [https://github.com/pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) | MIT | Bundlephobia |
+| 137 | [https://github.com/pathrise-eng/pathrise-python-tutor](https://github.com/pathrise-eng/pathrise-python-tutor) | GPL-3.0 | Python Tutor |
+| 138 | [https://github.com/pfalstad/circuitjs1](https://github.com/pfalstad/circuitjs1) | GPL-2.0 | CircuitJS1 |
+| 139 | [https://github.com/phosphor-icons/homepage/tree/master](https://github.com/phosphor-icons/homepage/tree/master) | MIT | Phosphor Icons |
+| 140 | [https://github.com/photopea/photopea](https://github.com/photopea/photopea) | None | Photopea |
+| 141 | [https://github.com/piskelapp/piskel](https://github.com/piskelapp/piskel) | Apache-2.0 | Piskel |
+| 142 | [https://github.com/pkalogiros/AudioMass](https://github.com/pkalogiros/AudioMass) | MIT | AudioMass |
+| 143 | [https://github.com/pmg1991/maven-tools](https://github.com/pmg1991/maven-tools) | MIT | Online Maven Download Tool |
+| 144 | [https://github.com/potatameister/PaperKnife](https://github.com/potatameister/PaperKnife) | AGPL-3.0 | PaperKnife |
+| 145 | [https://github.com/pranavp10/video-compress](https://github.com/pranavp10/video-compress) | MIT | Compress |
+| 146 | [https://github.com/pshycodr/phosphor-cam](https://github.com/pshycodr/phosphor-cam) | MIT | Phosphor-Cam |
+| 147 | [https://github.com/qsniyg/maxurl](https://github.com/qsniyg/maxurl) | Apache-2.0 | Image Max URL |
+| 148 | [https://github.com/rahulcvwebsitehosting/AutoReels-Ai](https://github.com/rahulcvwebsitehosting/AutoReels-Ai) | Various | AutoReels AI |
+| 149 | [https://github.com/rahulcvwebsitehosting/WebNav](https://github.com/rahulcvwebsitehosting/WebNav) | Various | WebNav |
+| 150 | [https://github.com/rakibulsagor/Clearcanvas](https://github.com/rakibulsagor/Clearcanvas) | MIT | ClearCanvas AI |
+| 151 | [https://github.com/rawgraphs/rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app) | Apache-2.0 | RAWGraphs |
+| 152 | [https://github.com/raycast/ray-so](https://github.com/raycast/ray-so) | MIT | Icon Maker |
+| 153 | [https://github.com/ReactorcoreGames/Image-to-UnicodeASCII-Generator/tree/main](https://github.com/ReactorcoreGames/Image-to-UnicodeASCII-Generator/tree/main) | Various | Image to UnicodeASCII Generator |
+| 154 | [https://github.com/Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon) | RIL-1.0 | Remix Icons |
+| 155 | [https://github.com/resume-nation/resume-nation.github.io](https://github.com/resume-nation/resume-nation.github.io) | MIT | Resume Nation |
+| 156 | [https://github.com/rgab1508/PixelCraft](https://github.com/rgab1508/PixelCraft) | MIT | PixelCraft |
+| 157 | [https://github.com/ritz078/transform](https://github.com/ritz078/transform) | MIT | Transform |
+| 158 | [https://github.com/sardorml/tailit](https://github.com/sardorml/tailit) | MIT | Tailit |
+| 159 | [https://github.com/satvisorcom/satvisor](https://github.com/satvisorcom/satvisor) | AGPL-3.0 | Satvisor |
+| 160 | [https://github.com/sayanarijit/qrcode.show](https://github.com/sayanarijit/qrcode.show) | AGPL-3.0 | QrCodeShow |
+| 161 | [https://github.com/schlagmichdoch/pairdrop](https://github.com/schlagmichdoch/pairdrop) | GPL-3.0 | PairDrop |
+| 162 | [https://github.com/Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator) | GPL-3.0 | bash-prompt-generator |
+| 163 | [https://github.com/selfhst/icons](https://github.com/selfhst/icons) | CC-BY-4.0 | selfh.st Icons |
+| 164 | [https://github.com/senolgulgonul/verisim](https://github.com/senolgulgonul/verisim) | GPL-2.0 | VeriSim |
+| 165 | [https://github.com/shancarter/Mr-Data-Converter?tab=License-1-ov-file](https://github.com/shancarter/Mr-Data-Converter?tab=License-1-ov-file) | MIT | Mr. Data Converter |
+| 166 | [https://github.com/shane-jacobeen/schema3d](https://github.com/shane-jacobeen/schema3d) | MIT | Schema3D |
+| 167 | [https://github.com/sharkdp/insect](https://github.com/sharkdp/insect) | MIT | Insect |
+| 168 | [https://github.com/ShashwatSricodes/PDFSlice](https://github.com/ShashwatSricodes/PDFSlice) | MIT | PDFSlice |
+| 169 | [https://github.com/sh-dv/hat.sh](https://github.com/sh-dv/hat.sh) | MIT | hat.sh |
+| 170 | [https://github.com/Shpigford/studio](https://github.com/Shpigford/studio) | MIT | Studio |
+| 171 | [https://github.com/shravanngoswamii/DrawShare](https://github.com/shravanngoswamii/DrawShare) | MIT | DrawShare |
+| 172 | [https://github.com/simonw/datasette-lite](https://github.com/simonw/datasette-lite) | Apache-2.0 | Datasette Lite |
+| 173 | [https://github.com/simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) | CC0-1.0 | Simple Icons |
+| 174 | [https://github.com/simplifaisoul/osiris](https://github.com/simplifaisoul/osiris) | MIT | OSIRIS |
+| 175 | [https://github.com/spectra-g/scratch-tabs](https://github.com/spectra-g/scratch-tabs) | MIT | Scratch Tabs |
+| 176 | [https://github.com/Specy/asm-editor](https://github.com/Specy/asm-editor) | AGPL-3.0 | ASM Editor |
+| 177 | [https://github.com/Specy/rooc](https://github.com/Specy/rooc) | MPL-2.0 | ROOC Optimization |
+| 178 | [https://github.com/Specy/tokeko](https://github.com/Specy/tokeko) | Various | Tokeko |
+| 179 | [https://github.com/spliit-app/spliit](https://github.com/spliit-app/spliit) | MIT | Spliit |
+| 180 | [https://github.com/Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | MIT | Stirling-PDF |
+| 181 | [https://github.com/stophecom/sharrr-svelte](https://github.com/stophecom/sharrr-svelte) | MIT | Sharr |
+| 182 | [https://github.com/SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) | MIT | SubtitleEdit |
+| 183 | [https://github.com/SVG-Edit/svgedit](https://github.com/SVG-Edit/svgedit) | MIT | SVG-Edit |
+| 184 | [https://github.com/synthetic-sciences/openscience](https://github.com/synthetic-sciences/openscience) | Apache-2.0 | OpenScience |
+| 185 | [https://github.com/tabler/tabler-icons](https://github.com/tabler/tabler-icons) | MIT | Tabler Icons |
+| 186 | [https://github.com/tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) | MIT | heroicons |
+| 187 | [https://github.com/tanabe/markdown-live-preview](https://github.com/tanabe/markdown-live-preview) | MIT | Markdown Live Preview |
+| 188 | [https://github.com/tejaswigowda/ffmpeg-webCLI](https://github.com/tejaswigowda/ffmpeg-webCLI) | GPL-3.0 | ffmpeg-webCLI |
+| 189 | [https://github.com/theacodes/kicanvas](https://github.com/theacodes/kicanvas) | MIT | KiCanvas |
+| 190 | [https://github.com/themidnightgospel/free-cv-builder](https://github.com/themidnightgospel/free-cv-builder) | MIT | Free CV Builder |
+| 191 | [https://github.com/timoncool/videosos](https://github.com/timoncool/videosos) | MIT | videosos |
+| 192 | [https://github.com/tldraw/tldraw](https://github.com/tldraw/tldraw) | NC | tldraw |
+| 193 | [https://github.com/toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | MIT | AFFiNE |
+| 194 | [https://github.com/tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) | MIT | flowchart.fun |
+| 195 | [https://github.com/tra-sco/mermify](https://github.com/tra-sco/mermify) | MIT | Mermify |
+| 196 | [https://github.com/tsurumeso/vocal-remover](https://github.com/tsurumeso/vocal-remover) | MIT | AI Vocal Remover |
+| 197 | [https://github.com/tuton012/editorpilot](https://github.com/tuton012/editorpilot) | Various | EditorPilot |
+| 198 | [https://github.com/undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) | GPL-3.0 | privacy.sexy |
+| 199 | [https://github.com/VERT-sh/VERT](https://github.com/VERT-sh/VERT) | AGPL-3.0 | VERT |
+| 200 | [https://github.com/vgarciasc/dfa-draw](https://github.com/vgarciasc/dfa-draw) | None | DFA Draw |
+| 201 | [https://github.com/vijeeshr/quickretro](https://github.com/vijeeshr/quickretro) | AGPL-3.0 | QuickRetro |
+| 202 | [https://github.com/viliusle/miniPaint](https://github.com/viliusle/miniPaint) | MIT | miniPaint |
+| 203 | [https://github.com/viveknaskar/json-kit](https://github.com/viveknaskar/json-kit) | MIT | json-kit |
+| 204 | [https://github.com/webgiss/niolesk/](https://github.com/webgiss/niolesk/) | MIT | Niolesk |
+| 205 | [https://github.com/WebPraktikos/universal-resume](https://github.com/WebPraktikos/universal-resume) | CC BY-NC-SA 1.0 | Universal Résumé Template |
+| 206 | [https://github.com/webtor-io/web-ui](https://github.com/webtor-io/web-ui) | MIT | Webtor.io |
+| 207 | [https://github.com/xdadda/mini-photo-editor](https://github.com/xdadda/mini-photo-editor) | MIT | MiNi PhotoEditor |
+| 208 | [https://github.com/xiangechen/chili3d](https://github.com/xiangechen/chili3d) | AGPL-3.0 | chili3d |
+| 209 | [https://github.com/YottaYocta/GreenDolphin](https://github.com/YottaYocta/GreenDolphin) | GPL-3.0 | GreenDolphin |
+| 210 | [https://github.com/yousifamanuel/terraink](https://github.com/yousifamanuel/terraink) | MIT | TerraInk |
+| 211 | [https://github.com/Yqnn/svg-path-editor](https://github.com/Yqnn/svg-path-editor) | Apache-2.0 | SvgPathEditor |
+| 212 | [https://github.com/zedxihan/zkdrop](https://github.com/zedxihan/zkdrop) | AGPL-3.0 | zkdrop |
+| 213 | [https://github.com/Zulko/gix](https://github.com/Zulko/gix) | MIT | Gix |
 
 [Full GitHub listing ->](./github/)
 
@@ -652,4 +742,4 @@ All open-source repositories linked from tool entries.
 
 ---
 
-*Last updated: 2026-07-06*
+*Last updated: 2026-07-07*

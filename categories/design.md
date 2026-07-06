@@ -2,7 +2,7 @@
 
 > Create visuals right in your browser
 
-**Tools:** 37
+**Tools:** 42
 
 [<- Back to Directory](README.md#categories)
 
@@ -47,3 +47,8 @@
 | 35 | [DrawShare](https://shravangoswami.com/DrawShare/) | collaborative whiteboard for drawing and note-taking | MIT | 3 |
 | 36 | [miniPaint](https://viliusle.github.io/miniPaint/) | Online image editor with layers, filters, and drawing tools — all client-side via HTML5 Canvas | MIT | 3,377 |
 | 37 | [vue-fabric-editor](https://ikuaitu.github.io/vue-fabric-editor/) | Open-source image editor based on fabric.js and Vue. Custom fonts, templates, and design elements for quick graphic creation | MIT | 7,907 |
+| 38 | [Photopea](https://www.photopea.com) | Advanced online image editor that supports PSD, Sketch, XD, and RAW files — looks and works like Photoshop in your browser | None | 8,304 |
+| 39 | [chili3d](https://chili3d.com) | Browser-based 3D CAD application for online model design and editing — no installation needed | AGPL-3.0 | 4,657 |
+| 40 | [ditherer](https://ditherer.ygng.jp) | Browser-based image and video dithering, glitch art, pixel sorting, and retro CRT/VHS filters — no install required | MIT | 79 |
+| 41 | [The-One-File](https://gelatinescreams.github.io/The-One-File/) | One file to map networks, mind maps, infrastructure, or smart homes. Animated, encrypted, offline-first — everything in a single HTML file | NOASSERTION | 529 |
+| 42 | [Color Palette Generator](https://abdulrdeveloper.github.io/Color-Palette-Generator/) | Generate and customize appealing color palettes for designers and developers — entirely in your browser | MIT | 8 |

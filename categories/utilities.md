@@ -2,7 +2,7 @@
 
 > Handy one-off tools for everyday tasks
 
-**Tools:** 27
+**Tools:** 29
 
 [<- Back to Directory](README.md#categories)
 
@@ -37,3 +37,5 @@
 | 25 | [Webtor.io](https://webtor.io/) | seamless torrent streaming and file sharing | MIT | 61 |
 | 26 | [zkdrop](https://zkdrop.org) | Secure, temporary, and minimal file sharing with zero-knowledge encryption | AGPL-3.0 | 2 |
 | 27 | [BrowseryTools](https://browserytools.com) | 136+ free browser-based tools for productivity and developers. 100% client-side with no servers, no uploads, full privacy | AGPL-3.0 | 617 |
+| 28 | [PDFSlice](https://pdfslice.vercel.app) | Client-side PDF editor toolkit — merge, split, annotate PDFs locally in your browser with no uploads | MIT | 185 |
+| 29 | [Extract2MD](https://hashangit.github.io/Extract2MD/) | Extract text from PDFs and convert to Markdown using AI — all client-side in your browser | MIT | 109 |

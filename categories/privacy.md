@@ -2,7 +2,7 @@
 
 > Protect your data without trusting servers
 
-**Tools:** 7
+**Tools:** 11
 
 [<- Back to Directory](README.md#categories)
 
@@ -17,3 +17,7 @@
 | 5 | [Metadata Remover](https://ianonymous3000.github.io/metadata-remover/) | Removes metadata from supported formats in-browser using WASM | MIT | 75 |
 | 6 | [image-scrubber](https://everestpipkin.github.io/image-scrubber/) | A tool for anonymizing photographs taken at protests | MIT | 1,001 |
 | 7 | [Cryptgeon](https://cryptgeon.com/) | Send fully encrypted secure notes or files with custom expiration | MIT | 1,466 |
+| 8 | [hat.sh](https://hat.sh) | Encrypt and decrypt files securely in your browser using XChaCha20-Poly1305 — zero server uploads | MIT | 2,289 |
+| 9 | [TracePoint](https://kluter.github.io/TracePoint/) | Locate the origin point of photographs using geometric ray intersection — OSINT browser tool | AGPL-3.0 | 7 |
+| 10 | [SSHToolkit](https://sshtoolkit.com) | Complete SSH toolkit in the browser: generate keys, harden servers, configure clients, and build tunnels — 100% client-side | MIT | 9 |
+| 11 | [exifree](https://arnon-shub.github.io/exifree/) | Strip photo metadata (EXIF, location, camera info) losslessly in the browser — zero upload, zero server | MIT | 4 |

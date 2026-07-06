@@ -2,7 +2,7 @@
 
 > Explore and visualize data locally
 
-**Tools:** 9
+**Tools:** 11
 
 [<- Back to Directory](README.md#categories)
 
@@ -19,3 +19,5 @@
 | 7 | [Satvisor](https://satvisor.com/) | 3D satellite tracker with orbit visualization, pass predictions, and antenna rotator control (GS-232, EasyComm, Hamlib) | AGPL-3.0 | 7 |
 | 8 | [SQLChef](https://jonathanwalker.github.io/SQLChef/) | Query files like CSV, JSON, and Parquet directly in the browser | MIT | 14 |
 | 9 | [Schema3D](https://schema3d.com/) | An interactive tool for visualizing relational database schemas in 3D. | MIT | 8 |
+| 10 | [dbxlite](https://dbxlite.hfms.io) | Open-source SQL workbench powered by DuckDB-WASM. Query local files, BigQuery, and Snowflake right in your browser | MIT | 79 |
+| 11 | [donutsvg](https://donutsvg.com) | Browser-based SVG pie and donut chart generator — no login, no server, export as SVG or PNG | None | 17 |
