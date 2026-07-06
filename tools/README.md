@@ -1,6 +1,6 @@
 # All Tools
 
-Complete list of all 174 tools.
+Complete list of all 176 tools.
 
 [<- Back to Directory](README.md)
 
@@ -182,3 +182,5 @@ Complete list of all 174 tools.
 | 172 | [EditorPilot](https://editorpilot.com/) | Writing & Docs | AI writing assistant that lives entirely in your browser | [Link](https://editorpilot.com/) | [GitHub](https://github.com/tuton012/editorpilot) | ? | 1 |
 | 173 | [Full Stack open](https://fullstackopen.com/en/) | Education | Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go | [Link](https://fullstackopen.com/en/) | [GitHub](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io) | CC BY-NC-SA 3.0 | 2,179 |
 | 174 | [Tailit](https://tailit.xyz/) | Productivity | An interactive resume builder with templates. Paste a job link and AI rewrites your resume to match | [Link](https://tailit.xyz/) | [GitHub](https://github.com/sardorml/tailit) | MIT | 13 |
+| 175 | [WebNav](https://github.com/rahulcvwebsitehosting/WebNav) | Productivity | A Chrome extension for AI-powered web automation | [Link](https://github.com/rahulcvwebsitehosting/WebNav) | [GitHub](https://github.com/rahulcvwebsitehosting/WebNav) | ? | - |
+| 176 | [AutoReels AI](https://github.com/rahulcvwebsitehosting/AutoReels-Ai) | Media | Generate fully edited AI short videos from a topic | [Link](https://github.com/rahulcvwebsitehosting/AutoReels-Ai) | [GitHub](https://github.com/rahulcvwebsitehosting/AutoReels-Ai) | ? | - |

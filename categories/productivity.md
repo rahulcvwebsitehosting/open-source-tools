@@ -2,7 +2,7 @@
 
 > Get things done without creating accounts
 
-**Tools:** 17
+**Tools:** 18
 
 [<- Back to Directory](README.md#categories)
 
@@ -27,3 +27,4 @@
 | 15 | [ASCIIFlow](https://asciiflow.com/) | An application for drawing ASCII diagrams | MIT | 5,771 |
 | 16 | [Mermify](https://tra-sco.github.io/mermify/) | Bi-directional visual editor for Mermaid.js flowcharts | MIT | 5 |
 | 17 | [Tailit](https://tailit.xyz/) | An interactive resume builder with templates. Paste a job link and AI rewrites your resume to match | MIT | 13 |
+| 18 | [WebNav](https://github.com/rahulcvwebsitehosting/WebNav) | A Chrome extension for AI-powered web automation | ? | - |
