@@ -1,10 +1,10 @@
-﻿# ðŸ“Š Data & Analytics
+# 📊 Data & Analytics
 
 > Explore and visualize data locally
 
 **Tools:** 9
 
-[<- Back to Categories](README.md#categories)
+[<- Back to Directory](README.md#categories)
 
 ---
 

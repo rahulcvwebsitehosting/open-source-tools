@@ -1,10 +1,10 @@
-﻿# âš¡ Productivity
+# ⚡ Productivity
 
 > Get things done without creating accounts
 
 **Tools:** 17
 
-[<- Back to Categories](README.md#categories)
+[<- Back to Directory](README.md#categories)
 
 ---
 

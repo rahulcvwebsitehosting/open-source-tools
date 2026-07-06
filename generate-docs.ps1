@@ -5,7 +5,6 @@ param(
 
 $ErrorActionPreference = "Stop"
 
-# Read tools.json
 $rawJson = Get-Content -Raw -Path "$ReferenceDir\tools.json" -Encoding UTF8
 $toolsJson = $rawJson | ConvertFrom-Json
 
@@ -18,7 +17,6 @@ function Format-Stars {
     return $s
 }
 
-# Collect external URLs and GitHub repos
 $extUrls = @{}
 $githubRepos = @{}
 $allTags = @{}
@@ -45,23 +43,6 @@ foreach ($t in $tools) {
     }
 }
 
-# Add site links
-$siteLinks = @(
-    @{ Url = 'https://github.com/BraveOPotato/FckSignups'; Type = 'GitHub Repository (Source Site)' }
-    @{ Url = 'https://github.com/BraveOPotato/FckSignups/issues/new'; Type = 'Report Issue' }
-    @{ Url = 'https://fcksignups-submit.abdullahalkafajy.workers.dev/submit-tool'; Type = 'Submit Tool API' }
-    @{ Url = 'https://fcksignups-submit.abdullahalkafajy.workers.dev/report-tool'; Type = 'Report Tool API' }
-    @{ Url = 'https://fcksignups-submit.abdullahalkafajy.workers.dev/suggest-tool'; Type = 'Suggest Tool API' }
-)
-
-foreach ($l in $siteLinks) {
-    $key = $l.Url.ToLower()
-    if (-not $extUrls.ContainsKey($key)) {
-        $extUrls[$key] = @{ Url = $l.Url; Ref = @('Site Footer/Header'); Type = $l.Type }
-    }
-}
-
-# Stats
 $toolCount = $tools.Count
 $catCount = ($categories | Where-Object { $_.id -ne 'all' }).Count
 $tagCount = $allTags.Count
@@ -70,7 +51,6 @@ $githubCount = $githubRepos.Count
 $featCount = ($tools | Where-Object { $_.featured -eq $true }).Count
 $now = Get-Date -Format 'yyyy-MM-dd'
 
-# Helper to write file
 function Write-MarkdownFile {
     param([string]$Path, [string[]]$Lines)
     $content = $Lines -join "`r`n"
@@ -83,9 +63,6 @@ $lines = @()
 $lines += '# Open-Source Browser Tools Directory'
 $lines += ''
 $lines += '> A curated collection of open-source tools you can use instantly in your browser - no accounts, no emails, no tracking. Just tools that work.'
-$lines += ''
-$lines += '**Source Website:** [fcksignups.com](https://fcksignups.com/)'
-$lines += '**Original Repository:** [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups)'
 $lines += ''
 $lines += '---'
 $lines += ''
@@ -104,8 +81,6 @@ $lines += ''
 $lines += '## Overview'
 $lines += ''
 $lines += 'This directory catalogs open-source web-based tools that respect your privacy. No signups, no spam, no dark patterns. Every tool listed is free, open-source, and usable directly in your browser without creating an account.'
-$lines += ''
-$lines += 'The original source site ([fcksignups.com](https://fcksignups.com/)) is built as a single-page application (React + Vite + TypeScript) and loads tool data from a hosted JSON file with a fallback embedded dataset.'
 $lines += ''
 $lines += '### Site Structure'
 $lines += ''
@@ -177,7 +152,7 @@ $lines += '---'
 $lines += ''
 $lines += '## External URLs'
 $lines += ''
-$lines += 'All external tool websites referenced on the source site.'
+$lines += 'All external tool websites referenced in this directory.'
 $lines += ''
 $lines += '| # | URL | Type | Referenced In |'
 $lines += '|---|-----|------|---------------|'
@@ -221,24 +196,18 @@ $lines += '---'
 $lines += ''
 $lines += '## Resources & References'
 $lines += ''
-$lines += '- **Source Website:** [fcksignups.com](https://fcksignups.com/)'
-$lines += '- **Original Repository:** [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups)'
-$lines += '- **Report Issue:** [GitHub Issues](https://github.com/BraveOPotato/FckSignups/issues/new)'
-$lines += '- **Tools Data Source:** `tools.json` hosted on GitHub raw'
-$lines += '- **Fallback Data:** Embedded in `src/constants/fallbackData.ts`'
-$lines += '- **API Endpoints (Cloudflare Workers):**'
+$lines += '- **API Endpoints (Tool Submission):**'
 $lines += '  - Submit Tool: `https://fcksignups-submit.abdullahalkafajy.workers.dev/submit-tool`'
 $lines += '  - Report Tool: `https://fcksignups-submit.abdullahalkafajy.workers.dev/report-tool`'
 $lines += '  - Suggest Tool: `https://fcksignups-submit.abdullahalkafajy.workers.dev/suggest-tool`'
 $lines += ''
 $lines += '---'
 $lines += ''
-$lines += "*Documentation sourced from [fcksignups.com](https://fcksignups.com/)* | *Last updated: $now*"
+$lines += "*Last updated: $now*"
 
 Write-MarkdownFile -Path "$OutputDir\README.md" -Lines $lines
 Write-Host 'README.md generated.'
 
-# --- Category files ---
 Write-Host 'Generating category files...'
 if (-not (Test-Path "$OutputDir\categories")) { New-Item -ItemType Directory -Path "$OutputDir\categories" -Force | Out-Null }
 foreach ($c in $categories) {
@@ -280,7 +249,6 @@ foreach ($c in $categories) {
 }
 Write-Host 'Category files generated.'
 
-# --- Tools master listing ---
 Write-Host 'Generating tools listing...'
 if (-not (Test-Path "$OutputDir\tools")) { New-Item -ItemType Directory -Path "$OutputDir\tools" -Force | Out-Null }
 $lines = @()
@@ -313,13 +281,12 @@ foreach ($t in $tools) {
 Write-MarkdownFile -Path "$OutputDir\tools\README.md" -Lines $lines
 Write-Host 'Tools listing generated.'
 
-# --- Links listing ---
 Write-Host 'Generating links listing...'
 if (-not (Test-Path "$OutputDir\links")) { New-Item -ItemType Directory -Path "$OutputDir\links" -Force | Out-Null }
 $lines = @()
 $lines += '# All External URLs'
 $lines += ''
-$lines += 'Every external URL referenced on the source site.'
+$lines += 'Every external URL referenced in this directory.'
 $lines += ''
 $lines += '[<- Back to Directory](README.md)'
 $lines += ''
@@ -341,7 +308,6 @@ foreach ($key in ($extUrls.Keys | Sort-Object)) {
 Write-MarkdownFile -Path "$OutputDir\links\README.md" -Lines $lines
 Write-Host 'Links listing generated.'
 
-# --- GitHub repos listing ---
 Write-Host 'Generating GitHub repos listing...'
 if (-not (Test-Path "$OutputDir\github")) { New-Item -ItemType Directory -Path "$OutputDir\github" -Force | Out-Null }
 $lines = @()
@@ -369,31 +335,18 @@ foreach ($key in ($githubRepos.Keys | Sort-Object)) {
 Write-MarkdownFile -Path "$OutputDir\github\README.md" -Lines $lines
 Write-Host 'GitHub repos listing generated.'
 
-# --- Resources ---
 Write-Host 'Generating resources...'
 if (-not (Test-Path "$OutputDir\resources")) { New-Item -ItemType Directory -Path "$OutputDir\resources" -Force | Out-Null }
 $lines = @()
 $lines += '# Resources & References'
 $lines += ''
-$lines += 'Additional resources and references related to the source site ([fcksignups.com](https://fcksignups.com/)).'
+$lines += 'Additional resources and references for this tool directory.'
 $lines += ''
 $lines += '[<- Back to Directory](README.md)'
 $lines += ''
 $lines += '---'
 $lines += ''
-$lines += '## Site Information'
-$lines += ''
-$lines += '| Property | Value |'
-$lines += '|----------|-------|'
-$lines += '| Website URL | [https://fcksignups.com/](https://fcksignups.com/) |'
-$lines += '| Source Code | [https://github.com/BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) |'
-$lines += '| Report Issue | [https://github.com/BraveOPotato/FckSignups/issues/new](https://github.com/BraveOPotato/FckSignups/issues/new) |'
-$lines += '| Data Source | `tools.json` hosted on GitHub raw (`https://raw.githubusercontent.com/BraveOPotato/FckSignups/refs/heads/main/tools.json`) |'
-$lines += '| Fallback Data | Embedded in `src/constants/fallbackData.ts` |'
-$lines += '| Framework | React + Vite + TypeScript |'
-$lines += '| Hosting | Cloudflare Pages (likely) |'
-$lines += ''
-$lines += '## API Endpoints (Cloudflare Workers)'
+$lines += '## API Endpoints'
 $lines += ''
 $lines += 'These are used for form submissions from the modals:'
 $lines += ''
@@ -403,7 +356,7 @@ $lines += '- **Suggest Tool:** `https://fcksignups-submit.abdullahalkafajy.worke
 $lines += ''
 $lines += '## Modals'
 $lines += ''
-$lines += 'The source site has three modals (no separate URLs, triggered via JavaScript):'
+$lines += 'The user interface has three modals (no separate URLs, triggered via JavaScript):'
 $lines += ''
 $lines += '### 1. Submit a Tool'
 $lines += '- **Title:** TOOL'
@@ -426,30 +379,17 @@ $lines += '- **Title:** SUGGESTION'
 $lines += '- **Fields:**'
 $lines += '  - Your tool idea (textarea, required)'
 $lines += ''
-$lines += '## Site Text Content'
-$lines += ''
-$lines += '### Header'
-$lines += '- **Title:** "F*CK Signups"'
-$lines += '- **Tagline:** "Open Source Tools. No Signups. Right in your browser"'
-$lines += '- **Sub-tagline:** "A curated collection of open-source tools you can use instantly in your browser. no accounts, no emails, no tracking. Just tools that work."'
-$lines += ''
-$lines += '### Footer'
-$lines += '- **About:** "FckSignups is a curated directory of tools that respect your time. No signups, no spam, no dark patterns."'
-$lines += '- **Contribute:** "Submit a tool" (opens modal), "Report an issue" (GitHub)'
-$lines += '- **Legal:** "All tools are independently verified. We don''t track you. We don''t sell data. We don''t care about your email."'
-$lines += '- **Bottom Bar:** "AC 2026 FCKSIGNUPS /// CURATED WITH SPITE /// [GITHUB](https://github.com/BraveOPotato/FckSignups)"'
-$lines += ''
 $lines += '## robots.txt'
 $lines += ''
-$lines += "The source site's `robots.txt` contains content signals (search, ai-input, ai-train) but no disallowed paths."
+$lines += "The site's `robots.txt` contains content signals (search, ai-input, ai-train) but no disallowed paths."
 $lines += ''
 $lines += '## Sitemap'
 $lines += ''
-$lines += 'The source site does not have a `sitemap.xml` (returns 404).'
+$lines += 'The site does not have a `sitemap.xml` (returns 404).'
 $lines += ''
 $lines += '---'
 $lines += ''
-$lines += "*Documentation sourced from [fcksignups.com](https://fcksignups.com/)* | *Last updated: $now*"
+$lines += "*Last updated: $now*"
 
 Write-MarkdownFile -Path "$OutputDir\resources\README.md" -Lines $lines
 Write-Host 'Resources generated.'

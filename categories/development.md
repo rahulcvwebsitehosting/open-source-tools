@@ -1,10 +1,10 @@
-﻿# ðŸ’» Development
+# 💻 Development
 
 > Code, query, and build in the browser
 
 **Tools:** 46
 
-[<- Back to Categories](README.md#categories)
+[<- Back to Directory](README.md#categories)
 
 ---
 

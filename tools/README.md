@@ -1,8 +1,8 @@
-﻿# All Tools
+# All Tools
 
-Complete list of all 174 tools indexed on FckSignups.
+Complete list of all 174 tools in this directory.
 
-[<- Back to README](README.md)
+[<- Back to Directory](README.md)
 
 ---
 
@@ -32,8 +32,8 @@ Complete list of all 174 tools indexed on FckSignups.
 | 22 | [Python Tutor](https://pythontutor.com) | Development | Visualize code execution step-by-step to better understand programming concepts and debugging. | [Link](https://pythontutor.com) | [GitHub](https://github.com/pathrise-eng/pathrise-python-tutor) | GPL-3.0 | 193 |
 | 23 | [DartPad](https://dartpad.dev) | Development | An online Dart editor with support for console, web, and Flutter apps. | [Link](https://dartpad.dev) | [GitHub](https://github.com/dart-lang/dart-pad) | BSD-3-Clause | 1,854 |
 | 24 | [Pandoc WASM](https://pandoc.github.io/pandoc-wasm/) | Utilities | Convert documents without leaving the browser. | [Link](https://pandoc.github.io/pandoc-wasm/) | [GitHub](https://github.com/pandoc/pandoc-wasm) | MIT | 13 |
-| 25 | [Notepad PWA](https://notepad.js.org) | Writing & Docs | ðŸ“’ An offline capable Notepad PWA | [Link](https://notepad.js.org) | [GitHub](https://github.com/amitmerchant1990/notepad) | MIT | 369 |
-| 26 | [JSPaint](https://jspaint.app) :star: | Design & Graphics | ðŸŽ¨ Classic MS Paint, ï¼²ï¼¥ï¼¶ï¼©ï¼¶ï¼¥ï¼¤ + âœ¨Extras | [Link](https://jspaint.app) | [GitHub](https://github.com/1j01/jspaint) | MIT | 7,805 |
+| 25 | [Notepad PWA](https://notepad.js.org) | Writing & Docs | 📒 An offline capable Notepad PWA | [Link](https://notepad.js.org) | [GitHub](https://github.com/amitmerchant1990/notepad) | MIT | 369 |
+| 26 | [JSPaint](https://jspaint.app) :star: | Design & Graphics | 🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras | [Link](https://jspaint.app) | [GitHub](https://github.com/1j01/jspaint) | MIT | 7,805 |
 | 27 | [PixelCraft](https://pixelcraft.web.app) | Design & Graphics | A pixel Art & Animation Creation Tool Built using HTML5 Canvas | [Link](https://pixelcraft.web.app) | [GitHub](https://github.com/rgab1508/PixelCraft) | MIT | 1,486 |
 | 28 | [PairDrop](https://pairdrop.net/) :star: | Utilities | Transfer Files Cross-Platform. No Setup, No Signup. | [Link](https://pairdrop.net/) | [GitHub](https://github.com/schlagmichdoch/pairdrop) | GPL-3.0 | 10,688 |
 | 29 | [LocalSend-Web](https://web.localsend.org/) :star: | Utilities | An open-source cross-platform alternative to AirDrop, but works in LAN only | [Link](https://web.localsend.org/) | [GitHub](https://github.com/localsend/web) | Apache-2.0 | 146 |
@@ -44,7 +44,7 @@ Complete list of all 174 tools indexed on FckSignups.
 | 34 | [dSheets](https://dsheets.new/) | Productivity | dsheets.new is alternative to google sheets & excel. | [Link](https://dsheets.new/) | [GitHub](https://github.com/fileverse/fileverse-dsheet) | AGPL-3.0 | 70 |
 | 35 | [draw.io](https://www.drawio.com/) | Design & Graphics | A configurable browser-based diagramming and whiteboarding tool for flowcharts, UML, network diagrams, ER diagrams, BPMN, and more. | [Link](https://www.drawio.com/) | [GitHub](https://github.com/jgraph/drawio) | Apache-2.0 | 6,355 |
 | 36 | [Mr. Data Converter](https://shancarter.github.io/mr-data-converter/) | Data & Analytics | Takes CSV or tab-delimited data from Excel and converts it into several web-friendly formats, include JSON and XML. | [Link](https://shancarter.github.io/mr-data-converter/) | [GitHub](https://github.com/shancarter/Mr-Data-Converter?tab=License-1-ov-file) | MIT | 1,956 |
-| 37 | [CyberChef](https://gchq.github.io/CyberChef/) | Privacy & Security | A browser-based â€œcyberâ€ workbench for encoding, decoding, encryption, compression, hashing, parsing, and data analysis recipes. | [Link](https://gchq.github.io/CyberChef/) | [GitHub](https://github.com/gchq/CyberChef) | Apache-2.0 | 35,199 |
+| 37 | [CyberChef](https://gchq.github.io/CyberChef/) | Privacy & Security | A browser-based “cyber” workbench for encoding, decoding, encryption, compression, hashing, parsing, and data analysis recipes. | [Link](https://gchq.github.io/CyberChef/) | [GitHub](https://github.com/gchq/CyberChef) | Apache-2.0 | 35,199 |
 | 38 | [BRouter-web](https://brouter.de/brouter-web/) | Utilities | A web client for the BRouter routing engine, providing OpenStreetMap-based route planning with profile customization and route export. | [Link](https://brouter.de/brouter-web/) | [GitHub](https://github.com/nrenner/brouter-web) | MIT | 488 |
 | 39 | [KiCanvas](https://kicanvas.org/) | Development | An interactive browser-based viewer for KiCad schematics and PCB boards. | [Link](https://kicanvas.org/) | [GitHub](https://github.com/theacodes/kicanvas) | MIT | 1,087 |
 | 40 | [CircuitJS1](https://www.falstad.com/circuit/) | Development | A browser-based electronic circuit simulator with animated schematics, example circuits, and editable components. | [Link](https://www.falstad.com/circuit/) | [GitHub](https://github.com/pfalstad/circuitjs1) | GPL-2.0 | 2,281 |
@@ -158,7 +158,7 @@ Complete list of all 174 tools indexed on FckSignups.
 | 148 | [DoHabit](https://dohabit.app/) | Productivity | Lightweight, local-first habit tracker designed to respect your privacy | [Link](https://dohabit.app/) | [GitHub](https://github.com/iNikAnn/DoHabit) | AGPL-3.0 | 51 |
 | 149 | [Visual Studio Code for the Web](https://vscode.dev/) | Development | provides a free, zero-install Microsoft Visual Studio Code experience running entirely in your browser, allowing you to quickly and safely browse source code repositories and make lightweight code changes | [Link](https://vscode.dev/) | [GitHub](https://github.com/microsoft/vscode) | MIT | 187,000 |
 | 150 | [Scratch Tabs](https://app.scratchtabs.com/) | Development | local-first developer workspace for exploring, transforming, and validating text/data formats | [Link](https://app.scratchtabs.com/) | [GitHub](https://github.com/spectra-g/scratch-tabs) | MIT | 3 |
-| 151 | [Universal RÃ©sumÃ© Template](https://universalresume.app/?s=g) | Writing & Docs | Minimal and formal rÃ©sumÃ© (CV) website template for print, mobile, and desktop | [Link](https://universalresume.app/?s=g) | [GitHub](https://github.com/WebPraktikos/universal-resume) | CC BY-NC-SA 1.0 | 1,790 |
+| 151 | [Universal Résumé Template](https://universalresume.app/?s=g) | Writing & Docs | Minimal and formal résumé (CV) website template for print, mobile, and desktop | [Link](https://universalresume.app/?s=g) | [GitHub](https://github.com/WebPraktikos/universal-resume) | CC BY-NC-SA 1.0 | 1,790 |
 | 152 | [QrCodeShow](https://qrcode.show/) | Utilities | Generate QR code easily | [Link](https://qrcode.show/) | [GitHub](https://github.com/sayanarijit/qrcode.show) | AGPL-3.0 | 615 |
 | 153 | [selfh.st Icons](https://selfh.st/icons/) | Development | Dashboard Icons provided by selfh.st | [Link](https://selfh.st/icons/) | [GitHub](https://github.com/selfhst/icons) | CC-BY-4.0 | 909 |
 | 154 | [tldraw](https://www.tldraw.com/) | Design & Graphics | A simple drawing/whiteboarding tool | [Link](https://www.tldraw.com/) | [GitHub](https://github.com/tldraw/tldraw) | NC | 48,385 |

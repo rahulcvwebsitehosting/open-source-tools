@@ -1,10 +1,10 @@
-﻿# ðŸŽ¬ Media
+# 🎬 Media
 
 > Edit and create media in-browser
 
 **Tools:** 16
 
-[<- Back to Categories](README.md#categories)
+[<- Back to Directory](README.md#categories)
 
 ---
 
