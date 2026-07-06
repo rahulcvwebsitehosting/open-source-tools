@@ -135,10 +135,10 @@ $lines += '---'
 $lines += ''
 $lines += '## All Tools'
 $lines += ''
-$lines += "Below is the complete list of all $toolCount tools. Click a tool name to open its website. GitHub links are included under the Stars column where available."
+$lines += "Below is the complete list of all $toolCount tools. Click a tool name to open its website. Star counts link to their GitHub repositories where available."
 $lines += ''
-$lines += '| # | Tool | Category | Description | License | Stars & GitHub |'
-$lines += '|---|------|----------|-------------|---------|----------------|'
+$lines += '| # | Tool | Category | Description | License | Stars |'
+$lines += '|---|------|----------|-------------|---------|-------|'
 
 $i = 1
 foreach ($t in $tools) {
@@ -150,8 +150,8 @@ foreach ($t in $tools) {
     $name = $t.name
     $desc = $t.description
     $url = $t.url
-    $gh = if ($t.github) { "<br>[$($t.github)]($($t.github))" } else { '' }
-    $lines += "| $i | [$name]($url)$feat | $catName | $desc | $lic | $starStr$gh |"
+    $starDisplay = if ($t.github) { "[$starStr]($($t.github))" } else { $starStr }
+    $lines += "| $i | [$name]($url)$feat | $catName | $desc | $lic | $starDisplay |"
     $i++
 }
 

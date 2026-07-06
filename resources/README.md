@@ -33,7 +33,7 @@ The user interface has three modals (no separate URLs, triggered via JavaScript)
 
 ## robots.txt
 
-The site's `robots.txt` contains content signals (search, ai-input, ai-train) but no disallowed paths.
+The site's obots.txt contains content signals (search, ai-input, ai-train) but no disallowed paths.
 
 ## Sitemap
 
