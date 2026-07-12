@@ -2,7 +2,7 @@
 
 > Code, query, and build in the browser
 
-**Tools:** 51
+**Tools:** 60
 
 [<- Back to Directory](README.md#categories)
 
@@ -61,3 +61,12 @@
 | 49 | [Download VSIX](https://www.mjmirza.com/download-vsix/) | Download any VS Code extension as a VSIX from the marketplace — zero dependencies, no tracking, runs in your browser | MIT | 445 |
 | 50 | [configclarity](https://configclarity.com) | 6 free browser-based DevOps audit tools: Cron, SSL, Docker, Firewall, Reverse Proxy, robots.txt — no signup, no backend | None | 35 |
 | 51 | [json-kit](https://jsonkit.vercel.app) | Free browser-based JSON toolkit: format, validate, convert, diff, query and more — all client-side | MIT | 7 |
+| 52 | [Scalar](https://scalar.com) | Open-source API platform with a modern REST client, beautiful API references, and first-class OpenAPI/Swagger support | MIT | 15,558 |
+| 53 | [quicktype](https://app.quicktype.io) | Generate types and converters from JSON, JSON Schema, and GraphQL directly in your browser | Apache-2.0 | 13,783 |
+| 54 | [git-history](https://githistory.xyz) | Quickly browse the history of any file from any GitHub repository via an interactive web timeline | MIT | 13,687 |
+| 55 | [Swagger Editor](https://editor.swagger.io) | Browser editor for designing and validating OpenAPI/Swagger specifications with live preview | None | 9,456 |
+| 56 | [LiveCodes](https://livecodes.io) | Client-side code playground supporting 90+ languages and frameworks, running entirely in the browser | MIT | 1,464 |
+| 57 | [OmniTools](https://omnitools.app) | Collection of powerful client-side web tools for everyday tasks — image, PDF, JSON, text, and more. No ads, no tracking | MIT | 9,824 |
+| 58 | [json-editor](https://json-editor.github.io/json-editor/) | Generate an interactive HTML form from a JSON Schema with validation, built for the browser | MIT | 4,899 |
+| 59 | [OpenAPI-GUI](https://mermade.github.io/openapi-gui/) | Visual GUI editor for creating and editing OpenAPI 3.0 (JSON/YAML) definitions, running in the browser | MIT | 1,489 |
+| 60 | [JSON Diff Kit](https://json-diff-kit.js.org) | A better JSON differ and viewer with LCS diff for arrays, supporting modification recognition beyond simple add/remove | MIT | 211 |

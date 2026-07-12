@@ -41,4 +41,4 @@ The site does not have a `sitemap.xml` (returns 404).
 
 ---
 
-*Last updated: 2026-07-07*
+*Last updated: 2026-07-12*

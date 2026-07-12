@@ -2,7 +2,7 @@
 
 > Explore and visualize data locally
 
-**Tools:** 11
+**Tools:** 22
 
 [<- Back to Directory](README.md#categories)
 
@@ -21,3 +21,14 @@
 | 9 | [Schema3D](https://schema3d.com/) | An interactive tool for visualizing relational database schemas in 3D. | MIT | 8 |
 | 10 | [dbxlite](https://dbxlite.hfms.io) | Open-source SQL workbench powered by DuckDB-WASM. Query local files, BigQuery, and Snowflake right in your browser | MIT | 79 |
 | 11 | [donutsvg](https://donutsvg.com) | Browser-based SVG pie and donut chart generator — no login, no server, export as SVG or PNG | None | 17 |
+| 12 | [Pretzel](https://pretzelai.github.io) | Browser-local visual data exploration using DuckDB-WASM and PRQL. Upload CSV/Excel and build chained transform blocks with live reactive charts | NOASSERTION | 2,184 |
+| 13 | [PondPilot](https://app.pondpilot.io) | Client-side SQL explorer powered by DuckDB-WASM. Query CSV, Parquet, JSON and DuckDB files entirely in the browser — no server, no upload | AGPL-3.0 | 223 |
+| 14 | [Perspective](https://perspective.finos.org) | Interactive analytics and data-visualization component for large and streaming datasets, compiled to WebAssembly. Data grid, pivots, and 10+ chart types | Apache-2.0 | 11,013 |
+| 15 | [kepler.gl](https://kepler.gl) | Open-source geospatial analysis tool for large-scale location datasets. Drag-and-drop files and build arc, hex, heatmap, and point maps with WebGL | MIT | 11,911 |
+| 16 | [PivotTable.js](https://pivottable.js.org) | Open-source JavaScript pivot table with drag-and-drop UI, multiple aggregations, and optional chart and TSV renderers | MIT | 4,440 |
+| 17 | [Graphic Walker](https://graphic-walker.kanaries.io) | Open-source alternative to Tableau. Drag fields to build charts, pivot tables, and dashboards with a Tableau-like UX, all in the browser | Apache-2.0 | 3,174 |
+| 18 | [JSON Hero](https://jsonhero.io) | Beautiful open-source JSON viewer for the web: column, tree, and editor views, inferred types, auto JSON Schema, and search | Apache-2.0 | 10,770 |
+| 19 | [Svelte JSON Editor](https://github.com/josdejong/svelte-jsoneditor) | Modern web-based tool to view, edit, format, repair, query, transform, and validate JSON with tree and text modes | NOASSERTION | 1,249 |
+| 20 | [JupyterLite](https://jupyterlite.readthedocs.io) | Browser-based Jupyter distribution running entirely in the browser via Pyodide/WASM. Analyze data with Python and notebooks, no server or install | BSD-3-Clause | 4,846 |
+| 21 | [SQLiteViz](https://sqliteviz.com) | Instant offline SQL-powered data visualization in your browser. Load SQLite or CSV, run SQL, and render charts — all client-side, no upload | Apache-2.0 | 2,349 |
+| 22 | [JSON Editor](https://jsoneditoronline.org) | Web-based tool to view, edit, format, and validate JSON with tree, code, and text modes, plus schema validation | Apache-2.0 | 12,262 |

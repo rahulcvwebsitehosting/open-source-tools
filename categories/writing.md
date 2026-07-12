@@ -2,7 +2,7 @@
 
 > Write, edit, and format text
 
-**Tools:** 16
+**Tools:** 18
 
 [<- Back to Directory](README.md#categories)
 
@@ -26,3 +26,5 @@
 | 14 | [Logseq](https://logseq.com/) | A privacy-first, open-source platform for knowledge management and collaboration | AGPL-3.0 | 43,604 |
 | 15 | [GoatPad](https://goatpad.drexfall.com/) | A notepad for the web written in Flutter | CC BY-NC-SA 4.0 | - |
 | 16 | [EditorPilot](https://editorpilot.com/) | AI writing assistant that lives entirely in your browser | ? | 1 |
+| 17 | [Bangle.io](https://bangle.io) | Local-first, in-browser markdown notes workspace (PWA) that stores files on your device | MIT | 674 |
+| 18 | [Markdown Editor](https://jbt.github.io/markdown-editor/) | Classic in-browser live Markdown editor with side-by-side GitHub-flavored preview | ISC | 2,875 |

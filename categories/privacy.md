@@ -2,7 +2,7 @@
 
 > Protect your data without trusting servers
 
-**Tools:** 11
+**Tools:** 18
 
 [<- Back to Directory](README.md#categories)
 
@@ -21,3 +21,10 @@
 | 9 | [TracePoint](https://kluter.github.io/TracePoint/) | Locate the origin point of photographs using geometric ray intersection — OSINT browser tool | AGPL-3.0 | 7 |
 | 10 | [SSHToolkit](https://sshtoolkit.com) | Complete SSH toolkit in the browser: generate keys, harden servers, configure clients, and build tunnels — 100% client-side | MIT | 9 |
 | 11 | [exifree](https://arnon-shub.github.io/exifree/) | Strip photo metadata (EXIF, location, camera info) losslessly in the browser — zero upload, zero server | MIT | 4 |
+| 12 | [KeeWeb](https://app.keeweb.info) | Browser and desktop password manager compatible with KeePass kdbx files — no server required | NOASSERTION | 12,961 |
+| 13 | [KeeWebX](https://keewebx.app) | Modern web-only KeePass client (KDBX4) that runs by opening an HTML file — no signup, no install | None | 23 |
+| 14 | [LessPass](https://lesspass.com) | Stateless open-source password manager that derives unique passwords from a master password and site — no vault or sync | GPL-3.0 | 6,035 |
+| 15 | [Padloc](https://padloc.io) | Modern, open-source password manager with a browser app and client-side encrypted vault | AGPL-3.0 | 2,921 |
+| 16 | [steg](https://paulmillr.com/apps/steg/) | Simple and secure steganography: encrypt and hide data inside PNG images via Web Crypto, entirely in the browser | MIT | 29 |
+| 17 | [SafeNova](https://safenova.dosx.su) | Encrypted file vault that lives entirely in your browser — no server, no account. AES-256-GCM with Argon2id | MIT | 113 |
+| 18 | [Rature](https://github.com/TerriaConseil/rature) | Document anonymisation app that runs in the browser and processes everything locally. Uses NER models to detect and redact PII | MIT | 7 |
