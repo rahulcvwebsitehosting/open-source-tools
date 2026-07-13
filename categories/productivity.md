@@ -2,7 +2,7 @@
 
 > Get things done without creating accounts
 
-**Tools:** 21
+**Tools:** 23
 
 [<- Back to Directory](README.md#categories)
 
@@ -31,3 +31,5 @@
 | 19 | [WBO (Whitebophir)](https://wbo.ophir.dev/) | Online collaborative whiteboard that is simple, free, and easy to use. Real-time drawing and diagramming with WebRTC peer-to-peer sync | AGPL-3.0 | 2,617 |
 | 20 | [markmap](https://markmap.js.org/repl) | Build mindmaps with plain text. Transform Markdown into interactive mindmaps directly in the browser | MIT | 12,929 |
 | 21 | [my-mind](https://my-mind.net/) | Online mind mapping software — all data stored locally in your browser with no account needed | MIT | 3,366 |
+| 22 | [Linkwarden](https://linkwarden.app) | Open-source collaborative bookmark manager to organize, preserve, and annotate links | AGPL-3.0 | 18,921 |
+| 23 | [Karakeep](https://karakeep.app) | Open-source, self-hostable bookmark and read-it-later app with AI tagging and full-text search | AGPL-3.0 | 27,373 |

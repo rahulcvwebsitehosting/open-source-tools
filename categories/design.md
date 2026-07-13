@@ -2,7 +2,7 @@
 
 > Create visuals right in your browser
 
-**Tools:** 44
+**Tools:** 46
 
 [<- Back to Directory](README.md#categories)
 
@@ -54,3 +54,5 @@
 | 42 | [Color Palette Generator](https://abdulrdeveloper.github.io/Color-Palette-Generator/) | Generate and customize appealing color palettes for designers and developers — entirely in your browser | MIT | 8 |
 | 43 | [Word Aligner](https://aligner.tinygods.dev) | Link words across a translation, then export the diagram | MIT | 4 |
 | 44 | [ColorKit](https://colorskit.vercel.app/) | Feature-rich color picker and analysis tool with gradient maker | MIT | 3 |
+| 45 | [Lorem Picsum](https://picsum.photos) | The Lorem Ipsum for photos - free, stylish placeholder images served instantly, no signup required | MIT | 2,474 |
+| 46 | [Wireflow](https://wireflow.co) | Free open-source online tool for creating user flow diagrams and wireframes collaboratively | MIT | 4,157 |

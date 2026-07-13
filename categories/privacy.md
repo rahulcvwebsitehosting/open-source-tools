@@ -2,7 +2,7 @@
 
 > Protect your data without trusting servers
 
-**Tools:** 19
+**Tools:** 22
 
 [<- Back to Directory](README.md#categories)
 
@@ -29,3 +29,6 @@
 | 17 | [SafeNova](https://safenova.dosx.su) | Encrypted file vault that lives entirely in your browser — no server, no account. AES-256-GCM with Argon2id | MIT | 113 |
 | 18 | [Rature](https://github.com/TerriaConseil/rature) | Document anonymisation app that runs in the browser and processes everything locally. Uses NER models to detect and redact PII | MIT | 7 |
 | 19 | [ShareClean](https://omarh-creator.github.io/ShareClean/#playground) | Sanitize logs, stack traces, config snippets, and terminal output before you paste them into issues, tickets, or AI chats | MIT | 13 |
+| 20 | [PrivateBin](https://privatebin.info) | Minimalist, open-source online pastebin where the server has zero knowledge of pasted data | ? | 8,442 |
+| 21 | [EnvShare](https://envshare.dev) | Share environment variables securely with AES-GCM end-to-end encryption; the key never leaves your browser | MIT | 661 |
+| 22 | [OpenPGP.js](https://openpgpjs.org) | JavaScript implementation of OpenPGP with a browser demo to encrypt, decrypt, and sign messages | LGPL-3.0 | 5,964 |

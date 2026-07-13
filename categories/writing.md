@@ -2,7 +2,7 @@
 
 > Write, edit, and format text
 
-**Tools:** 19
+**Tools:** 23
 
 [<- Back to Directory](README.md#categories)
 
@@ -29,3 +29,7 @@
 | 17 | [Bangle.io](https://bangle.io) | Local-first, in-browser markdown notes workspace (PWA) that stores files on your device | MIT | 674 |
 | 18 | [Markdown Editor](https://jbt.github.io/markdown-editor/) | Classic in-browser live Markdown editor with side-by-side GitHub-flavored preview | ISC | 2,875 |
 | 19 | [Strong Editor](https://strongeditor.com/) | Text editor that highlights poor wording in real-time and helps you write better | GPL-3.0 | 6 |
+| 20 | [HedgeDoc](https://hedgedoc.org) | Collaborative, real-time markdown editor for teams and communities, with no tracking | AGPL-3.0 | 7,297 |
+| 21 | [Etherpad](https://etherpad.org) | Highly customizable open-source online editor providing collaborative real-time editing | Apache-2.0 | 18,439 |
+| 22 | [ONLYOFFICE](https://www.onlyoffice.com) | Open-source office suite for documents, spreadsheets, and presentations you can edit in the browser | AGPL-3.0 | 6,703 |
+| 23 | [TOAST UI Editor](https://ui.toast.com/tui-editor) | GFM markdown and WYSIWYG editor with a live, no-login web demo for rich document editing | MIT | 18,001 |

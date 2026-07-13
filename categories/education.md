@@ -2,7 +2,7 @@
 
 > Learn and study without creating accounts
 
-**Tools:** 21
+**Tools:** 25
 
 [<- Back to Directory](README.md#categories)
 
@@ -31,3 +31,7 @@
 | 19 | [The Missing Manual](https://themissingmanual.dev) | Clear, in-depth guides to everything from how a computer boots up to how the internet, databases, and AI really work | CC-BY-SA-4.0 | - |
 | 20 | [Roadmaps.sh](https://roadmap.sh/) | Interactive roadmaps, guides, and other educational content to help developers grow in their careers | Custom | 359,924 |
 | 21 | [Quizbun](https://a-dev.github.io/quizbun/) | Static, explanation-first quiz catalog for self-learners, with public quizzes, private local imports, and an AI-first quiz format | MIT | 1 |
+| 22 | [GeoGebra](https://www.geogebra.org) | Free graphing, geometry, algebra, and 3D math tool usable instantly in the browser for learning | ? | 2,300 |
+| 23 | [Hedy](https://hedy.org) | Gradual programming language and web editor that teaches kids coding up to Python, no account needed | EUPL-1.2 | 1,600 |
+| 24 | [Blockly](https://blockly.com) | Google's open-source library powering a drag-and-drop visual code editor usable in the browser | Apache-2.0 | 13,500 |
+| 25 | [p5.js](https://editor.p5js.org) | Open-source creative-coding library with an in-browser editor for learning to code art and interaction | LGPL-2.1 | 23,800 |

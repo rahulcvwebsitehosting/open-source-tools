@@ -2,7 +2,7 @@
 
 > Edit and create media in-browser
 
-**Tools:** 28
+**Tools:** 33
 
 [<- Back to Directory](README.md#categories)
 
@@ -38,3 +38,8 @@
 | 26 | [Vileo](https://lukasbach.github.io/vileo/) | Record your screen or webcam and download the video — no uploads, works right in your browser | None | 11 |
 | 27 | [Openvid](https://openvid.dev/en) | Platform designed to transform raw screen recordings into polished, high-quality demonstration videos | NC | 1,502 |
 | 28 | [FreeCut](https://freecut.net) | Professional video editing, zero installation. Create stunning content in your browser | MIT | 1,523 |
+| 29 | [Jitsi Meet](https://meet.jit.si) | Open-source, fully encrypted video conferencing you can use right in your browser with no account | Apache-2.0 | 29,590 |
+| 30 | [BeepBox](https://www.beepbox.co) | Open-source online chiptune music sequencer to compose and share songs in the browser | MIT | 1,148 |
+| 31 | [Basic Pitch](https://basicpitch.spotify.com) | Spotify's open-source web tool that transcribes audio (incl. polyphonic) into MIDI in your browser | Apache-2.0 | 5,284 |
+| 32 | [oTranscribe](https://otranscribe.com) | Free web app that slows down audio and provides a linked text editor for effortless transcription | MIT | 1,211 |
+| 33 | [Tone.js](https://tonejs.github.io) | Open-source Web Audio framework with an interactive browser playground for building synth sounds | MIT | 14,674 |

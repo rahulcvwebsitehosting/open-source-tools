@@ -2,7 +2,7 @@
 
 > Code, query, and build in the browser
 
-**Tools:** 71
+**Tools:** 82
 
 [<- Back to Directory](README.md#categories)
 
@@ -81,3 +81,14 @@
 | 69 | [Openhero](https://openhero.art/) | A collection of cinematic video hero sections — browse, preview, copy, and download production-ready backgrounds instantly | MIT | 311 |
 | 70 | [CodeMap AI](https://code-map-ai-mu.vercel.app/) | Helps developers understand large repositories faster without getting lost figuring out where to start | MIT | 10 |
 | 71 | [Kroki](https://kroki.io/#try) | Diagram rendering service that generates diagrams from text using Mermaid, PlantUML, Graphviz, and more | MIT | 4,200 |
+| 72 | [Mockoon](https://mockoon.com) | Open-source, offline-first API mocking tool to create fake REST APIs in seconds | MIT | 8,330 |
+| 73 | [Compiler Explorer](https://godbolt.org) | Interactive compiler explorer that shows assembly output of many languages in real time, no login required | BSD-2-Clause | 18,895 |
+| 74 | [Rust Playground](https://play.rust-lang.org) | Official in-browser Rust playground to write, compile, and run Rust code with no setup | Apache-2.0 | 1,417 |
+| 75 | [Go Playground](https://go.dev/play) | Official Go Playground for editing and running Go snippets directly in the browser | BSD-3-Clause | 804 |
+| 76 | [Prettier Playground](https://prettier.io/playground) | Try the Prettier code formatter online with live formatting of JS, CSS, HTML, and more | MIT | 52,230 |
+| 77 | [Svelte REPL](https://svelte.dev/repl) | Browser-based REPL for writing and sharing Svelte components without installing anything | MIT | 87,620 |
+| 78 | [Octicons](https://primer.style/octicons) | GitHub's open-source icon set, browsable and copyable directly from the website | MIT | 8,717 |
+| 79 | [Iconify](https://iconify.design) | Unified open-source framework aggregating 100+ icon sets into one searchable browser tool | MIT | 6,218 |
+| 80 | [httpbin](https://httpbin.org) | Simple HTTP request/response service for testing clients, webhooks, and HTTP behavior in-browser | ISC | 13,595 |
+| 81 | [JSONPlaceholder](https://jsonplaceholder.typicode.com) | Free fake REST API for prototyping, testing, and learning front-end data fetching with no auth | MIT | 5,242 |
+| 82 | [Monaco Editor](https://microsoft.github.io/monaco-editor/) | The code editor that powers VS Code, available as a browser playground for editing code | MIT | 46,331 |

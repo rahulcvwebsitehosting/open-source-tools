@@ -2,7 +2,7 @@
 
 > Explore and visualize data locally
 
-**Tools:** 22
+**Tools:** 27
 
 [<- Back to Directory](README.md#categories)
 
@@ -32,3 +32,8 @@
 | 20 | [JupyterLite](https://jupyterlite.readthedocs.io) | Browser-based Jupyter distribution running entirely in the browser via Pyodide/WASM. Analyze data with Python and notebooks, no server or install | BSD-3-Clause | 4,846 |
 | 21 | [SQLiteViz](https://sqliteviz.com) | Instant offline SQL-powered data visualization in your browser. Load SQLite or CSV, run SQL, and render charts — all client-side, no upload | Apache-2.0 | 2,349 |
 | 22 | [JSON Editor](https://jsoneditoronline.org) | Web-based tool to view, edit, format, and validate JSON with tree, code, and text modes, plus schema validation | Apache-2.0 | 12,262 |
+| 23 | [Netron](https://netron.app) | Visualizer for neural network, deep learning, and machine learning models (ONNX, TensorFlow, PyTorch) | MIT | 33,223 |
+| 24 | [Chart.js](https://www.chartjs.org) | Simple yet flexible open-source JavaScript charting library with live browser samples | MIT | 67,571 |
+| 25 | [D3](https://d3js.org) | Powerful JavaScript library for manipulating documents based on data, with interactive browser examples | ISC | 113,208 |
+| 26 | [Apache ECharts](https://echarts.apache.org) | Apache open-source interactive charting and data-visualization library with a live editor | Apache-2.0 | 66,802 |
+| 27 | [Plotly.js](https://plotly.com/javascript/) | Open-source JavaScript graphing library for interactive, publication-quality charts in the browser | MIT | 18,255 |

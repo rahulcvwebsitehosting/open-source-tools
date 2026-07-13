@@ -2,7 +2,7 @@
 
 > Handy one-off tools for everyday tasks
 
-**Tools:** 41
+**Tools:** 42
 
 [<- Back to Directory](README.md#categories)
 
@@ -51,3 +51,4 @@
 | 39 | [E-numbers lookup](https://enumbers.jarvisdiscordbot.net/) | A modern web app for looking up E-number food additives with comprehensive data from Open Food Facts | CC-BY-SA-3.0 | - |
 | 40 | [Ul0](https://ul0.site) | Free URL shortener that creates branded short links with custom domains, QR codes, and click analytics | ? | 1 |
 | 41 | [OwnCardly](https://owncardly.com/) | Digital business cards you actually own — create and share without a third party | MIT | 15 |
+| 42 | [Webhook.site](https://webhook.site) | Generate a temporary URL to inspect and debug HTTP webhooks and requests in real time | ? | 6,661 |
