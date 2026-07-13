@@ -2,7 +2,7 @@
 
 > Write, edit, and format text
 
-**Tools:** 18
+**Tools:** 19
 
 [<- Back to Directory](README.md#categories)
 
@@ -28,3 +28,4 @@
 | 16 | [EditorPilot](https://editorpilot.com/) | AI writing assistant that lives entirely in your browser | ? | 1 |
 | 17 | [Bangle.io](https://bangle.io) | Local-first, in-browser markdown notes workspace (PWA) that stores files on your device | MIT | 674 |
 | 18 | [Markdown Editor](https://jbt.github.io/markdown-editor/) | Classic in-browser live Markdown editor with side-by-side GitHub-flavored preview | ISC | 2,875 |
+| 19 | [Strong Editor](https://strongeditor.com/) | Text editor that highlights poor wording in real-time and helps you write better | GPL-3.0 | 6 |

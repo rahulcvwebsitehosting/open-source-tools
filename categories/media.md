@@ -2,7 +2,7 @@
 
 > Edit and create media in-browser
 
-**Tools:** 26
+**Tools:** 28
 
 [<- Back to Directory](README.md#categories)
 
@@ -36,3 +36,5 @@
 | 24 | [reframe](https://reframe.is) | Free, open-source video editor that runs in your browser — no login, no uploads, no ads | None | 165 |
 | 25 | [Gix](https://gix.vercel.app) | Create, share and remix GIFs online — browser-based GIF composition tool | MIT | 27 |
 | 26 | [Vileo](https://lukasbach.github.io/vileo/) | Record your screen or webcam and download the video — no uploads, works right in your browser | None | 11 |
+| 27 | [Openvid](https://openvid.dev/en) | Platform designed to transform raw screen recordings into polished, high-quality demonstration videos | NC | 1,502 |
+| 28 | [FreeCut](https://freecut.net) | Professional video editing, zero installation. Create stunning content in your browser | MIT | 1,523 |

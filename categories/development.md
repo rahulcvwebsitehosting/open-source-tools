@@ -2,7 +2,7 @@
 
 > Code, query, and build in the browser
 
-**Tools:** 60
+**Tools:** 71
 
 [<- Back to Directory](README.md#categories)
 
@@ -70,3 +70,14 @@
 | 58 | [json-editor](https://json-editor.github.io/json-editor/) | Generate an interactive HTML form from a JSON Schema with validation, built for the browser | MIT | 4,899 |
 | 59 | [OpenAPI-GUI](https://mermade.github.io/openapi-gui/) | Visual GUI editor for creating and editing OpenAPI 3.0 (JSON/YAML) definitions, running in the browser | MIT | 1,489 |
 | 60 | [JSON Diff Kit](https://json-diff-kit.js.org) | A better JSON differ and viewer with LCS diff for arrays, supporting modification recognition beyond simple add/remove | MIT | 211 |
+| 61 | [GitFut](https://gitfut.com/) | Rate any GitHub profile out of 99 with fun stats and insights | MIT | 1,675 |
+| 62 | [CheckMyGit](https://checkmygit.com/) | Transform any GitHub profile into a stunning portfolio in seconds | MIT | 611 |
+| 63 | [BezierMotion](https://tughloks.github.io/BezierMotion/) | A visual cubic-bezier curve editor for crafting custom CSS easing functions | ? | 1 |
+| 64 | [Log Voyager](https://www.logvoyager.cc/) | Analyze huge log files (10GB+). Features JSON prettifier, regex filtering, and bookmarks | MIT | 116 |
+| 65 | [CSV Repair](https://www.csv.repair/) | A free, browser-based tool for analyzing, querying, and repairing broken or oversized CSV files | ? | 8 |
+| 66 | [FaviconAPI](https://faviconapi.com) | Get the highest resolution favicon for any domain or look up a service icon by name | ? | 2 |
+| 67 | [FFmpeg CLI Online](https://ffmpeg.wide.video) | Run ffmpeg directly in your browser with a terminal-like interface | GPL-3.0 | 19 |
+| 68 | [App Store Web Search](https://vexelon.net/asws) | Search the Apple App Store in your browser and view app metadata | MIT | 14 |
+| 69 | [Openhero](https://openhero.art/) | A collection of cinematic video hero sections — browse, preview, copy, and download production-ready backgrounds instantly | MIT | 311 |
+| 70 | [CodeMap AI](https://code-map-ai-mu.vercel.app/) | Helps developers understand large repositories faster without getting lost figuring out where to start | MIT | 10 |
+| 71 | [Kroki](https://kroki.io/#try) | Diagram rendering service that generates diagrams from text using Mermaid, PlantUML, Graphviz, and more | MIT | 4,200 |

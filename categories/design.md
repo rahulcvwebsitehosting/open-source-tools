@@ -2,7 +2,7 @@
 
 > Create visuals right in your browser
 
-**Tools:** 42
+**Tools:** 44
 
 [<- Back to Directory](README.md#categories)
 
@@ -52,3 +52,5 @@
 | 40 | [ditherer](https://ditherer.ygng.jp) | Browser-based image and video dithering, glitch art, pixel sorting, and retro CRT/VHS filters — no install required | MIT | 79 |
 | 41 | [The-One-File](https://gelatinescreams.github.io/The-One-File/) | One file to map networks, mind maps, infrastructure, or smart homes. Animated, encrypted, offline-first — everything in a single HTML file | NOASSERTION | 529 |
 | 42 | [Color Palette Generator](https://abdulrdeveloper.github.io/Color-Palette-Generator/) | Generate and customize appealing color palettes for designers and developers — entirely in your browser | MIT | 8 |
+| 43 | [Word Aligner](https://aligner.tinygods.dev) | Link words across a translation, then export the diagram | MIT | 4 |
+| 44 | [ColorKit](https://colorskit.vercel.app/) | Feature-rich color picker and analysis tool with gradient maker | MIT | 3 |

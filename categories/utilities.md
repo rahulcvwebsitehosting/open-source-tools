@@ -2,7 +2,7 @@
 
 > Handy one-off tools for everyday tasks
 
-**Tools:** 30
+**Tools:** 41
 
 [<- Back to Directory](README.md#categories)
 
@@ -40,3 +40,14 @@
 | 28 | [PDFSlice](https://pdfslice.vercel.app) | Client-side PDF editor toolkit — merge, split, annotate PDFs locally in your browser with no uploads | MIT | 185 |
 | 29 | [Extract2MD](https://hashangit.github.io/Extract2MD/) | Extract text from PDFs and convert to Markdown using AI — all client-side in your browser | MIT | 109 |
 | 30 | [PDF Tools](https://pdf-tools-cv.vercel.app/) | 100+ browser-based utilities for PDF, images, text, development, calculations, and more. Everything runs locally — files never leave your device | MIT | - |
+| 31 | [Giraffile](https://giraffile.pages.dev/) | Share files quickly and securely without relying on cloud servers | MIT | 74 |
+| 32 | [OpenReader](https://openreader.richardr.dev/app) | Text-to-speech document reader for EPUB, PDF, TXT, MD, and DOCX with multilingual synchronized read-along playback | MIT | 460 |
+| 33 | [Readest](https://web.readest.com/) | Ebook reader designed for immersive and deep reading experiences | AGPL-3.0 | 22,127 |
+| 34 | [qTransfer](https://transfer-cv5.pages.dev/) | Easily connects two browsers to transfer files peer-to-peer | ? | - |
+| 35 | [Daggerheart GM Screen](https://jutier.github.io/Daggerheart/) | A game master screen for the Daggerheart tabletop role-playing game | ? | 8 |
+| 36 | [Relay](https://relay.rishishah.in) | WebRTC peer-to-peer file transfer between browsers | MIT | 4 |
+| 37 | [e2ecp](https://e2ecp.com) | Transfer files between machines through the web, a CLI, or both — fully end-to-end encrypted | MIT | 501 |
+| 38 | [Open-RazerKit](https://hamzayslmn.github.io/open-razerkit/) | Control your Razer device's RGB, effects, and settings from the browser | Custom | 14 |
+| 39 | [E-numbers lookup](https://enumbers.jarvisdiscordbot.net/) | A modern web app for looking up E-number food additives with comprehensive data from Open Food Facts | CC-BY-SA-3.0 | - |
+| 40 | [Ul0](https://ul0.site) | Free URL shortener that creates branded short links with custom domains, QR codes, and click analytics | ? | 1 |
+| 41 | [OwnCardly](https://owncardly.com/) | Digital business cards you actually own — create and share without a third party | MIT | 15 |

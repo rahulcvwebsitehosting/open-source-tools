@@ -2,7 +2,7 @@
 
 > Learn and study without creating accounts
 
-**Tools:** 18
+**Tools:** 21
 
 [<- Back to Directory](README.md#categories)
 
@@ -28,3 +28,6 @@
 | 16 | [Golangcodes](https://golang.codes) | Learn Go interactively — 24+ lessons, built-in code editor, live execution, and gamified progress tracking. Free and open-source | MIT | 73 |
 | 17 | [langshift.dev](https://langshift.dev) | Programming language learning platform for developers. Master new languages through comparison learning with an interactive editor | None | 1,101 |
 | 18 | [ScienceLab 3D](https://sciencelab-two.vercel.app) | Interactive STEM education platform with 40+ virtual experiments in physics, chemistry, and biology. Learn science by doing, right in your browser | MIT | 11 |
+| 19 | [The Missing Manual](https://themissingmanual.dev) | Clear, in-depth guides to everything from how a computer boots up to how the internet, databases, and AI really work | CC-BY-SA-4.0 | - |
+| 20 | [Roadmaps.sh](https://roadmap.sh/) | Interactive roadmaps, guides, and other educational content to help developers grow in their careers | Custom | 359,924 |
+| 21 | [Quizbun](https://a-dev.github.io/quizbun/) | Static, explanation-first quiz catalog for self-learners, with public quizzes, private local imports, and an AI-first quiz format | MIT | 1 |

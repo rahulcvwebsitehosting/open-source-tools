@@ -2,7 +2,7 @@
 
 > Protect your data without trusting servers
 
-**Tools:** 18
+**Tools:** 19
 
 [<- Back to Directory](README.md#categories)
 
@@ -28,3 +28,4 @@
 | 16 | [steg](https://paulmillr.com/apps/steg/) | Simple and secure steganography: encrypt and hide data inside PNG images via Web Crypto, entirely in the browser | MIT | 29 |
 | 17 | [SafeNova](https://safenova.dosx.su) | Encrypted file vault that lives entirely in your browser — no server, no account. AES-256-GCM with Argon2id | MIT | 113 |
 | 18 | [Rature](https://github.com/TerriaConseil/rature) | Document anonymisation app that runs in the browser and processes everything locally. Uses NER models to detect and redact PII | MIT | 7 |
+| 19 | [ShareClean](https://omarh-creator.github.io/ShareClean/#playground) | Sanitize logs, stack traces, config snippets, and terminal output before you paste them into issues, tickets, or AI chats | MIT | 13 |
