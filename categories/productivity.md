@@ -2,7 +2,7 @@
 
 > Get things done without creating accounts
 
-**Tools:** 23
+**Tools:** 28
 
 [<- Back to Directory](README.md#categories)
 
@@ -33,3 +33,8 @@
 | 21 | [my-mind](https://my-mind.net/) | Online mind mapping software — all data stored locally in your browser with no account needed | MIT | 3,366 |
 | 22 | [Linkwarden](https://linkwarden.app) | Open-source collaborative bookmark manager to organize, preserve, and annotate links | AGPL-3.0 | 18,921 |
 | 23 | [Karakeep](https://karakeep.app) | Open-source, self-hostable bookmark and read-it-later app with AI tagging and full-text search | AGPL-3.0 | 27,373 |
+| 24 | [NeumanOS](https://os.neuman.dev) | All-in-one privacy-first personal OS — calendar, notes, kanban, spreadsheets, AI terminal, 30+ widgets, all data in IndexedDB, no account | MIT | 1 |
+| 25 | [bytepad](https://samitugal.github.io/bytepad/) | Keyboard-first productivity companion — notes, tasks, habits, journal, bookmarks, knowledge graph, MCP server for AI assistants, all local | ? | 60 |
+| 26 | [GSD Task Manager](https://vscarpenter.github.io/gsd-task-manager/) | Eisenhower Matrix task manager — visual urgency/importance quadrants, PWA, offline-first, optional PocketBase sync, MCP server for AI | MIT | 18 |
+| 27 | [Kanvana](https://kanvana.com) | Local-first personal Kanban board with swim lanes, card relations, sub-tasks — pure HTML/CSS/JS, no frameworks, data in IndexedDB | ? | 10 |
+| 28 | [Kandoo](https://greenshogarage.github.io/Kandoo/) | Single-file HTML Kanban board with sticky-note aesthetic — subtasks, people tracking, cost tracking, printable, works offline | GPL-3.0 | - |

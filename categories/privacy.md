@@ -2,7 +2,7 @@
 
 > Protect your data without trusting servers
 
-**Tools:** 22
+**Tools:** 25
 
 [<- Back to Directory](README.md#categories)
 
@@ -32,3 +32,6 @@
 | 20 | [PrivateBin](https://privatebin.info) | Minimalist, open-source online pastebin where the server has zero knowledge of pasted data | ? | 8,442 |
 | 21 | [EnvShare](https://envshare.dev) | Share environment variables securely with AES-GCM end-to-end encryption; the key never leaves your browser | MIT | 661 |
 | 22 | [OpenPGP.js](https://openpgpjs.org) | JavaScript implementation of OpenPGP with a browser demo to encrypt, decrypt, and sign messages | LGPL-3.0 | 5,964 |
+| 23 | [Tijori](https://naklitechie.github.io/Tijori/) | Browser-native password vault in a single HTML file — vault in a folder (File System Access API) or OPFS, animated QR sync, no server | ? | 1 |
+| 24 | [offline-vault](https://sapthesh.github.io/offline-vault/) | Radically secure offline password manager — Argon2id + AES-256-GCM, rich theming, PWA, zero telemetry, runs from index.html | MIT | 1 |
+| 25 | [HashPass](https://evanparden.github.io/HashPass/) | Secure local password manager in a single HTML file — AES-GCM encryption via Web Crypto, no servers, no cloud, cross-platform | ? | 1 |

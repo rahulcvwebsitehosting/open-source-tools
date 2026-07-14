@@ -2,7 +2,7 @@
 
 > Handy one-off tools for everyday tasks
 
-**Tools:** 42
+**Tools:** 47
 
 [<- Back to Directory](README.md#categories)
 
@@ -52,3 +52,8 @@
 | 40 | [Ul0](https://ul0.site) | Free URL shortener that creates branded short links with custom domains, QR codes, and click analytics | ? | 1 |
 | 41 | [OwnCardly](https://owncardly.com/) | Digital business cards you actually own — create and share without a third party | MIT | 15 |
 | 42 | [Webhook.site](https://webhook.site) | Generate a temporary URL to inspect and debug HTTP webhooks and requests in real time | ? | 6,661 |
+| 43 | [freePDF](https://freepdf-e5m.pages.dev) | The actually free PDF editor — edit, sign, annotate, merge & split PDFs 100% client-side with no watermark, no signup, no uploads | MIT | - |
+| 44 | [PDFZero](https://pdfzero-editor.vercel.app) | Free, open-source PDF editor that runs entirely in your browser — no uploads, no limits, no sign-ups, with text editing, OCR, and e-sign | ? | 3 |
+| 45 | [LocalPDF](https://jacksnotes.github.io/LocalPDF/) | Privacy-first client-side PDF toolkit for editing, merging, creating fillable forms, and processing PDFs entirely in the browser | AGPL-3.0 | - |
+| 46 | [NoUploads](https://nouploads.com) | 100% client-side file tools (PDF, images, audio, video, docs, archives, 3D, fonts) — WebAssembly processing, zero uploads, works offline | ? | 5 |
+| 47 | [pdf-kit](https://ou0-cc.github.io/pdf-kit/) | Free open-source PDF toolkit — merge, split, annotate, encrypt, page numbers, PDF↔JPG, all client-side via WebAssembly, no watermarks | MIT | - |

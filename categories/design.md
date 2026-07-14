@@ -2,7 +2,7 @@
 
 > Create visuals right in your browser
 
-**Tools:** 46
+**Tools:** 53
 
 [<- Back to Directory](README.md#categories)
 
@@ -56,3 +56,10 @@
 | 44 | [ColorKit](https://colorskit.vercel.app/) | Feature-rich color picker and analysis tool with gradient maker | MIT | 3 |
 | 45 | [Lorem Picsum](https://picsum.photos) | The Lorem Ipsum for photos - free, stylish placeholder images served instantly, no signup required | MIT | 2,474 |
 | 46 | [Wireflow](https://wireflow.co) | Free open-source online tool for creating user flow diagrams and wireframes collaboratively | MIT | 4,157 |
+| 47 | [Openshop](https://sysadmindoc.github.io/Openshop/) | Single-file browser-based image editor with layers, AI tools, pixel-level selections, filters, PSD import/export — no server, no signup | MIT | 3 |
+| 48 | [OpenFocus](https://hattyhats.github.io/Open-Focus/) | Friendly open-source photo editor built for the modern web — drag, paste, or click to edit photos entirely in your browser | GPL-3.0 | - |
+| 49 | [Huesnatch](https://huesnatch.com) | Suite of 6+ professional color tools (palette extraction, generator, blind simulator, gradient builder) — 100% client-side, no login | MIT | 18 |
+| 50 | [ColorForge](https://nobodydebunny.github.io/ColorForge/) | Material Theme Builder for the web — pick a primary color, get a complete UI color system exported as CSS, JSON, Tailwind, or Android XML | GPL-3.0 | - |
+| 51 | [OpenPalette](https://sparshsam.github.io/openpalette/) | Local-first color platform for designers & developers — generate palettes, edit channels, extract from images, validate WCAG, export design tokens | MIT | 1 |
+| 52 | [Gen8x](https://theluckystrike.github.io/gen8x.com/) | Free color palette generator with 4 harmony modes, WCAG AA/AAA contrast checks, live UI mockup preview, and exports for CSS/Tailwind/SCSS/JSON | ? | - |
+| 53 | [Color Palette Generator](https://karan-gera.github.io/color-palette/) | Color theory palette generator — complementary/analogous/triadic harmonies, lock colors, WCAG contrast, color-blind sims, 6 export formats | ? | - |

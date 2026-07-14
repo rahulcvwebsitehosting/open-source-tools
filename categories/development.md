@@ -2,7 +2,7 @@
 
 > Code, query, and build in the browser
 
-**Tools:** 82
+**Tools:** 81
 
 [<- Back to Directory](README.md#categories)
 
@@ -66,29 +66,28 @@
 | 54 | [git-history](https://githistory.xyz) | Quickly browse the history of any file from any GitHub repository via an interactive web timeline | MIT | 13,687 |
 | 55 | [Swagger Editor](https://editor.swagger.io) | Browser editor for designing and validating OpenAPI/Swagger specifications with live preview | None | 9,456 |
 | 56 | [LiveCodes](https://livecodes.io) | Client-side code playground supporting 90+ languages and frameworks, running entirely in the browser | MIT | 1,464 |
-| 57 | [OmniTools](https://omnitools.app) | Collection of powerful client-side web tools for everyday tasks — image, PDF, JSON, text, and more. No ads, no tracking | MIT | 9,824 |
-| 58 | [json-editor](https://json-editor.github.io/json-editor/) | Generate an interactive HTML form from a JSON Schema with validation, built for the browser | MIT | 4,899 |
-| 59 | [OpenAPI-GUI](https://mermade.github.io/openapi-gui/) | Visual GUI editor for creating and editing OpenAPI 3.0 (JSON/YAML) definitions, running in the browser | MIT | 1,489 |
-| 60 | [JSON Diff Kit](https://json-diff-kit.js.org) | A better JSON differ and viewer with LCS diff for arrays, supporting modification recognition beyond simple add/remove | MIT | 211 |
-| 61 | [GitFut](https://gitfut.com/) | Rate any GitHub profile out of 99 with fun stats and insights | MIT | 1,675 |
-| 62 | [CheckMyGit](https://checkmygit.com/) | Transform any GitHub profile into a stunning portfolio in seconds | MIT | 611 |
-| 63 | [BezierMotion](https://tughloks.github.io/BezierMotion/) | A visual cubic-bezier curve editor for crafting custom CSS easing functions | ? | 1 |
-| 64 | [Log Voyager](https://www.logvoyager.cc/) | Analyze huge log files (10GB+). Features JSON prettifier, regex filtering, and bookmarks | MIT | 116 |
-| 65 | [CSV Repair](https://www.csv.repair/) | A free, browser-based tool for analyzing, querying, and repairing broken or oversized CSV files | ? | 8 |
-| 66 | [FaviconAPI](https://faviconapi.com) | Get the highest resolution favicon for any domain or look up a service icon by name | ? | 2 |
-| 67 | [FFmpeg CLI Online](https://ffmpeg.wide.video) | Run ffmpeg directly in your browser with a terminal-like interface | GPL-3.0 | 19 |
-| 68 | [App Store Web Search](https://vexelon.net/asws) | Search the Apple App Store in your browser and view app metadata | MIT | 14 |
-| 69 | [Openhero](https://openhero.art/) | A collection of cinematic video hero sections — browse, preview, copy, and download production-ready backgrounds instantly | MIT | 311 |
-| 70 | [CodeMap AI](https://code-map-ai-mu.vercel.app/) | Helps developers understand large repositories faster without getting lost figuring out where to start | MIT | 10 |
-| 71 | [Kroki](https://kroki.io/#try) | Diagram rendering service that generates diagrams from text using Mermaid, PlantUML, Graphviz, and more | MIT | 4,200 |
-| 72 | [Mockoon](https://mockoon.com) | Open-source, offline-first API mocking tool to create fake REST APIs in seconds | MIT | 8,330 |
-| 73 | [Compiler Explorer](https://godbolt.org) | Interactive compiler explorer that shows assembly output of many languages in real time, no login required | BSD-2-Clause | 18,895 |
-| 74 | [Rust Playground](https://play.rust-lang.org) | Official in-browser Rust playground to write, compile, and run Rust code with no setup | Apache-2.0 | 1,417 |
-| 75 | [Go Playground](https://go.dev/play) | Official Go Playground for editing and running Go snippets directly in the browser | BSD-3-Clause | 804 |
-| 76 | [Prettier Playground](https://prettier.io/playground) | Try the Prettier code formatter online with live formatting of JS, CSS, HTML, and more | MIT | 52,230 |
-| 77 | [Svelte REPL](https://svelte.dev/repl) | Browser-based REPL for writing and sharing Svelte components without installing anything | MIT | 87,620 |
-| 78 | [Octicons](https://primer.style/octicons) | GitHub's open-source icon set, browsable and copyable directly from the website | MIT | 8,717 |
-| 79 | [Iconify](https://iconify.design) | Unified open-source framework aggregating 100+ icon sets into one searchable browser tool | MIT | 6,218 |
-| 80 | [httpbin](https://httpbin.org) | Simple HTTP request/response service for testing clients, webhooks, and HTTP behavior in-browser | ISC | 13,595 |
-| 81 | [JSONPlaceholder](https://jsonplaceholder.typicode.com) | Free fake REST API for prototyping, testing, and learning front-end data fetching with no auth | MIT | 5,242 |
-| 82 | [Monaco Editor](https://microsoft.github.io/monaco-editor/) | The code editor that powers VS Code, available as a browser playground for editing code | MIT | 46,331 |
+| 57 | [json-editor](https://json-editor.github.io/json-editor/) | Generate an interactive HTML form from a JSON Schema with validation, built for the browser | MIT | 4,899 |
+| 58 | [JSON Diff Kit](https://json-diff-kit.js.org) | A better JSON differ and viewer with LCS diff for arrays, supporting modification recognition beyond simple add/remove | MIT | 211 |
+| 59 | [GitFut](https://gitfut.com/) | Rate any GitHub profile out of 99 with fun stats and insights | MIT | 1,675 |
+| 60 | [CheckMyGit](https://checkmygit.com/) | Transform any GitHub profile into a stunning portfolio in seconds | MIT | 611 |
+| 61 | [BezierMotion](https://tughloks.github.io/BezierMotion/) | A visual cubic-bezier curve editor for crafting custom CSS easing functions | ? | 1 |
+| 62 | [Log Voyager](https://www.logvoyager.cc/) | Analyze huge log files (10GB+). Features JSON prettifier, regex filtering, and bookmarks | MIT | 116 |
+| 63 | [CSV Repair](https://www.csv.repair/) | A free, browser-based tool for analyzing, querying, and repairing broken or oversized CSV files | ? | 8 |
+| 64 | [FaviconAPI](https://faviconapi.com) | Get the highest resolution favicon for any domain or look up a service icon by name | ? | 2 |
+| 65 | [FFmpeg CLI Online](https://ffmpeg.wide.video) | Run ffmpeg directly in your browser with a terminal-like interface | GPL-3.0 | 19 |
+| 66 | [App Store Web Search](https://vexelon.net/asws) | Search the Apple App Store in your browser and view app metadata | MIT | 14 |
+| 67 | [Openhero](https://openhero.art/) | A collection of cinematic video hero sections — browse, preview, copy, and download production-ready backgrounds instantly | MIT | 311 |
+| 68 | [CodeMap AI](https://code-map-ai-mu.vercel.app/) | Helps developers understand large repositories faster without getting lost figuring out where to start | MIT | 10 |
+| 69 | [Kroki](https://kroki.io/#try) | Diagram rendering service that generates diagrams from text using Mermaid, PlantUML, Graphviz, and more | MIT | 4,200 |
+| 70 | [Mockoon](https://mockoon.com) | Open-source, offline-first API mocking tool to create fake REST APIs in seconds | MIT | 8,330 |
+| 71 | [Compiler Explorer](https://godbolt.org) | Interactive compiler explorer that shows assembly output of many languages in real time, no login required | BSD-2-Clause | 18,895 |
+| 72 | [Rust Playground](https://play.rust-lang.org) | Official in-browser Rust playground to write, compile, and run Rust code with no setup | Apache-2.0 | 1,417 |
+| 73 | [Go Playground](https://go.dev/play) | Official Go Playground for editing and running Go snippets directly in the browser | BSD-3-Clause | 804 |
+| 74 | [Prettier Playground](https://prettier.io/playground) | Try the Prettier code formatter online with live formatting of JS, CSS, HTML, and more | MIT | 52,230 |
+| 75 | [Svelte REPL](https://svelte.dev/repl) | Browser-based REPL for writing and sharing Svelte components without installing anything | MIT | 87,620 |
+| 76 | [Octicons](https://primer.style/octicons) | GitHub's open-source icon set, browsable and copyable directly from the website | MIT | 8,717 |
+| 77 | [Iconify](https://iconify.design) | Unified open-source framework aggregating 100+ icon sets into one searchable browser tool | MIT | 6,218 |
+| 78 | [httpbin](https://httpbin.org) | Simple HTTP request/response service for testing clients, webhooks, and HTTP behavior in-browser | ISC | 13,595 |
+| 79 | [JSONPlaceholder](https://jsonplaceholder.typicode.com) | Free fake REST API for prototyping, testing, and learning front-end data fetching with no auth | MIT | 5,242 |
+| 80 | [Monaco Editor](https://microsoft.github.io/monaco-editor/) | The code editor that powers VS Code, available as a browser playground for editing code | MIT | 46,331 |
+| 81 | [LLMKit](https://fefefrost5.github.io/llmkit/) | 8 browser-based LLM dev tools — token counter (GPT-4o, Claude, Gemini), model picker, context window visualizer, API cost calculator, offline-capable | MIT | - |

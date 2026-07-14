@@ -2,7 +2,7 @@
 
 > Explore and visualize data locally
 
-**Tools:** 27
+**Tools:** 29
 
 [<- Back to Directory](README.md#categories)
 
@@ -37,3 +37,5 @@
 | 25 | [D3](https://d3js.org) | Powerful JavaScript library for manipulating documents based on data, with interactive browser examples | ISC | 113,208 |
 | 26 | [Apache ECharts](https://echarts.apache.org) | Apache open-source interactive charting and data-visualization library with a live editor | Apache-2.0 | 66,802 |
 | 27 | [Plotly.js](https://plotly.com/javascript/) | Open-source JavaScript graphing library for interactive, publication-quality charts in the browser | MIT | 18,255 |
+| 28 | [JSON Explorer Pro](https://mightora.github.io/json-explorer/) | Ultimate browser-based JSON workspace — explore, diff, transform, visualize with charts, lazy rendering for large files, session restore | ? | - |
+| 29 | [JSON Lens](https://json.heetvakharia.in) | Local-first JSON workspace — inspect, transform, compare, JSONPath/jq queries, recursive auto-parsing, installable as Chrome/Edge extension | ? | - |

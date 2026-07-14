@@ -2,7 +2,7 @@
 
 > Write, edit, and format text
 
-**Tools:** 23
+**Tools:** 27
 
 [<- Back to Directory](README.md#categories)
 
@@ -33,3 +33,7 @@
 | 21 | [Etherpad](https://etherpad.org) | Highly customizable open-source online editor providing collaborative real-time editing | Apache-2.0 | 18,439 |
 | 22 | [ONLYOFFICE](https://www.onlyoffice.com) | Open-source office suite for documents, spreadsheets, and presentations you can edit in the browser | AGPL-3.0 | 6,703 |
 | 23 | [TOAST UI Editor](https://ui.toast.com/tui-editor) | GFM markdown and WYSIWYG editor with a live, no-login web demo for rich document editing | MIT | 18,001 |
+| 24 | [mdsh](https://thomascrouzet.github.io/mdsh/) | Local-first WYSIWYG Markdown editor — offline PWA, link graph, presentation mode, version history, encrypted backups, zero telemetry | MIT | - |
+| 25 | [SvelteMark](https://masfana.github.io/sveltemark/) | Privacy-first Markdown editor built with Svelte 5 — notes in IndexedDB, full PWA support, zero tracking, no accounts, no cloud | MIT | 73 |
+| 26 | [Opal](https://opaledx.com) | Git-enabled local-first Markdown workspace — WYSIWYG + raw editing, OPFS storage, one-click publish to Netlify/Vercel/GitHub Pages | MIT | 88 |
+| 27 | [Writepad](https://writepad.org) | URL-first block editor — entire document lives in the link hash, no server, no account, copy URL to share/save/sync | MIT | 2 |
